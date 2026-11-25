@@ -40,7 +40,25 @@ speechSynthesis.resume();
     speechSynthesis.speak(voice);
 }
 
+async function searchInternet(query) {
+    const url = "https://de.wikipedia.org/w/api.php"
+        + "?action=query&list=search"
+        + "&format=json&origin=*"
+        + "&srlimit=5&srsearch="
+        + encodeURIComponent(query);
 
+    const result = await fetch(url);
+    if (!result.ok) {
+        throw new Error("Suche fehlgeschlagen");
+    }
+
+    const data = await result.json();
+
+    return data.query.search.map(item =>
+        item.title + ": " +
+        item.snippet.replace(/<[^>]*>/g, "")
+    ).join("\n");
+}
 async function askAI(text) {
     if (busy) return;
 
@@ -58,7 +76,14 @@ async function askAI(text) {
     response.textContent = "Analysiere Anfrage...";
 
     try {
-        const result = await fetch(
+       let webInfo = "";
+
+try {
+    webInfo = await searchInternet(text);
+} catch (error) {
+    webInfo = "Keine Suchergebnisse verfügbar.";
+} 
+const result = await fetch(
             "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
             {
                 method: "POST",
@@ -69,7 +94,7 @@ async function askAI(text) {
                 body: JSON.stringify({
                     contents: [{
                         parts: [{
-                            text: "Du bist JARVIS. Antworte auf Deutsch, professionell und präzise. Sprich mich mit Sir an. " + text
+                            text: "Du bist JARVIS. Antworte auf Deutsch, professionell und präzise. Sprich deinen Benutzer mit Sir an. Nutze die Suchergebnisse als Informationsquelle, sofern sie relevant sind. Erfinde keine aktuellen Informationen.\n\nSuchergebnisse:\n" + webInfo + "\n\nFrage: " + text
                         }]
                     }]
                 })
