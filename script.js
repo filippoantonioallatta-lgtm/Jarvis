@@ -29,7 +29,7 @@ function speak(text) {
     voice.rate = 0.95;
     voice.pitch = 0.8;
     speechSynthesis.cancel();
-
+speechSynthesis.resume();
     status.textContent = "SYSTEM SPEAKING";
 
     voice.onend = () => {
