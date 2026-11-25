@@ -82,7 +82,7 @@ if (/internet|recherchier|aktuell|nachrichten|google|suche nach/i.test(text)) {
         const data = await result.json();
 
         if (!result.ok) {
-            throw new Error(data.error?.message || "API-Fehler");
+            throw new Error(JSON.stringify(data.error));
         }
 
         const candidate = data.candidates?.[0];
