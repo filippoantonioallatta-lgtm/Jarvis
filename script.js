@@ -87,7 +87,7 @@ if (!apiKey) {
                     "Authorization": "Bearer " + apiKey
                 },
                 body: JSON.stringify({
-                    model: "openai/gpt-5.4-nano",
+                    model: "community/pollinations-ai/floret",
                     messages: [
                         ...history,
                         {
