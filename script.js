@@ -74,7 +74,7 @@ if (/internet|recherchier|aktuell|nachrichten|google|suche nach/i.test(text)) {
                             text: "Antworte auf Deutsch, sprich mich mit Sir an, recherchiere im Internet und nenne Quellen: " + text
                         }]
                     }],
-                    tools: [{ google_search: {} }]
+                    tools: []
                 })
             }
         );
