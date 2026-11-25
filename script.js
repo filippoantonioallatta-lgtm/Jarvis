@@ -67,7 +67,7 @@ async function askAI(text) {
                     "x-goog-api-key": geminiKey
                 },
                 body: JSON.stringify({
-                    tools: [{ google_search: {} }],
+                    // tools: [{ google_search: {} }],
                     contents: [{
                         parts: [{
                             text: "Du bist JARVIS. Antworte auf Deutsch, professionell und präzise. Sprich mich mit Sir an. " + text
