@@ -218,3 +218,4 @@ mic.addEventListener("click", () => {
     } catch (error) {
         status.textContent = "MICROPHONE ERROR";
     }
+});
