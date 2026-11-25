@@ -50,7 +50,11 @@ if (!apiKey) {
     apiKey = (prompt("Bitte Pollinations API-Schlüssel eingeben:") || "").trim();
 
     if (apiKey) {
-        localStorage.setItem("jarvis_api_key", apiKey);
+        try {
+    localStorage.setItem("jarvis_api_key", apiKey);
+} catch (error) {
+    console.warn("Speicherung nicht möglich");
+}
     }
 }
     
