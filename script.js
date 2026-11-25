@@ -41,13 +41,20 @@ speechSynthesis.resume();
 }
 
 async function searchInternet(query) {
+    const keywords = query
+        .replace(/\b(jarvis|bitte|suche|such|mir|nach|im|internet|auf|wikipedia|was|ist|sind|wer|wie|wo|finde|erzähle|über|etwas|kannst|du|erkläre)\b/gi, " ")
+        .replace(/[?!.,]/g, "")
+        .replace(/\s+/g, " ")
+        .trim() || query;
+
     const url = "https://de.wikipedia.org/w/api.php"
         + "?action=query&list=search"
         + "&format=json&origin=*"
         + "&srlimit=5&srsearch="
-        + encodeURIComponent(query);
+        + encodeURIComponent(keywords);
 
     const result = await fetch(url);
+
     if (!result.ok) {
         throw new Error("Suche fehlgeschlagen");
     }
@@ -56,8 +63,10 @@ async function searchInternet(query) {
 
     return data.query.search.map(item =>
         item.title + ": " +
-        item.snippet.replace(/<[^>]*>/g, "")
-    ).join("\n");
+        item.snippet.replace(/<[^>]*>/g, "") +
+        "\nQuelle: https://de.wikipedia.org/?curid=" +
+        item.pageid
+    ).join("\n\n") || "Keine Suchergebnisse verfügbar.";
 }
 async function askAI(text) {
     if (busy) return;
