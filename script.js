@@ -5,7 +5,7 @@ const command = document.getElementById("command");
 const mic = document.getElementById("mic");
 const send = document.getElementById("send");
 
-let apiKey = "";
+let apiKey = localStorage.getItem("jarvis_api_key") || "";
 let busy = false;
 
 const history = [
@@ -40,9 +40,14 @@ function speak(text) {
 
 async function askAI(text) {
 
-    if (!apiKey) {
-        apiKey = (prompt("Bitte Pollinations API-Schlüssel eingeben:") || "").trim();
+if (!apiKey) {
+    apiKey = (prompt("Bitte Pollinations API-Schlüssel eingeben:") || "").trim();
+
+    if (apiKey) {
+        localStorage.setItem("jarvis_api_key", apiKey);
     }
+}
+    
 
     if (!apiKey) {
         speak("Kein API-Schlüssel vorhanden.");
