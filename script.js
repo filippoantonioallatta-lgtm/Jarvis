@@ -7,7 +7,7 @@ const send = document.getElementById("send");
 let apiKey = "";
 
 try {
-    apiKey = localStorage.getItem("jarvis_api_key") || "";
+apiKey = localStorage.getItem("jarvis_api_key") || "";
 } catch (error) {
     console.warn("Speicher nicht verfügbar");
 }
@@ -51,7 +51,7 @@ if (/internet|recherchier|aktuell|nachrichten|google|suche nach/i.test(text)) {
 
     if (busy) return;
 
-    const geminiKey = prompt("Google Gemini API-Schlüssel eingeben:");
+    const geminiKey = prompt("Google Gemini API-Schlüssel eingeben:")?.trim();
 
     if (!geminiKey) return;
 
