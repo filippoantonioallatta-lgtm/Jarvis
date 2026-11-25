@@ -1,4 +1,3 @@
-
 const status = document.getElementById("status");
 const response = document.getElementById("response");
 const command = document.getElementById("command");
@@ -48,7 +47,62 @@ speechSynthesis.resume();
 }
 
 async function askAI(text) {
+if (/internet|recherchier|aktuell|nachrichten|google|suche nach/i.test(text)) {
 
+    if (busy) return;
+
+    const geminiKey = prompt("Google Gemini API-Schlüssel eingeben:");
+
+    if (!geminiKey) return;
+
+    busy = true;
+    status.textContent = "SYSTEM SEARCHING";
+    response.textContent = "Durchsuche das Internet...";
+
+    try {
+        const result = await fetch(
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent",
+            {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "x-goog-api-key": geminiKey.trim()
+                },
+                body: JSON.stringify({
+                    contents: [{
+                        parts: [{
+                            text: "Antworte auf Deutsch, sprich mich mit Sir an, recherchiere im Internet und nenne Quellen: " + text
+                        }]
+                    }],
+                    tools: [{ google_search: {} }]
+                })
+            }
+        );
+
+        const data = await result.json();
+
+        if (!result.ok) {
+            throw new Error(data.error?.message || "API-Fehler");
+        }
+
+        const candidate = data.candidates?.[0];
+        const answer = candidate?.content?.parts
+            ?.map(p => p.text || "").join("");
+
+        if (!candidate?.groundingMetadata?.groundingChunks?.length) {
+            speak("Sir, die Internetrecherche konnte nicht bestätigt werden.");
+        } else {
+            speak(answer || "Keine Antwort erhalten.");
+        }
+
+    } catch (error) {
+        speak("Internetrecherche fehlgeschlagen: " + error.message);
+    } finally {
+        busy = false;
+    }
+
+    return;
+}
 if (!apiKey) {
     apiKey = (prompt("Bitte Pollinations API-Schlüssel eingeben:") || "").trim();
 
