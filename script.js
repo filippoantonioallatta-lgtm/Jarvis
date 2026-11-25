@@ -157,6 +157,7 @@ if (!apiKey) {
 
         if (result.status === 401) {
             apiKey = "";
+localStorage.removeItem("jarvis_api_key");
             speak("Der API-Schlüssel ist ungültig.");
             return;
         }
