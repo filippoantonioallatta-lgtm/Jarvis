@@ -5,7 +5,13 @@ const command = document.getElementById("command");
 const mic = document.getElementById("mic");
 const send = document.getElementById("send");
 
-let apiKey = localStorage.getItem("jarvis_api_key") || "";
+let apiKey = "";
+
+try {
+    apiKey = localStorage.getItem("jarvis_api_key") || "";
+} catch (error) {
+    console.warn("Speicher nicht verfügbar");
+}
 let busy = false;
 
 const history = [
