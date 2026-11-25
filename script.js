@@ -28,8 +28,6 @@ function speak(text) {
     voice.lang = "de-DE";
     voice.rate = 0.95;
     voice.pitch = 0.8;
-
-}
     speechSynthesis.cancel();
 
     status.textContent = "SYSTEM SPEAKING";
