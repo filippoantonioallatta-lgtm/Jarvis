@@ -28,6 +28,10 @@ function speak(text) {
     voice.lang = "de-DE";
     voice.rate = 0.95;
     voice.pitch = 0.8;
+    const markus = speechSynthesis.getVoices().find(v => v.name.includes("Markus"));
+if (markus) {
+    voice.voice = markus;
+}
     speechSynthesis.cancel();
 speechSynthesis.resume();
     status.textContent = "SYSTEM SPEAKING";
