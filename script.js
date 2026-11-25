@@ -51,7 +51,15 @@ if (/internet|recherchier|aktuell|nachrichten|google|suche nach/i.test(text)) {
 
     if (busy) return;
 
-    const geminiKey = prompt("Google Gemini API-Schlüssel eingeben:")?.trim();
+    let geminiKey = localStorage.getItem("jarvis_gemini_key");
+
+if (!geminiKey) {
+    geminiKey = prompt("Google Gemini API-Schlüssel eingeben:")?.trim();
+
+    if (geminiKey) {
+        localStorage.setItem("jarvis_gemini_key", geminiKey);
+    }
+}
 
     if (!geminiKey) return;
 
