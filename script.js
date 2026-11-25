@@ -4,13 +4,7 @@ const command = document.getElementById("command");
 const mic = document.getElementById("mic");
 const send = document.getElementById("send");
 
-let apiKey = "";
-
-try {
-apiKey = localStorage.getItem("jarvis_api_key") || "";
-} catch (error) {
-    console.warn("Speicher nicht verfügbar");
-}
+let geminiKey = "";
 let busy = false;
 
 const history = [
@@ -46,86 +40,16 @@ speechSynthesis.resume();
     speechSynthesis.speak(voice);
 }
 
-async function askAI(text) {
-if (/internet|recherchier|aktuell|nachrichten|google|suche nach/i.test(text)) {
 
+async function askAI(text) {
     if (busy) return;
 
-    let geminiKey = localStorage.getItem("jarvis_gemini_key");
-
-if (!geminiKey) {
-    geminiKey = prompt("Google Gemini API-Schlüssel eingeben:")?.trim();
-
-    if (geminiKey) {
-        localStorage.setItem("jarvis_gemini_key", geminiKey);
-    }
-}
-
-    if (!geminiKey) return;
-
-    busy = true;
-    status.textContent = "SYSTEM SEARCHING";
-    response.textContent = "Durchsuche das Internet...";
-
-    try {
-        const result = await fetch(
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent",
-            {
-                method: "POST",
-                headers: {
-                    "Content-Type": "application/json",
-                    "x-goog-api-key": geminiKey.trim()
-                },
-                body: JSON.stringify({
-                    contents: [{
-                        parts: [{
-                            text: "Antworte auf Deutsch, sprich mich mit Sir an, recherchiere im Internet und nenne Quellen: " + text
-                        }]
-                    }],
-                    // tools: [{ google_search: {} }]
-                })
-            }
-        );
-
-        const data = await result.json();
-
-        if (!result.ok) {
-            throw new Error(JSON.stringify(data.error));
-        }
-
-        const candidate = data.candidates?.[0];
-        const answer = candidate?.content?.parts
-            ?.map(p => p.text || "").join("");
-
-        if (!candidate?.groundingMetadata?.groundingChunks?.length) {
-            speak("Sir, die Internetrecherche konnte nicht bestätigt werden.");
-        } else {
-            speak(answer || "Keine Antwort erhalten.");
-        }
-
-    } catch (error) {
-        speak("Internetrecherche fehlgeschlagen: " + error.message);
-    } finally {
-        busy = false;
+    if (!geminiKey) {
+        geminiKey = prompt("Google Gemini API-Schlüssel eingeben:")?.trim() || "";
     }
 
-    return;
-}
-if (!apiKey) {
-    apiKey = (prompt("Bitte Pollinations API-Schlüssel eingeben:") || "").trim();
-
-    if (apiKey) {
-        try {
-    localStorage.setItem("jarvis_api_key", apiKey);
-} catch (error) {
-    console.warn("Speicherung nicht möglich");
-}
-    }
-}
-    
-
-    if (!apiKey) {
-        speak("Kein API-Schlüssel vorhanden.");
+    if (!geminiKey) {
+        speak("Kein API-Schlüssel vorhanden, Sir.");
         return;
     }
 
@@ -135,67 +59,41 @@ if (!apiKey) {
 
     try {
         const result = await fetch(
-            "https://gen.pollinations.ai/v1/chat/completions",
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
             {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
-                    "Authorization": "Bearer " + apiKey
+                    "x-goog-api-key": geminiKey
                 },
                 body: JSON.stringify({
-                    model: "openai/gpt-5.4-nano",
-                    messages: [
-                        ...history,
-                        {
-                            role: "user",
-                            content: text
-                        }
-                    ]
+                    contents: [{
+                        parts: [{
+                            text: "Du bist JARVIS. Antworte auf Deutsch, professionell und präzise. Sprich mich mit Sir an. " + text
+                        }]
+                    }]
                 })
             }
         );
 
-        if (result.status === 401) {
-            apiKey = "";
-localStorage.removeItem("jarvis_api_key");
-            speak("Der API-Schlüssel ist ungültig.");
-            return;
-        }
-
-        if (result.status === 402) {
-            speak("Das verfügbare Guthaben oder Nutzungslimit ist erschöpft.");
-            return;
-        }
+        const data = await result.json();
 
         if (!result.ok) {
-            throw new Error("HTTP " + result.status);
+            throw new Error(data.error?.message || "HTTP " + result.status);
         }
 
-        const data = await result.json();
-        const answer = data.choices[0].message.content;
+        const answer = data.candidates?.[0]?.content?.parts
+            ?.map(p => p.text || "").join("");
 
-        history.push({
-            role: "user",
-            content: text
-        });
-
-        history.push({
-            role: "assistant",
-            content: answer
-        });
-
-        if (history.length > 11) {
-            history.splice(1, 2);
-        }
-
-        speak(answer);
+        speak(answer || "Keine Antwort erhalten, Sir.");
 
     } catch (error) {
-        speak("Die Verbindung zur künstlichen Intelligenz ist fehlgeschlagen. " + error.message);
+        speak("Systemfehler: " + error.message);
     } finally {
         busy = false;
     }
 }
+
 
 async function processCommand(text) {
 
