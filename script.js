@@ -80,7 +80,7 @@ async function askAI(text) {
         const data = await result.json();
 
         if (!result.ok) {
-            throw new Error(data.error?.message || "HTTP " + result.status);
+            throw new Error(JSON.stringify(data.error));
         }
 
         const answer = data.candidates?.[0]?.content?.parts
