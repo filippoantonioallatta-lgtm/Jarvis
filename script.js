@@ -133,53 +133,79 @@ try {
 
     async function searchWikipedia(query) {
 
-        const cleaned = query
-            .replace(
-                /\b(hey|jarvis|bitte|recherchiere|suche|google|wikipedia|erkläre|mir|was|ist|sind|wer|war|wie|funktioniert|nach|im|internet|finde|heraus|über|kannst|du|etwas|erzählen)\b/gi,
-                " "
-            )
-            .replace(/[?!.,]/g, " ")
-            .replace(/\s+/g, " ")
-            .trim();
+    const cleaned = query
+        .replace(/\b(hey|jarvis|bitte|recherchiere|suche|google|wikipedia|erkläre|mir|was|ist|sind|wer|war|wie|funktioniert|nach|im|internet|finde|heraus|über|kannst|du|etwas|erzählen|eigenen|worten|und|ein|eine|der|die|das|es|den|zum|zur)\b/gi, " ")
+        .replace(/[?!.,]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
 
-        const search = cleaned || query;
+    const search = cleaned || query;
 
-        const url =
-            "https://de.wikipedia.org/w/api.php" +
-            "?action=query" +
-            "&generator=search" +
-            "&gsrsearch=" + encodeURIComponent(search) +
-            "&gsrlimit=4" +
-            "&prop=extracts" +
-            "&exintro=1" +
-            "&explaintext=1" +
-            "&exchars=2000" +
-            "&format=json" +
-            "&origin=*";
+    const url =
+        "https://de.wikipedia.org/w/api.php" +
+        "?action=query" +
+        "&generator=search" +
+        "&gsrsearch=" + encodeURIComponent(search) +
+        "&gsrnamespace=0" +
+        "&gsrlimit=8" +
+        "&prop=extracts" +
+        "&exintro=1" +
+        "&explaintext=1" +
+        "&exchars=3000" +
+        "&format=json" +
+        "&origin=*";
 
-        const data = await fetchWithTimeout(
-            url,
-            {},
-            12000
-        );
+    const data = await fetchWithTimeout(
+        url,
+        {},
+        15000
+    );
 
-        const pages = Object.values(
-            data.query?.pages || {}
-        )
-        .filter(page => page.extract)
-        .sort(
-            (a, b) =>
-                (a.index ?? 999) - (b.index ?? 999)
-        );
+    const words = search.toLowerCase().split(/\s+/);
 
-        return pages.map(page => ({
-            title: page.title,
-            text: page.extract,
-            uri:
-                "https://de.wikipedia.org/?curid=" +
-                page.pageid
-        }));
-    }
+    const pages = Object.values(
+        data.query?.pages || {}
+    )
+    .filter(page =>
+        page.extract &&
+        page.extract.length > 100 &&
+        !page.title.includes("Begriffsklärung")
+    )
+    .map(page => {
+
+        let score = 0;
+
+        const title = page.title.toLowerCase();
+        const content = page.extract.toLowerCase();
+
+        words.forEach(word => {
+
+            if (title.includes(word)) score += 10;
+            if (content.includes(word)) score += 2;
+
+        });
+
+        if (title === search.toLowerCase()) {
+            score += 30;
+        }
+
+        return { ...page, score };
+
+    })
+    .sort((a, b) =>
+        b.score - a.score ||
+        (a.index ?? 999) - (b.index ?? 999)
+    )
+    .slice(0, 3);
+
+    return pages.map(page => ({
+        title: page.title,
+        text: page.extract,
+        uri:
+            "https://de.wikipedia.org/?curid=" +
+            page.pageid
+    }));
+}
 
     function wikipediaFallback(results, reason) {
 
