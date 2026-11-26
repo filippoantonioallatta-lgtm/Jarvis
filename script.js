@@ -11,7 +11,7 @@ let jarvisCode = localStorage.getItem("jarvis_access_code") || "";
 
 function getJarvisCode() {
     if (!jarvisCode) {
-        jarvisCode = prompt("Bitte JARVIS-Zugangscode eingeben, Sir.")?.trim() || "";
+        jarvisCode = prompt("Bitte JARVIS-Zugangscode eingeben.")?.trim() || "";
         if (jarvisCode) {
             localStorage.setItem("jarvis_access_code", jarvisCode);
         }
