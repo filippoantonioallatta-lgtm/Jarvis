@@ -255,7 +255,7 @@ async function searchInternet(query) {
                     "Authorization": "Bearer " + key
                 },
                 body: JSON.stringify({
-                    query: query.slice(0, 400),
+                    query: query.replace(/^(?:hey\s+jarvis[,\s]+)?(?:recherchiere|suche|google|finde heraus)\s*(?:bitte\s+)?(?:mir\s+)?(?:im internet\s*)?(?:nach\s+|über\s+)?/i, "").trim().slice(0, 400) || query.slice(0, 400),
                     search_depth: "basic",
                     max_results: 5,
                     include_answer: false,
@@ -351,6 +351,7 @@ if (!results.length) {
 }
 
 try {
+    if (!results.length) {
     const res = await fetch("./news.json", {
         cache: "no-store"
     });
@@ -376,6 +377,7 @@ try {
 
         results = [...matches.slice(0, 3), ...results];
     }
+}
 } catch (_) {}
 
                 } catch (_) {
