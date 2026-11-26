@@ -110,7 +110,8 @@ async function askAI(text) {
             try {
                 webInfo = await searchInternet(text);
             } catch (error) {
-                webInfo = "Internetrecherche nicht verfügbar.";
+                webInfo = "Suchfehler: " + error.message;
+alert(webInfo);
             }
         }
 
