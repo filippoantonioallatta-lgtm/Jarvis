@@ -109,10 +109,10 @@ async function askAI(text) {
 
             try {
                 webInfo = await searchInternet(text);
-alert("Suchergebnis: " + webInfo);
+
             } catch (error) {
                 webInfo = "Suchfehler: " + error.message;
-alert(webInfo);
+
             }
         }
 
