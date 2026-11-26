@@ -1,19 +1,68 @@
 {
-  "updated": "2026-11-26T19:24:13.630784+00:00",
+  "updated": "2026-11-26T20:37:20.751735+00:00",
   "articles": [
+    {
+      "title": "Erfolg im vorletzten Test: DHB-Frauen gegen Frankreich schon in EM-Form",
+      "uri": "https://www.sportschau.de/handball/nationalmannschaft/dhb-frauen-gegen-frankreich-schon-in-em-form,spielbericht-test-dhb-frauen-frankreich-100.html",
+      "text": "Stabile Abwehr und effizienter Angriff: Deutschlands Handballerinnen haben bei ihrem vorletzten EM-Test gegen Frankreich berechtigte Hoffnungen auf Edelmetall geweckt.",
+      "date": "Thu, 26 Nov 2026 21:35:02 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live - Irié vollendet schönen Suzuki-Lauf, Backhaus hält",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520659/sc-freiburg_twente-enschede/liveticker",
+      "text": "Twente Enschede hat in der Conference League drei Siege aus drei Spielen geholt - auf die Freiburger wartet also eine echte Herausforderung.",
+      "date": "Thu, 26 Nov 2026 21:31:55 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "SAP: KI zuerst, 10.000 Mitarbeiter weniger",
+      "uri": "https://www.heise.de/news/SAP-AI-First-10-000-Mitarbeiter-weniger-11539781.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Alle SAP-Abteilungen müssen melden, welche Stellen gestrichen werden können, berichtet Bloomberg. KI soll mindestens 10.000 überflüssig machen.",
+      "date": "2026-11-26T21:05:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Jetzt live - TSG Hoffenheim gegen Sturm Graz",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520497/tsg-hoffenheim_sturm-graz/liveticker",
+      "text": "In der Europa League trifft die TSG Hoffenheim am 5. Spieltag auf das punktgleiche Sturm Graz aus Österreich.",
+      "date": "Thu, 26 Nov 2026 20:58:10 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live - Füchse Berlin gegen MT Melsungen",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma12618329/fuechse-berlin_mt-melsungen/liveticker",
+      "text": "Aus der Gruppe I spielen die gruppenletzten Füchse Berlin gegen MT Melsungen.",
+      "date": "Thu, 26 Nov 2026 20:48:19 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "U21 mit Losglück - Duell mit den Niederlanden",
+      "uri": "https://www.sportschau.de/fussball/u21/u21-mit-losglueck-duell-mit-niederlanden,auslosung-u21-em-albanien-serbien-100.html",
+      "text": "Die deutsche U21-Nationalmannschaft geht den Topteams bei der EM im Sommer 2027 in Gruppe D zunächst aus dem Weg und trifft auf Norwegen, Belgien sowie die Niederlande.",
+      "date": "Thu, 26 Nov 2026 20:38:45 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Souveräne Leverkusener feiern glanzlosen Sieg in Zagreb",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-souveraene-leverkusener-feiern-glanzlosen-sieg-in-zagreb-100.html",
+      "text": "Mit einer abgezockten Vorstellung hat Bayer Leverkusen im Europa-League-Spiel bei Dinamo Zagreb überhaupt nichts anbrennen lassen.",
+      "date": "Thu, 26 Nov 2026 20:37:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Wirtschaft vor acht vom 26.11.2026",
+      "uri": "https://www.tagesschau.de/video/video-1690646.html",
+      "text": "Wirtschaft vor acht vom 26.11.2026",
+      "date": "Thu, 26 Nov 2026 20:23:55 +0100",
+      "category": "Wirtschaft"
+    },
     {
       "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
       "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
       "date": "Thu, 26 Nov 2026 20:16:09 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Jetzt live: Quansah trifft in Stürmermanier - Bayer erhöht in Zagreb",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520173/dinamo-zagreb_bayer-leverkusen/liveticker",
-      "text": "Am 5. Spieltag der Europa League ist Bayer Leverkusen bei Dinamo Zagreb zu Gast.",
-      "date": "Thu, 26 Nov 2026 20:15:48 +0100",
-      "category": "Sport"
     },
     {
       "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
@@ -23,17 +72,10 @@
       "category": "Allgemein"
     },
     {
-      "title": "Davis-Cup: Erst das schmerzhafte Aus, dann die nötige Verjüngung",
+      "title": "Davis-Cup: Nach dem Aus ist vor dem Umbruch",
       "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-deuschland-aus-verjuengung,davis-cup-deutschland-ausgeschieden-100.html",
       "text": "Deutschland zeigte beim Davis Cup in Bologna kein schlechtes Tennis, das Aus gegen Großbritannien ging aber in Ordnung. Künftig wird sich die DHB-Auswahl verjüngen und wohl noch eine Weile auf den großen Coup warten müssen.",
       "date": "Thu, 26 Nov 2026 20:14:36 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "U21 mit Losglück - Duell mit den Niederlanden",
-      "uri": "https://www.sportschau.de/fussball/u21/u21-mit-losglueck-duell-mit-niederlanden,auslosung-u21-em-albanien-serbien-100.html",
-      "text": "Die deutsche U21-Nationalmannschaft geht den Topteams bei der EM im Sommer 2027 in Gruppe D zunächst aus dem Weg und trifft auf Norwegen, Belgien sowie die Niederlande.",
-      "date": "Thu, 26 Nov 2026 20:03:11 +0100",
       "category": "Sport"
     },
     {
@@ -212,9 +254,9 @@
       "category": "Sport"
     },
     {
-      "title": "Ab 20.45 Uhr live - Füchse Berlin gegen MT Melsungen",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma12618329/fuechse-berlin_mt-melsungen/liveticker",
-      "text": "Aus der Gruppe I spielen die gruppenletzten Füchse Berlin gegen MT Melsungen.",
+      "title": "Jetzt live - Löwen Frankfurt gegen Adler Mannheim",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189751/loewen-frankfurt_adler-mannheim/liveticker",
+      "text": "Am 20. Spieltag spielen die Tabellenletzten, die Löwen Frankfurt zuhause gegen Adler Mannheim.",
       "date": "Thu, 26 Nov 2026 16:48:12 +0100",
       "category": "Sport"
     },
@@ -513,13 +555,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Handball: SC Magdeburg besiegt Sporting und bleibt makellos",
-      "uri": "https://www.sportschau.de/regional/mdr/handball-champions-league-sc-magdeburg-sporting-lissabon,spielbericht-scm-lis-100.html",
-      "text": "Mit einer bemerkenswerten Vorstellung hat der SC Magdeburg in der Champions League den nächsten Schritt Richtung Viertelfinale gemacht.",
-      "date": "Thu, 26 Nov 2026 11:17:36 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Eintracht ist trotz Ebnoutalib-Gerüchten um Ruhe bemüht",
       "uri": "https://www.sportschau.de/regional/hr/hr-interesse-der-bayern-wirbel-um-ebnoutalib-geruechte-bei-der-eintracht-102.html",
       "text": "Younes Ebnoutalib ist bekannt dafür, Unruhe in gegnerischen Abwehrreihen zu verursachen. Aktuell sorgen aber eher Gerüchte um einen Abschied von Eintracht Frankfurt für Aufsehen. Der Versuch einer Einordnung.",
@@ -531,13 +566,6 @@
       "uri": "https://www.heise.de/news/Palo-Alto-Angriffe-auf-PAN-OS-Firewalls-mit-offenem-Managementzugang-beobachtet-11538805.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Derzeit kombinieren Angreifer zwei Sicherheitslücken, um Firewalls von Palo Alto zu attackieren. Sicherheitspatches stehen zum Download bereit.",
       "date": "2026-11-26T10:48:00+01:00",
-      "category": "Technik"
-    },
-    {
-      "title": "Sparkassen bringen Unterstützung für Google Pay",
-      "uri": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "In Updates der Sparkassen-App wurden Hinweise auf eine Google-Pay-Anbindung entdeckt. Der Sparkassenverband bestätigt die Funktion.",
-      "date": "2026-11-26T10:45:00+01:00",
       "category": "Technik"
     },
     {
@@ -667,13 +695,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "Wirtschaft vor acht vom 25.11.2026",
-      "uri": "https://www.tagesschau.de/video/video-1689964.html",
-      "text": "Wirtschaft vor acht vom 25.11.2026",
-      "date": "Wed, 25 Nov 2026 20:49:52 +0100",
-      "category": "Wirtschaft"
-    },
-    {
       "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
       "text": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
@@ -786,6 +807,13 @@
       "category": "Deutschland"
     },
     {
+      "title": "Russland bei Eishockey-WM? Weltverband zieht gegen CAS-Urteil vor Gericht",
+      "uri": "https://www.sportschau.de/eishockey/weltverband-zieht-gegen-cas-urteil-vor-gericht,iihf-bundesgericht-russland-cas-100.html",
+      "text": "Der Streit um die Teilnahme Russlands an internationalen Eishockey-Turnieren - wie der WM 2027 in Deutschland - landet erneut vor Gericht.",
+      "date": "Wed, 25 Nov 2026 13:09:18 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen - RGA",
       "uri": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdXBxdEh5VEZuVExLRzl0TVJSWVpYa19rWnBxdzB2Wnc4ZkhQbllVUTBOdnZmYjViek5WQURxdmVXV0h2UTFhaWk4bmk3TktyVGVJYkYxQ24yb21hX1JYRVQ3RlBpdFVleTNlakUwWHJhd012anNqQkR1Y1dVNVh4SF9oNWZGT0lZbDVDdHhhbGdSekNfeGJ4Rm12UFA4d0dTa2x2cWx6dms2czh3c2NIR19YekRCZG4wd2tCZlZuNnBfLXJyU3hUVnhQa3RsYzg1TFNQeXk1SUxKRGt6anRwbkUyY3Vvb2MyTWxQYU8zbGcxOXp2YnpJ0gGTAkFVX3lxTFBFeFVROWxUSkJaT002dl9ZdUJvSHNzckt0RTJmWU1fY1E2STdTYXZEdmdoYkc1b3l6V05aUEVqbFQ2bk9sSVJucmhTYS1JOFA1b0xHWHhXd0xaMFgydmIzRUpWRUNLSHhaZ0RvWEVDU2I1aDlJSGxGVURXWEE5cVk0R0tvdlNMQ2h1eWlqc2ZldkpiaUFPNXpCVEdyXzBUaXFuS0lyemhYVTFSVjI0MWo4LWJqOE90UnJfSGZNaGJnWnBBWktzVmRhckhvVGhTc1luN1YwOVU5SEZldnpidWlSb2lXdGQxVjRJSTRIUlhEazl0eWZ1dTRfNEI3eEhnUmZYV0JoRDJETE0ydy1MSmNzY04w?oc=5",
       "text": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen  RGA",
@@ -798,6 +826,13 @@
       "text": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert.",
       "date": "Wed, 25 Nov 2026 12:47:38 +0100",
       "category": "Wirtschaft"
+    },
+    {
+      "title": "Kirmes in Lüttringhausen kommt im Sommer 2027 zurück - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWZGYm5TZjlDTWduYXh3UWNRTF9xdTlGcU5FZ2RjSFJZRnVIV1RpUmFYdWF1aU1RX3YzZ3ZoX3haT0k3QjJUdDRhQnotMDNsR3lQM2pkOUFESkl6MXZPdE9vRWpXUzlETC0wQ2YzS0JNZ0t0dXJWYkdsbzRLbE9kb3lOTktrT2s4YUZlYTE2dVhoTU9PMEZBaG5n?oc=5",
+      "text": "Kirmes in Lüttringhausen kommt im Sommer 2027 zurück  Radio RSG",
+      "date": "Wed, 25 Nov 2026 11:44:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Viele offene Fragen bei Chipkonzern Nvidia",
@@ -842,25 +877,11 @@
       "category": "Welt"
     },
     {
-      "title": "Twente Enschede - Von der Spitze zum Krisenklub und zurück",
-      "uri": "https://www.sportschau.de/regional/swr/swr-twente-enschede-im-check-ungeschlagen-in-der-conference-league-100.html",
-      "text": "Am Donnerstag trifft der SC Freiburg in der UEFA Conference League zuhause auf den FC Twente Enschede. Die Niederländer stehen in der Eredivisie auf Rang drei.",
-      "date": "Wed, 25 Nov 2026 10:59:43 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Kerzen dürften deutlich teurer werden",
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/kerzen-preise-wachs-zoelle-100.html",
       "text": "Der Adventskranz gehört für viele zur Vorweihnachtszeit, doch die Kerzen dafür könnten in diesem Jahr ziemlich teuer werden. Hersteller rechnen mit Preissteigerungen von 30 bis 50 Prozent.",
       "date": "Wed, 25 Nov 2026 10:40:38 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Krise in der Steiermark - Sturm Graz ist angeschlagen",
-      "uri": "https://www.sportschau.de/regional/swr/swr-krise-in-der-steiermark-warum-hoffenheim-mit-sturm-graz-einen-angeschlagenen-gegner-erwartet-100.html",
-      "text": "Punktgleich gehen die TSG Hoffenheim und Sturm Graz in das wichtige Europa-League-Duell am Donnerstagabend. Was gibt es über den fünfmaligen österreichischen Meister zu wissen?",
-      "date": "Wed, 25 Nov 2026 10:31:36 +0100",
-      "category": "Sport"
     },
     {
       "title": "Europas größte Satellitenfabrik eröffnet",
@@ -889,6 +910,20 @@
       "text": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
       "date": "Wed, 25 Nov 2026 07:11:51 +0100",
       "category": "Deutschland"
+    },
+    {
+      "title": "BHC verpasst vorzeitigen Play-off-Einzug - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRXM1p0Z1JDcWdvRUNIZG5RTlFqRXktaFg2Z0J1LVZoX1hhVm5udWt2NDJRY3ZnOXRnbkZ2cVJ1YzBMTUpkNzlOQUpybEF6aHNSbVUzdjFZZnhCVEJ0bktCZ25xc0Utc1czd3cxdDJaZnYzSm1Nc1JzWmNGWlhScUdVNjd5amc?oc=5",
+      "text": "BHC verpasst vorzeitigen Play-off-Einzug  Radio RSG",
+      "date": "Wed, 25 Nov 2026 06:01:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Hackenberg wieder warm - Hasenberg weiter mit Problemen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1RLSVQzLVUyYzdweV9lejY1aWdwbS1Fb1JnSEgxeXUzb0lSZEJ1enZQeFlpMVA4S2x0eVlBZW1MX2U2Rm55TkdNS2s0Uzl5Tkc1bXM1LURDakpSa19ROVhIYmhDSlYycWQyaXNLc0o5djQ4YjJ1TUNjQkFGYkliR2VaZDZmOXYwZG1RWG1rZTZiZFNSSXlmVQ?oc=5",
+      "text": "Hackenberg wieder warm - Hasenberg weiter mit Problemen  Radio RSG",
+      "date": "Wed, 25 Nov 2026 05:49:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet - Radio RSG",
@@ -954,6 +989,13 @@
       "category": "Deutschland"
     },
     {
+      "title": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft - RP Online",
+      "uri": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkRpOEdjSGY2NEl6TmtIeTFnX1diWlR3R2JITzJhakFYN3VFNkQ4UTgzSjB0dS1walJDS2N5NjBpcVQ0UlNlUDZZOGwtcUljX1ZuTk9ZaVJHWXc2ZWZ0NFZDdl9CZFJvREdwU0ZzVWdkLWhveGthRGEyazJUakVicDBDYkE2bG5TVWI2UFprVUtUV2ZzcGFKa0JFT0xKbHpJTEQxbF9Ic2swSkd5OEZvSWNDOA?oc=5",
+      "text": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft  RP Online",
+      "date": "Tue, 24 Nov 2026 16:59:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Menschenrechtsgerichtshof: Pushbacks in Ausnahmefällen zulässig",
       "uri": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
       "text": "Setzt ein Drittstaat Migration gezielt als Druckmittel ein, darf der betroffene EU-Staat Migranten an der Grenze zurückweisen. Das hat jetzt der EGMR geurteilt. Rechte besonders schutzbedürftiger Menschen müssen aber gewahrt bleiben. Von A. Stephany.",
@@ -980,6 +1022,13 @@
       "text": "Ein für heute geplanter Abschiebeflug nach Kabul wurde nach NDR-Informationen von afghanischer Seite abgesagt. Die Taliban wollen offenbar Druck machen, um die Einreise weiterer Konsularbeamte nach Deutschland zu erzwingen. Von P. Hornung.",
       "date": "Tue, 24 Nov 2026 16:15:31 +0100",
       "category": "Deutschland"
+    },
+    {
+      "title": "Steuerzahlerbund kritisiert Remscheider Bewohnerparkausweise - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFhDekItNUlNTDZDUHF6T2JXWjhJS0poZ3BYdktmdWRrX3NEQWpJdmt6em5xYmt1U0EzWVVZc201Qm5WWXYtbDAwMWx3NjVVZkh4bkNOX2R0YlVWcEoyTFVndVN6bTJBZ2szYmdvQlJvME5kYk1wdnFTbnNJZWNwVlMtNWpvLUhVNFJrbXpMYUpNamJFMzJ0Yko2QTZ5YzNGa0E?oc=5",
+      "text": "Steuerzahlerbund kritisiert Remscheider Bewohnerparkausweise  Radio RSG",
+      "date": "Tue, 24 Nov 2026 14:17:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
@@ -1031,20 +1080,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit - Stadt Remscheid",
-      "uri": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0s1Y2w1LVZFRnFxcHN4dER4V0lDU1lsV0xGNzE2Y0RtNFhFUFNkdUlJdE1qLU9pMGJVd3RLa0lTNHZ4eEV6RS10VTdkdTVxc2JFSDJiN2JHV2J5MDVmVTNkOHhKVGstRHRDWnNrR1RjUTNXZEw0WG1MWmNzSTRNWlQxRnBZc0JWdm5UdmR2NTFyNjIwb2tYeGFLUQ?oc=5",
-      "text": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit  Stadt Remscheid",
-      "date": "Tue, 24 Nov 2026 07:25:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Bayer 04 bekommt zur richtigen Zeit die Kurve",
-      "uri": "https://www.sportschau.de/regional/wdr/wdr-bayer-04-bekommt-zur-richtigen-zeit-die-kurve-100.html",
-      "text": "Gerade rechtzeitig vor dem Jahresendspurt kommt Bayer 04 Leverkusen in Form. In der Europa League soll der nächste Sieg folgen.",
-      "date": "Tue, 24 Nov 2026 07:53:00 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Worum es in der Haushaltswoche im Bundestag geht",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushaltswoche-114.html",
       "text": "2027 will die Bundesregierung in ihrem Haushalt 560 Milliarden Euro ausgeben. Doch dafür muss der Bundestag dem Etat zustimmen. Deshalb geht es in dieser Woche noch einmal ums Ganze. Von Jan-Peter Bartels.",
@@ -1071,6 +1106,13 @@
       "text": "Mit dem Friedensabkommen in Kolumbien von 2016 wurden weltweit große Hoffnungen verknüpft. Er sollte ein halbes Jahrhundert Bürgerkrieg beenden. Doch zehn Jahre später ist Kolumbien polarisiert wie lange nicht. Von Jenny Barke.",
       "date": "Tue, 24 Nov 2026 06:28:47 +0100",
       "category": "Welt"
+    },
+    {
+      "title": "Schmiergeld in Millionenhöhe: Ex-Manager vor Gericht - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkRrMnZrbFhXVF9DdzRMQXVvdE9lazQ3Y2I0aHo3NHFLYmdRbjFINmZOWlpFQXVnZDFBRThqOTZHRWp6cFZQX0I5ZEJQVVVMcnhJenpJUnVJRllUWHJyQW10VUZhem5YeS0xUmk4bzB1TmlVakN3YWRoak9UdlkxN2FEQzRPVzlvQVdVRWZDejFEUk9jYU5j?oc=5",
+      "text": "Schmiergeld in Millionenhöhe: Ex-Manager vor Gericht  Radio RSG",
+      "date": "Tue, 24 Nov 2026 05:20:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Deutschland baut künftig ukrainische Drohnen",
@@ -1164,6 +1206,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Handelsverband hofft auf gutes Weihnachtsgeschäft - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkV6NExCUVU2Z2dZekI2ZEVqR0pvb2lEMmNrc251ZGk4XzRqMm1BOUNYbUxZLWtPLXc4SEhHSGpabTRkS2hNYmVMR1BXOTRpU0c3Wi1BMmdiaENmY29wcEZNWWhwUHRGMmNTQnh5bWcxVmVkQllnby1Mbnh1NnR6ZTZsM1Q1SWJxRWVNQ09oQmVxTVpM?oc=5",
+      "text": "Handelsverband hofft auf gutes Weihnachtsgeschäft  Radio RSG",
+      "date": "Mon, 23 Nov 2026 05:05:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
       "uri": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
       "text": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
@@ -1185,6 +1234,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Wiener Schmäh statt Wartezeit: So unterstützt das Remscheider Unternehmen Vaillant SOS Kinderdörfer weltweit - RGA",
+      "uri": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZUl5TV9MUWhDMFM0QXhUaVhKZE5aYW83NEtNNFhqWTdzMkZlcTJqSVM0NWZ6ajdndkZhMTlDakZJa1N3SE5DdU9kZUVJeFF1ZWV5ZFdna3pMQi11Rk5remhCZEdFeV90Z0JSM2VyaG80RmN4WHRmemk5TWhOVHFBbi15aGgwNmNhRTBQZEdsbElHMlJJNERHeW5Xd01sN1Rlbms1X29LdlUyTFYwVDB5QTQ2UVF3akt0ZHZLc2F5OUx4cjFIRDBCdTcyakZYR3RPLU56NFlRakJkY1JPV3FhYVg5WEdtdml1ZkVpaNIBiAJBVV95cUxOYkpLYU5DNHA2VGp3UGhxcTQ0UlZRTHpxdXRkYURiNmlGNzFwWlFYNmowY3o3R285YTRjVnlVYXdvMWdOVWxSZU9UUHgtVUthQ1NuZ0JIckhSd1FQWW9Hc1pUS3paUGZRa0ZuNkVrMDhNODVLdDJLS19wNEU0X3pTVUw3cDkzaXZ3TFZ0dmMyTC02blhwdV9wXzVUa3VkSWIzLTc5YUdCUWh5dnpUS2doUVI5NHBoUVR3TE1rdDVrdnFNOUhVVnRoampqUzV4S0dXOGl4VFcycXR1WEQyWjdSM255MUE3UkdicF9SdnZzc1h0U19NcHJpR1AxaTBYemRrSUNxVjI2bmg?oc=5",
+      "text": "Wiener Schmäh statt Wartezeit: So unterstützt das Remscheider Unternehmen Vaillant SOS Kinderdörfer weltweit  RGA",
+      "date": "Sat, 21 Nov 2026 15:04:53 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen - RGA",
       "uri": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWx1R0hPWVBHbTdlVUdfMlYxUDZRNklqWnpIVElwTmVFd2JxRG1CLUlrZUtnQm1TUVBxUGxFUHF1QVNWMGNMaGJxdVVqeFREN1VKbXBlZEJfM3hZb2pWSFFyWUhnUHlOWHF6M2pvWTF4SEdPZHVKcnFvYjlzU1VMYWFySTBFc3laTzdaWmxCYVJPODlGaTlIZlJ3ZUNxNWJVenBzcmJZLV9oeWhjbnNSeU9RcDRnbWN5VXZzZkVwbWUwZw?oc=5",
       "text": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen  RGA",
@@ -1192,10 +1248,10 @@
       "category": "Remscheid"
     },
     {
-      "title": "Weihnachtsbasar der JVA Remscheid - Justiz NRW",
-      "uri": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNzczUWJPdjdNWGUzSm54c2xyaWhDMVFGX3kxQVB2N0Y0NUtLZDJYeG1qNGVjVWdhLVlMbF9kaDkxa1FWdDJWZzUzOWduQXZESU5VVUhn?oc=5",
-      "text": "Weihnachtsbasar der JVA Remscheid  Justiz NRW",
-      "date": "Sat, 21 Nov 2026 08:00:00 GMT",
+      "title": "Sport am Wochenende - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyVmZ2VmZWSTI1S0lfT3dKWTlRMFllY2lERXVQU0RkREt5clFINDZTdEdwTTJlVzJ2WW1oRDZlUWhZVWd0Y3NsUmMwVkxBbkY0YWpaTl9mVS02WDZQQWFzY2p6Wm9lMDY0UFU4?oc=5",
+      "text": "Sport am Wochenende  Radio RSG",
+      "date": "Fri, 20 Nov 2026 16:27:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1217,6 +1273,13 @@
       "uri": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFJoYjJmeDFydnhSWEN0cDRJQndTUnBhbnNvd3cwdFVoY1l0ajNHTTJTQzY5UmVLbUxDUWFFM0JVZ0dlenVLRFZfQ214VXlkem5Fd2t6NV9feTVWM0Q2OEVJNGxEa3c4WHhzd0oyNHBfc2JyVFBTYm95ZmwwaEtDMGx3MFM4TTdYaXdERHVEbTgyb1NpME5BNTVSeTJnYWRudkJPaXVfNkRZS0dWWFdnamlWRGFGMTdNeUdmakhxVTNaUF9xYkR0TA?oc=5",
       "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
       "date": "Thu, 19 Nov 2026 15:55:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Polizei durchsucht Gebäude in Remscheid und Solingen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFVmbzdNYm05OWlhcnQ3Ym5WU1JibjljQWdZSm11alVhOXdVeFhJaU9nM0hfa2sxZFhUZE5NenlvRGowY2ZUQ3MwekMyRzlyRC1YYnoyNDlRczRsdWIyUXQxZVlrUkZ0ZHFoQ0t0Xy1FVVphcnBYdkNmcmxpLURyVloxbWRoVU1URUFuaXF0WHRzRVRzTDB1VA?oc=5",
+      "text": "Polizei durchsucht Gebäude in Remscheid und Solingen  Radio RSG",
+      "date": "Thu, 19 Nov 2026 09:48:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1248,13 +1311,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid - FuPa ⚽️",
-      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWROTVBUNXpMckd4VWFKVE8tX1ZJMTlDX01ncHg5WHFMNmxmWEY4eDVQdHRyTUdPMWNvZWpmWWRvYVIydHo0SzNrZ2I3emRXTU1ReTY3V1ZaZkhWUmpldU5TcGhzSE5PdG14aEtYWElGZ2UtZ0lQSUpVcWhxRDZ5QzJuMlR4c1daZUxBbzJJZ2JCVVFKTVZ2QU9aQko?oc=5",
-      "text": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid  FuPa ⚽️",
-      "date": "Tue, 17 Nov 2026 11:13:23 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html",
       "text": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
@@ -1269,25 +1325,11 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Remscheider SilberRock - Stadt Remscheid",
-      "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDBQZ3JtNTNfaTh0Q0NZZ2RxVWJuNEZBSXpZUmthOXZDYTluQVpUM0xmbk1LU0RlaERIaXQwdmR3NnNzUDZnNmwxNThlMldKQVVVS2ZxLXQ1M0M3QmU4cDJCb0l2TlhMaDVhQ3BoZF9rZ09vWXhCd2psb3NCWnFuQmp2ZDUwVmhZTnR1aU1n?oc=5",
-      "text": "Remscheider SilberRock  Stadt Remscheid",
-      "date": "Tue, 10 Nov 2026 11:55:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Eiskunstlauf in Tokio",
       "uri": "https://www.sportschau.de/wintersport/eiskunstlauf-in-tokio,livestream-eiskunstlauf-118.html",
       "text": "Eiskunstlauf in Tokio - mit den Kurzprogrammen der Paare, Frauen und Männer. Daniel Weiss kommentiert.",
       "date": "Mon, 09 Nov 2026 16:07:07 +0100",
       "category": "Sport"
-    },
-    {
-      "title": "Gedore schließt einen Standort in Remscheid - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjZOTmpGT2IySlJqeVBCMFI1aXV2Z3FwM200VTYtRnYtMXZsSFBnZldhM2gzTFRaSXk4Z2MzbXZmWFdMSnpmNnQyV1ZsWWc2NzBERkt3Q1Y5NGlJYXdjclRnamhpeTRwQUVsRE81WGVRM2NsVk5vY2tibkhrSU1xQVdOSEtsdUdfX0pYUw?oc=5",
-      "text": "Gedore schließt einen Standort in Remscheid  Radio RSG",
-      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Tor des Monats Oktober - alle Tore",
@@ -1304,32 +1346,11 @@
       "category": "Sport"
     },
     {
-      "title": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam - Deutscher Judo-Bund",
-      "uri": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5iMmFHbVV6ZVIza1V5VVFFYlhBQVdWZWZGV0cwZnFwWmVIakoxcDFYRGJaYkNxR3pxSE81dnBrcGFfeTVsbFFPQU5qWEZXNTdwUmxNS3F5UFhSTU5RdllPcE4xR2JuREFheWhFS0toNjEtNU5kZ25Ddy1aczF2M3dxc2ZwTWtlRXV2UjhnTm94QkZxT3B0Rm1Bbk1nSDY0?oc=5",
-      "text": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam  Deutscher Judo-Bund",
-      "date": "Thu, 05 Nov 2026 19:51:55 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Studie sieht Solingen und Remscheid wenig zukunftsfähig - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEhrRUFkNV9SMV9KZmRpTDl2R3VhOFA4RWxfMlQ0UnNTeE9MSm5zZlpMNFNtMDVmTVh4Z2lDUVlVakwtUXVsUi1xYU9kRk05UF9YODJPb3NVTk9uakJuanlER2VCcHZuLVZaLXZBR1UwNXR1NW83azdzQVh6a0ZpSDN4MmZuaVRnaWt2dF9GbHAxM21ZS3VUaTRaUE0?oc=5",
-      "text": "Studie sieht Solingen und Remscheid wenig zukunftsfähig  Radio RSG",
-      "date": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
       "text": "Sport und Bewegung gehören für viele Kinder und Jugendliche nicht mehr zum Alltag. Nur 14 Prozent bewegen sich laut WHO täglich für eine Stunde mäßig bis intensiv. Auch in Deutschland gibt es viele Bewegungsmuffel.",
       "date": "Wed, 04 Nov 2026 17:37:10 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Remscheid: Alarmstimmung nach Angriff auf Kühltechnik - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3lQU0hTLS1rNkRlMmpGdGhQQVN2YVdLd0lrT2ZLWUx5eEdsQWtVcldmX1pMZkNzRWFPVGZuMFZlMkJ4c002LUk0OG83WGhveU81Ym9iQXNOTVM4N2RwWE9PeXVNWkVHWkpmTzFyM2xBSE05SEJKWG1QTXJOVkxLcXFDd054SFhTaGd1WHlhVFl0eEN3VEZTaEdWOXpvRXpzMVdDUVJ6TjhGRzBzcG84S2tzamJEdnE0dGNOeFJOY9IB2wFBVV95cUxPOUNhTUE0S0dESWwzT3E3S2VZSG1oU3FEckc4TUF2ZHJOMWhYQzJvaWZsMjdqdVJUb1VkT1I4M2t6bUhJajAxZzA0NW5oa2RKZFRvcXphalFFM2IzWmpRaWNkejFJZGRkQTRTbm1YMTAyLTFYY0xqT3pBTmtnNVJUekVWTVdsOTFFc0VmeHQtQ1ItOTcydlZsOE1IY3NkOXV1al9RQU9faWVkYTYtNldCY1lOWWVWS2hYMDAtZWJpWm5EWm1NOXpDZ2VqR0R5X0tGbFAtUGI0NUotdEE?oc=5",
-      "text": "Remscheid: Alarmstimmung nach Angriff auf Kühltechnik  RGA",
-      "date": "Wed, 04 Nov 2026 15:18:27 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
@@ -1339,25 +1360,11 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "\"Heizungshammer\" oder Vorteil? Wärmepumpe im 122 Jahre alten Haus - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREpYWDlXTjZ3U0pRN2R1SHplVV9ZX0VtUzNCaWVjTWdNd0k1V01KWllreFRVcHplZWh3TkJQX3pUS1UtVUFibUd1R0JDbERPdmtLS0UtRElxOUhXU18zeW5UWlhhdUhMTEpOSmQ4T0FoeFhYSWhIQ3k2aWVJOXBjOFkxX2M2bjdlb1U2aE5TbFdyVl8z?oc=5",
-      "text": "\"Heizungshammer\" oder Vorteil? Wärmepumpe im 122 Jahre alten Haus  WDR",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "uri": "https://www.tagesschau.de/video/video-1675930.html",
       "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "date": "Sun, 01 Nov 2026 09:01:01 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Forschung zu NS-Krankenmorden in Remscheid - Stadtarchiv hat hunderte Biografien erstellt - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2NkLUQxaTV4cUZyb2JvV1FSUkhNRWc1RE5ySmFtTkRyb1UyRTBXUWF2eFFKcGNFVXg5eDIyWWthTGZxdFhjYzItT0w5MHY1cVY5cUg3X2lFRlRSNmk0Vmpnb1pfdkhKVTNXRGxNVGRLaDNXU3RwOTlacUxJVnZYWkZhTEV6ckxUWkp0WWZWU1FzdXJEeDFqT21SNVQ?oc=5",
-      "text": "Forschung zu NS-Krankenmorden in Remscheid - Stadtarchiv hat hunderte Biografien erstellt  WDR",
-      "date": "Wed, 28 Oct 2026 07:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Nach Eskalation - Remscheid will durchgreifen - WDR",
@@ -1379,13 +1386,6 @@
       "text": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
       "date": "Fri, 16 Oct 2026 10:45:37 +0200",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Dinamo Zagreb gegen Bayer Leverkusen",
-      "uri": "https://www.sportschau.de/fussball/europaleague/dinamo-zagreb-gegen-bayer-leverkusen,audiostream-europa-league-dinamo-zagreb-leverkusen-100.html",
-      "text": "In der Europa League empfängt Dinamo Zagreb Bayer Leverkusen. Das Spiel im Audiostream des WDR.",
-      "date": "Thu, 08 Oct 2026 15:13:33 +0200",
-      "category": "Sport"
     },
     {
       "title": "SC Freiburg gegen Twente Enschede",
