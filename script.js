@@ -165,11 +165,8 @@
             const data = await result.json();
 
             if (!result.ok) {
-                throw new Error(
-                    data.error?.message ||
-                    "HTTP-Fehler " + result.status
-                );
-            }
+    throw new Error(JSON.stringify(data.error || data, null, 2));
+}
 
             const candidate = data.candidates?.[0];
 
