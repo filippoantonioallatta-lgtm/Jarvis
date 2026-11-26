@@ -1,6 +1,24 @@
 {
-  "updated": "2026-11-26T10:36:09.592274+00:00",
+  "updated": "2026-11-26T11:42:12.533680+00:00",
   "articles": [
+    {
+      "title": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
+      "uri": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
+      "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+      "date": "Thu, 26 Nov 2026 12:39:55 +0100"
+    },
+    {
+      "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
+      "uri": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
+      "text": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
+      "date": "Thu, 26 Nov 2026 12:04:32 +0100"
+    },
+    {
+      "title": "Black Weeks: Wie die Rabattschlacht Handel und Kunden verändert",
+      "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/black-friday-schnaeppchen-wahnsinn-100.html",
+      "text": "Früher war es ein einzelner Einkaufstag, heute zieht sich die Schnäppchenjagd über Wochen: Der Black Friday hat sich auf den ganzen Monat ausgedehnt. Verbraucher warten gezielt auf Rabatte, Händler müssen mitziehen. Von Anke Heinhaus.",
+      "date": "Thu, 26 Nov 2026 11:54:56 +0100"
+    },
     {
       "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gesunken",
       "uri": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
@@ -41,7 +59,7 @@
       "title": "SPD reagiert verhalten auf CDU-Vorstoß zur Rente",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
       "text": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
-      "date": "Thu, 26 Nov 2026 10:26:21 +0100"
+      "date": "Thu, 26 Nov 2026 11:41:10 +0100"
     },
     {
       "title": "Digitaler Führerschein startet ab Mitte Dezember",
@@ -102,24 +120,6 @@
       "uri": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
       "text": "Ein mit Gasflaschen beladener Lkw hat bei einem Unfall auf einer Autobahn in der ägyptischen Stadt Gizeh einen Großbrand ausgelöst. Mindestens 30 Menschen starben bei dem Unglück, viele wurden verletzt.",
       "date": "Wed, 25 Nov 2026 22:10:04 +0100"
-    },
-    {
-      "title": "Bestechungsvorwurf gegen Netanjahu könnte fallen gelassen werden",
-      "uri": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-      "text": "Seit Jahren muss sich Israels Premier wegen Betrugs, Untreue und Bestechlichkeit vor Gericht verantworten. Jetzt haben Richter empfohlen, den letzten Anklagepunkt fallen zu lassen. Netanjahu sieht den ganzen Prozess als gescheitert.",
-      "date": "Wed, 25 Nov 2026 20:50:08 +0100"
-    },
-    {
-      "title": "Proteste gegen Gewalt an Frauen in Istanbul verboten",
-      "uri": "https://www.tagesschau.de/ausland/europa/tuerkei-orange-day-demo-verboten-100.html",
-      "text": "Frauenrechtsorganisationen wollten in Istanbul gegen Gewalt an Frauen demonstrieren. Doch nach dem Demoaufruf wurden die Proteste verboten. Dennoch gingen am Abend zahlreiche Menschen auf die Straße.",
-      "date": "Wed, 25 Nov 2026 20:36:24 +0100"
-    },
-    {
-      "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
-      "text": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
-      "date": "Wed, 25 Nov 2026 20:14:28 +0100"
     }
   ]
 }
