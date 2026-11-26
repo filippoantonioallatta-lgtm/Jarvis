@@ -11,7 +11,7 @@
     let busy = false;
     let conversation = [];
 
-    const model = gemini-3.5-flash-lite
+    const model = "gemini-3.5-flash-lite";
 
     try {
         geminiKey = localStorage.getItem("jarvis_gemini_key") || "";
