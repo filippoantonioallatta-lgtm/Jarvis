@@ -1,19 +1,61 @@
 {
-  "updated": "2026-11-26T18:08:32.804731+00:00",
+  "updated": "2026-11-26T19:24:13.630784+00:00",
   "articles": [
+    {
+      "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
+      "uri": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
+      "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
+      "date": "Thu, 26 Nov 2026 20:16:09 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Jetzt live: Quansah trifft in Stürmermanier - Bayer erhöht in Zagreb",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520173/dinamo-zagreb_bayer-leverkusen/liveticker",
+      "text": "Am 5. Spieltag der Europa League ist Bayer Leverkusen bei Dinamo Zagreb zu Gast.",
+      "date": "Thu, 26 Nov 2026 20:15:48 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Deutsche Firmen forschen an Technik für Waffendepots im Weltraum",
+      "uri": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
+      "text": "Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Von U. Gradwohl und L.Wager.",
+      "date": "Thu, 26 Nov 2026 20:15:35 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Davis-Cup: Erst das schmerzhafte Aus, dann die nötige Verjüngung",
+      "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-deuschland-aus-verjuengung,davis-cup-deutschland-ausgeschieden-100.html",
+      "text": "Deutschland zeigte beim Davis Cup in Bologna kein schlechtes Tennis, das Aus gegen Großbritannien ging aber in Ordnung. Künftig wird sich die DHB-Auswahl verjüngen und wohl noch eine Weile auf den großen Coup warten müssen.",
+      "date": "Thu, 26 Nov 2026 20:14:36 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "U21 mit Losglück - Duell mit den Niederlanden",
+      "uri": "https://www.sportschau.de/fussball/u21/u21-mit-losglueck-duell-mit-niederlanden,auslosung-u21-em-albanien-serbien-100.html",
+      "text": "Die deutsche U21-Nationalmannschaft geht den Topteams bei der EM im Sommer 2027 in Gruppe D zunächst aus dem Weg und trifft auf Norwegen, Belgien sowie die Niederlande.",
+      "date": "Thu, 26 Nov 2026 20:03:11 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Black Friday: Dieser Over-Ear-Kopfhörer für 50 Euro schlägt Modelle für 590 Euro",
+      "uri": "https://www.heise.de/bestenlisten/testsieger/black-friday-dieser-over-ear-kopfhoerer-fuer-50-euro-schlaegt-modelle-fuer-590-euro/sl68nkv?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Zum Black Friday kosten viele getestete Over-Ear-Kopfhörer weniger. Wir zeigen die 10 besten aus über 50 Tests und die stärksten Angebote.",
+      "date": "2026-11-26T20:00:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
+      "uri": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+      "text": "In Kuwait sind bei einem Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. Italien weist Iran die Verantwortung zu, doch Teheran dementiert den Angriff.",
+      "date": "Thu, 26 Nov 2026 19:08:12 +0100",
+      "category": "Allgemein"
+    },
     {
       "title": "Warum die Bundeswehr im Senegal trainiert",
       "uri": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
       "text": "Es ist die bislang größte Bundeswehr-Übung in Afrika: Im Senegal trainieren rund 1.000 Soldaten mit den dortigen Streitkräften die Evakuierung aus einem fiktiven Krisenstaat. Warum dort? Von Kai Küstner.",
       "date": "Thu, 26 Nov 2026 18:59:05 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Jetzt live: Tillman setzt seinen Lauf fort - Bayer führt in Zagreb",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520173/dinamo-zagreb_bayer-leverkusen/liveticker",
-      "text": "Am 5. Spieltag der Europa League ist Bayer Leverkusen bei Dinamo Zagreb zu Gast.",
-      "date": "Thu, 26 Nov 2026 18:57:25 +0100",
-      "category": "Sport"
     },
     {
       "title": "Biathlon: Justus Strelow stürmt beim Biathlon-Auftakt auf Platz 2",
@@ -107,13 +149,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Rheinmetall-Arbeiter bei Angriff in Kuwait getötet",
-      "uri": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
-      "text": "In Kuwait sind bei einem iranischen Drohnenangriff zwei Italiener getötet worden, die bei dem deutschen Rüstungskonzern Rheinmetall beschäftigt waren. EU-Kommissionspräsidentin von der Leyen will den Druck auf Iran erhöhen, die Angriffe zu beenden.",
-      "date": "Thu, 26 Nov 2026 17:42:32 +0100",
-      "category": "Allgemein"
-    },
-    {
       "title": "heise+ | Etikettendrucker in ein Netzwerk einbinden und mit QR-Codes steuern",
       "uri": "https://www.heise.de/ratgeber/Etikettendrucker-in-ein-Netzwerk-einbinden-und-mit-QR-Codes-steuern-11490944.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
       "text": "Der Etikettendrucker empfängt Druckaufträge über ein Webformular am Handy. Ein E-Paper-Display mit wechselndem QR-Code stellt personalisierte Aufträge sicher.",
@@ -123,7 +158,7 @@
     {
       "title": "Rentenreform: Vom Gesamtkunstwerk zum Trümmerhaufen",
       "uri": "https://www.tagesschau.de/kommentar/respekt-rente-kommentar-schwarte-100.html",
-      "text": "Die \"Respekt-Rente\" ist der nächste Versuch der Regierung, die Rente zu reformieren. Auch sie wird wohl zerredet, weil die Koalitionäre lieber übereinander, statt miteinander reden. Das macht auf Dauer ziemlich schlechte Laune, meint Georg Schwarte.",
+      "text": "Die \"Respekt-Rente\" ist der nächste Versuch der Regierung, die Rente zu reformieren. Auch sie wird wohl zerredet, weil die Koalitionäre lieber übereinander statt miteinander sprechen. Das macht auf Dauer ziemlich schlechte Laune, meint Georg Schwarte.",
       "date": "Thu, 26 Nov 2026 17:29:47 +0100",
       "category": "Allgemein"
     },
@@ -195,13 +230,6 @@
       "uri": "https://www.sportschau.de/regional/wdr/wdr-andreas-wolff-wechselt-zum-vfl-gummersbach-100.html",
       "text": "Der VfL Gummersbach landet einen Transfer-Hammer: Nationaltorhüter Andreas Wolff kommt 2028 vom THW Kiel.",
       "date": "Thu, 26 Nov 2026 16:46:44 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Ist Recht im Sport eine Frage des Geldes?",
-      "uri": "https://www.sportschau.de/investigativ/ist-recht-im-sport-eine-frage-des-geldes,fall-anna-bader-100.html",
-      "text": "Der Fall Anna Bader zeigt, wie schwer es Anti-Doping-Organisationen fällt, bei Athleten positive Dopingproben von Kontaminationen zu unterscheiden.",
-      "date": "Thu, 26 Nov 2026 16:38:57 +0100",
       "category": "Sport"
     },
     {
@@ -396,7 +424,7 @@
     {
       "title": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
-      "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Entzug waffenrechtlicher Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+      "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
       "date": "Thu, 26 Nov 2026 12:39:55 +0100",
       "category": "Allgemein"
     },
@@ -406,6 +434,13 @@
       "text": "Mit einem neuen und undurchsichtigen Kostenmodell erhebt Google Gebühren für die API-Nutzung, auch für jene, die von bereits zahlenden Anwendern anfällt.",
       "date": "2026-11-26T12:12:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Verkaufsoffene Sonntage in Remscheid und Solingen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmlIZnNJMVM2SmowMDlsSzZsRXlXaXlQTXFOb21MUnR4aVhzSGo3a2dXbzhqdUV6N2NOODZnckFRNk5qMmRfMEQxVUNFNDNmT3dUTVV6ejZ6WXF1RVZRbmhaTklpWE4tS0RUR3VYNkZKakQxSXJOUTdKampLcWlUOWRRaTRJSVVUTElacEcyVUtzTEE?oc=5",
+      "text": "Verkaufsoffene Sonntage in Remscheid und Solingen  Radio RSG",
+      "date": "Thu, 26 Nov 2026 11:12:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Durchsuchungen in Remscheid wegen Anschlagsplan - Radio RSG",
@@ -513,13 +548,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Kommentar zum digitalen Führerschein: Eine vertane Chance",
-      "uri": "https://www.heise.de/meinung/Kommentar-zum-digitalen-Fuehrerschein-Eine-vertane-Chance-11538617.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Der digitale Führerschein soll zuerst in der i-Kfz-App erscheinen, danach in d-you. Sinnvoller wäre ein gleichzeitiger Start, kommentiert Christian Wölbert.",
-      "date": "2026-11-26T10:37:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Familienministerin Prien für bildschirmfreie Zeit bei Kleinkindern",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
       "text": "Bildschirme lenken ab - egal ob Smartphone, Tablet oder Fernsehen. Familienministerin Prien hat sich deshalb dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen sollen.",
@@ -580,7 +608,7 @@
       "uri": "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
       "text": "Um Mitarbeiter von Lieferdiensten besser zu schützen, hat die EU eine Richtlinie beschlossen. Die müsste Deutschland bis zum 2. Dezember umsetzen - es gibt aber noch keinen Gesetzentwurf. Von Jan Wiese.",
       "date": "Thu, 26 Nov 2026 06:00:09 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "Debatte um Alkoholverbot auf der Alleestraße in Remscheid - Radio RSG",
@@ -594,7 +622,7 @@
       "uri": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
       "text": "Extreme Springflut und Überschwemmungen in Kalifornien - Sturmwarnung und viel Regen an der Ostküste. Pünktlich zu Thanksgiving könnte das Wetter die Reise- und Feiertagspläne vieler US-Amerikaner durcheinander bringen.",
       "date": "Thu, 26 Nov 2026 05:41:15 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
@@ -758,13 +786,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "Wintersportverbände kritisieren die Findungskommission",
-      "uri": "https://www.sportschau.de/mehr-sport/wintersportverbaende-kritisieren-die-findungskommission,dosb-praesidentschaftswahl-102.html",
-      "text": "Wenige Tage vor der Wahl des neuen DOSB-Präsidiums wächst unter den Verbänden die Kritik am Vorgehen der Findungskommission. Die Wintersportverbände werfen ihr vor, ohne klaren Auftrag ein ganzes Team zusammengestellt zu haben. Kommissionschef Hölzl wehrt sich.",
-      "date": "Wed, 25 Nov 2026 13:13:08 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen - RGA",
       "uri": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdXBxdEh5VEZuVExLRzl0TVJSWVpYa19rWnBxdzB2Wnc4ZkhQbllVUTBOdnZmYjViek5WQURxdmVXV0h2UTFhaWk4bmk3TktyVGVJYkYxQ24yb21hX1JYRVQ3RlBpdFVleTNlakUwWHJhd012anNqQkR1Y1dVNVh4SF9oNWZGT0lZbDVDdHhhbGdSekNfeGJ4Rm12UFA4d0dTa2x2cWx6dms2czh3c2NIR19YekRCZG4wd2tCZlZuNnBfLXJyU3hUVnhQa3RsYzg1TFNQeXk1SUxKRGt6anRwbkUyY3Vvb2MyTWxQYU8zbGcxOXp2YnpJ0gGTAkFVX3lxTFBFeFVROWxUSkJaT002dl9ZdUJvSHNzckt0RTJmWU1fY1E2STdTYXZEdmdoYkc1b3l6V05aUEVqbFQ2bk9sSVJucmhTYS1JOFA1b0xHWHhXd0xaMFgydmIzRUpWRUNLSHhaZ0RvWEVDU2I1aDlJSGxGVURXWEE5cVk0R0tvdlNMQ2h1eWlqc2ZldkpiaUFPNXpCVEdyXzBUaXFuS0lyemhYVTFSVjI0MWo4LWJqOE90UnJfSGZNaGJnWnBBWktzVmRhckhvVGhTc1luN1YwOVU5SEZldnpidWlSb2lXdGQxVjRJSTRIUlhEazl0eWZ1dTRfNEI3eEhnUmZYV0JoRDJETE0ydy1MSmNzY04w?oc=5",
       "text": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen  RGA",
@@ -868,13 +889,6 @@
       "text": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
       "date": "Wed, 25 Nov 2026 07:11:51 +0100",
       "category": "Deutschland"
-    },
-    {
-      "title": "BHC verpasst vorzeitigen Play-off-Einzug - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRXM1p0Z1JDcWdvRUNIZG5RTlFqRXktaFg2Z0J1LVZoX1hhVm5udWt2NDJRY3ZnOXRnbkZ2cVJ1YzBMTUpkNzlOQUpybEF6aHNSbVUzdjFZZnhCVEJ0bktCZ25xc0Utc1czd3cxdDJaZnYzSm1Nc1JzWmNGWlhScUdVNjd5amc?oc=5",
-      "text": "BHC verpasst vorzeitigen Play-off-Einzug  Radio RSG",
-      "date": "Wed, 25 Nov 2026 06:01:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet - Radio RSG",
@@ -1120,13 +1134,6 @@
       "text": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben  RP Online",
       "date": "Mon, 23 Nov 2026 13:06:00 GMT",
       "category": "Remscheid"
-    },
-    {
-      "title": "Nachfolge von Aiwanger: Tobias Gotthardt wird Wirtschaftsminister",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html",
-      "text": "Nach dem plötzlichen Tod von Bayerns Wirtschaftsminister Aiwanger soll Staatssekretär Gotthardt als Wirtschaftsminister folgen. Der Landesverband wird künftig von einer Doppelspitze geführt.",
-      "date": "Mon, 23 Nov 2026 13:17:05 +0100",
-      "category": "Deutschland"
     },
     {
       "title": "Immer noch kein Stadtbaumkonzept in Remscheid - Radio RSG",
@@ -1413,13 +1420,6 @@
       "uri": "https://www.tagesschau.de/wissen/forschung/medizin-nobelpreis-optogenetik-100.html",
       "text": "Ein Berliner, ein Würzburger und ein US-Amerikaner erhalten den Medizin-Nobelpreis. Peter Hegemann, Georg Nagel und Karl Deisseroth teilen sich die Auszeichnung. Ihre Arbeit zeige, wie Nervenzellen im Gehirn Erinnerungen, Gefühle und Verhaltensweisen formen.",
       "date": "Mon, 05 Oct 2026 14:27:25 +0200",
-      "category": "Wissenschaft"
-    },
-    {
-      "title": "125 Jahre Nobelpreis: Was macht die Auszeichnung so bedeutend?",
-      "uri": "https://www.tagesschau.de/wissen/forschung/nobelpreise-125-jahre-100.html",
-      "text": "Von heute an wird wieder verkündet, wer die diesjährigen Nobelpreise erhält - und das seit mittlerweile 125 Jahren. Warum hat die Auszeichnung eine so hohe Bedeutung? Und wie werden die Preisträger ermittelt? Von Nina Kunze.",
-      "date": "Mon, 05 Oct 2026 06:32:01 +0200",
       "category": "Wissenschaft"
     },
     {
