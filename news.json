@@ -1,12 +1,54 @@
 {
-  "updated": "2026-11-26T14:32:26.276502+00:00",
+  "updated": "2026-11-26T15:44:06.149031+00:00",
   "articles": [
     {
-      "title": "Jetzt live - Entscheidung im Doppel: Deutschland droht das Aus",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/tennis/davis-cup/ma12661073/patten-h---skupski-n_krawietz-k---puetz-t/liveticker",
-      "text": "Im Viertelfinale des Davis Cup fällt die Entscheidung zwischen Deutschland und Großbritannien im Doppel. Kevin Krawietz und Tim Pütz liegen gegen das britische Duo Henry Patten und Neal Skupski zurück.",
-      "date": "Thu, 26 Nov 2026 15:03:14 +0100",
+      "title": "So läuft der Wintersport ab Freitag in der Sportschau",
+      "uri": "https://www.sportschau.de/wintersport/so-laeuft-die-wintersport-woche-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html",
+      "text": "Das erste große Wintersport-Wochenende steht an. Nach den Skirennfahrern und den Skispringern steigen auch die Biathleten, Langläufer und Kombinierer ins Weltcup-Geschehen ein.",
+      "date": "Thu, 26 Nov 2026 16:19:42 +0100",
       "category": "Sport"
+    },
+    {
+      "title": "Davis Cup: Deutschland scheidet im Viertelfinale aus",
+      "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-deutschland-scheidet-aus,davis-cup-viertelfinale-100.html",
+      "text": "Das deutsche Team träumte vom ersten Davis-Cup-Titel seit 33 Jahren. In der Theorie standen die Chancen so gut wie lange nicht. In der Praxis ist die Auswahl um Alexander Zverev bereits im Viertelfinale an Großbritannien gescheitert.",
+      "date": "Thu, 26 Nov 2026 16:13:46 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Abrechnungsfehler: Was OpenAIs GPT-6.2-Korrektur für Abonnenten bedeutet",
+      "uri": "https://www.heise.de/news/OpenAI-korrigiert-Abrechnungsfehler-GPT-6-2-Limits-sind-schneller-erreicht-11539469.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "OpenAI hat die Nutzung von GPT-6.2 Astra und Sol zu niedrig angerechnet. Nach der Korrektur erreichen zahlende Nutzer ihre Limits deutlich früher.",
+      "date": "2026-11-26T16:02:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Spanier Hernández de Cos soll laut Medien Nachfolger von EZB-Chefin Lagarde werden",
+      "uri": "https://www.tagesschau.de/eilmeldung/ezb-chef-de-cos-100.html",
+      "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge laut Medienberichten geklärt: Die Wahl fiel auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
+      "date": "Thu, 26 Nov 2026 16:00:32 +0100",
+      "category": "Wirtschaft"
+    },
+    {
+      "title": "Jetzt live - Einzel der Männer in Kontiolahti",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1211/kontiolahti/ma11978504/liveticker-list",
+      "text": "Weltcup-Auftakt für die Biathleten: Für das DSV-Team steht in Kontiolahti das erste Rennen der Saison an.",
+      "date": "Thu, 26 Nov 2026 15:58:47 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Livestream: Biathlon mit dem Einzel der Männer",
+      "uri": "https://www.sportschau.de/wintersport/wintersport-im-ersten,livestream-wintersport-im-ersten-116.html",
+      "text": "Der Biathlon-Weltcup startet mit dem Einzel der Männer über 20 Kilometer im finnischen Kontiolahti.",
+      "date": "Thu, 26 Nov 2026 15:50:29 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
+      "uri": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/temu-eu-verfahren-verbraucherschutz-100.html",
+      "text": "Der Onlinehändler Temu will Verbraucher in der EU besser schützen. So verzichtet das chinesische Unternehmen künftig nach eigenen Angaben auf gefälschte Bewertungen oder das Ausüben von Kaufdruck.",
+      "date": "Thu, 26 Nov 2026 15:38:50 +0100",
+      "category": "Allgemein"
     },
     {
       "title": "heise+ | Tagesform auf der Apple Watch: Das taugt die neue Fitnessampel",
@@ -38,7 +80,7 @@
     },
     {
       "title": "Bekommt die Bundesliga einen Überraschungsmeister?",
-      "uri": "https://www.sportschau.de/kane-verletzt-wirbel-um-musiala-ist-dortmunds-chance,bundesliga-update-spieltag-11-100.html",
+      "uri": "https://www.sportschau.de/bekommt-die-bundesliga-einen-ueberraschungsmeister,bundesliga-update-spieltag-11-100.html",
       "text": "Aktuell ist das Meisterrennen der Bundesliga so spannend wie lange nicht mehr. Oben an der Tabelle ist es eng. Ein anderer Meister als Bayern München ist nicht mehr unrealistisch.",
       "date": "Thu, 26 Nov 2026 14:39:17 +0100",
       "category": "Sport"
@@ -142,13 +184,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Davis-Cup-Viertelfinale in Bologna: Starker Zverev wahrt deutsche Chance aufs Weiterkommen",
-      "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-viertelfinale-zverev-ausgleich,davis-cup-viertelfinale-100.html",
-      "text": "Weil Alexander Zverev seine Aufgabe souverän erledigt, fällt die Entscheidung über den Einzug ins Davis-Cup-Halbfinale zwischen Deutschland und Großbritannien im Doppel. Die Protagonisten erwarten ein \"50:50-Spiel\".",
-      "date": "Thu, 26 Nov 2026 13:41:36 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Handball-Bundesliga: Andreas Wolff wechselt vom THW Kiel zum VfL Gummersbach",
       "uri": "https://www.sportschau.de/regional/ndr/andreas-wolff-verlaesst-thw-kiel-und-wechselt-zum-vfl-gummersbach,thw-kiel-594.html",
       "text": "Der am 30. Juni 2028 auslaufende Vertrag des Nationalkeepers wird nicht verlängert. Er wechselt innerhalb der Bundesliga vom THW nach Gummersbach.",
@@ -212,9 +247,9 @@
       "category": "Technik"
     },
     {
-      "title": "Mitglieder von früherer AfD-Jugend dürfen Waffenschein behalten",
+      "title": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
-      "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
+      "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Entzug waffenrechtlicher Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
       "date": "Thu, 26 Nov 2026 12:39:55 +0100",
       "category": "Allgemein"
     },
@@ -224,6 +259,13 @@
       "text": "Mit einem neuen und undurchsichtigen Kostenmodell erhebt Google Gebühren für die API-Nutzung, auch für jene, die von bereits zahlenden Anwendern anfällt.",
       "date": "2026-11-26T12:12:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Durchsuchungen in Remscheid wegen Anschlagsplan - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObkVrTWVUSG5WQ2xqbjBWazhzMk9oN1JaS01WclotQUxfMUlfa1EyNTR1TGRzQkVrSF9fNHlWcGI4MWlGMGc3aWVsN1ZCOGc3cmxTUm50S3NfZUw1WDJpbTdfUHMxSS0tZ3c2RkppM0lLNnVLMllwZC1Jb2RabUVDM0U5X3lWYjY4WDRkb0hqbE0?oc=5",
+      "text": "Durchsuchungen in Remscheid wegen Anschlagsplan  Radio RSG",
+      "date": "Thu, 26 Nov 2026 11:06:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Streit um EU-Haushalt: Warum die Slowakei blockieren will",
@@ -247,16 +289,16 @@
       "category": "Remscheid"
     },
     {
-      "title": "heise+ | H2O-3: Open-Source-Plattform für maschinelles Lernen mit Java-Unterstützung",
-      "uri": "https://www.heise.de/hintergrund/H2O-3-Open-Source-Plattform-fuer-maschinelles-Lernen-mit-Java-Unterstuetzung-11534444.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "H2O-3 ist eine Open-Source-Plattform für verteiltes und skalierbares maschinelles Lernen. Es unterstützt neben anderen Sprachen auch Java.",
+      "title": "heise+ | Silent-Allrounder: Bauvorschlag für einen flüsterleisen Gaming-PC",
+      "uri": "https://www.heise.de/ratgeber/Silent-Allrounder-Bauvorschlag-fuer-einen-fluesterleisen-Gaming-PC-11467907.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "text": "Unser leistungsfähiger PC-Bauvorschlag taugt für Gaming, Videoschnitt und KI. Dabei arbeitet er sparsam und leise und lässt sich flexibel ans Budget anpassen.",
       "date": "2026-11-26T12:00:00+01:00",
       "category": "Technik"
     },
     {
-      "title": "heise+ | Silent-Allrounder: Bauvorschlag für einen flüsterleisen Gaming-PC",
-      "uri": "https://www.heise.de/ratgeber/Silent-Allrounder-Bauvorschlag-fuer-einen-fluesterleisen-Gaming-PC-11467907.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Unser leistungsfähiger PC-Bauvorschlag taugt für Gaming, Videoschnitt und KI. Dabei arbeitet er sparsam und leise und lässt sich flexibel ans Budget anpassen.",
+      "title": "heise+ | H2O-3: Open-Source-Plattform für maschinelles Lernen mit Java-Unterstützung",
+      "uri": "https://www.heise.de/hintergrund/H2O-3-Open-Source-Plattform-fuer-maschinelles-Lernen-mit-Java-Unterstuetzung-11534444.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "text": "H2O-3 ist eine Open-Source-Plattform für verteiltes und skalierbares maschinelles Lernen. Es unterstützt neben anderen Sprachen auch Java.",
       "date": "2026-11-26T12:00:00+01:00",
       "category": "Technik"
     },
@@ -310,7 +352,7 @@
       "category": "Sport"
     },
     {
-      "title": "Biathlon-Weltcup startet in Kontiolahti",
+      "title": "Biathlon-Weltcup startet ohne Danilo Riethmüller",
       "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
       "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
       "date": "Thu, 26 Nov 2026 11:15:34 +0100",
@@ -443,13 +485,6 @@
       "category": "Technik"
     },
     {
-      "title": "heise+ | Raspberry Pi Pico W: Mit eigener Firmware zum treiberlosen WLAN-Stick",
-      "uri": "https://www.heise.de/ratgeber/Raspberry-Pi-Pico-W-Mit-eigener-Firmware-zum-treiberlosen-WLAN-Stick-11512691.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Das 7-Euro-Platinchen Raspberry Pi Pico W wird mit wenigen Klicks zum WLAN-Adapter, der schwierige Geräte per USB-Standardtreiber ans Netz bringt.",
-      "date": "2026-11-26T09:00:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "EU-Geld für die Ukraine - wie gegen Korruption vorgegangen wird",
       "uri": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html",
       "text": "Die Ukraine braucht viel Geld wegen der Schäden durch russische Luftangriffe. Das kommt oft von der EU. Journalisten und Politiker decken Fälle mutmaßlicher Korruption auf - und bewegen damit etwas. Von F. Kellermann.",
@@ -534,6 +569,13 @@
       "category": "Allgemein"
     },
     {
+      "title": "Früh-Update am Donnerstag",
+      "uri": "https://www.sportschau.de/podcasts/sportschau-update/frueh-update-am-donnerstag,audio-frueh-update-am-donnerstag-276.html",
+      "text": "Fußball: Bayern und Stuttgart verlieren in der Champions-League +++ Tennis: Deutschland will die Salatschüssel +++ Handball: Wolff verlässt Kiel +++ Ski Alpin. Brignone beendet Karriere +++ DOSB: Kritik an Findungskommission",
+      "date": "Wed, 25 Nov 2026 23:56:16 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Champions League: Wirtz trifft erneut, Liverpool gewinnt in Brügge",
       "uri": "https://www.sportschau.de/fussball/championsleague/wirtz-trifft-erneut-liverpool-gewinnt-in-bruegge,spielbericht-cl-bruegge-liverpool-100.html",
       "text": "Der FC Liverpool hat in der Champions League beim FC Brügge klar gewonnen. Florian Witz traf dabei erneut sehenswert.",
@@ -594,7 +636,7 @@
       "uri": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
       "text": "Mehr Schutz vor Gewalt und Ausbeutung - Zwangsprostitution und Menschenhandel wirksamer bekämpfen: Die schwarz-rote Koalition will Prostitution neu regeln. Eine Expertenkommission empfiehlt nun strengere Regeln.",
       "date": "Wed, 25 Nov 2026 20:14:28 +0100",
-      "category": "Allgemein"
+      "category": "Deutschland"
     },
     {
       "title": "Ukraine-Hilfe polarisiert die Generaldebatte im Bundestag",
@@ -616,13 +658,6 @@
       "text": "Was tun, wenn ein Asteroid auf die Erde zusteuert? Die Sonde \"Hera\" untersucht einen Asteroiden, an dem so ein Abwehrversuch getestet wurde. Noch fehlen viele Informationen, klar ist aber: Einfach wird das nicht. Von David Beck.",
       "date": "Wed, 25 Nov 2026 18:30:09 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Ski-Star Brignone beendet wegen anhaltender Schmerzen Karriere",
-      "uri": "https://www.sportschau.de/wintersport/ski-alpin/ski-star-brignone-beendet-karriere,brignone-karriereende-100.html",
-      "text": "Die zweimalige Ski-Olympiasiegerin Federica Brignone hat ihr Karriereende erklärt. Die Schmerzen im Knie seien schlicht zu groß.",
-      "date": "Wed, 25 Nov 2026 17:37:39 +0100",
-      "category": "Sport"
     },
     {
       "title": "EU-Kommission erlaubt weiter Staatshilfen für Landwirte und Industrie",
@@ -716,13 +751,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "Hennig Dotzlers Saison der letzten Male",
-      "uri": "https://www.sportschau.de/wintersport/langlauf/langlaeuferin-katharina-hennig-dotzler-startet-saison-der-letzten-male,langlauf-katharina-hennig-dotzler-startet-in-letzte-saison-100.html",
-      "text": "Für Katharina Hennig Dotzler beginnt am Wochenende ihre letzte Saison als Langläuferin. Noch einmal warten große Ziele, besondere Orte und emotionale Momente.",
-      "date": "Wed, 25 Nov 2026 14:02:36 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wintersportverbände kritisieren die Findungskommission",
       "uri": "https://www.sportschau.de/mehr-sport/wintersportverbaende-kritisieren-die-findungskommission,dosb-praesidentschaftswahl-102.html",
       "text": "Wenige Tage vor der Wahl des neuen DOSB-Präsidiums wächst unter den Verbänden die Kritik am Vorgehen der Findungskommission. Die Wintersportverbände werfen ihr vor, ohne klaren Auftrag ein ganzes Team zusammengestellt zu haben. Kommissionschef Hölzl wehrt sich.",
@@ -742,13 +770,6 @@
       "text": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert.",
       "date": "Wed, 25 Nov 2026 12:47:38 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Kirmes in Lüttringhausen kommt im Sommer 2027 zurück - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWZGYm5TZjlDTWduYXh3UWNRTF9xdTlGcU5FZ2RjSFJZRnVIV1RpUmFYdWF1aU1RX3YzZ3ZoX3haT0k3QjJUdDRhQnotMDNsR3lQM2pkOUFESkl6MXZPdE9vRWpXUzlETC0wQ2YzS0JNZ0t0dXJWYkdsbzRLbE9kb3lOTktrT2s4YUZlYTE2dVhoTU9PMEZBaG5n?oc=5",
-      "text": "Kirmes in Lüttringhausen kommt im Sommer 2027 zurück  Radio RSG",
-      "date": "Wed, 25 Nov 2026 11:44:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Viele offene Fragen bei Chipkonzern Nvidia",
@@ -856,13 +877,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Hackenberg wieder warm - Hasenberg weiter mit Problemen - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1RLSVQzLVUyYzdweV9lejY1aWdwbS1Fb1JnSEgxeXUzb0lSZEJ1enZQeFlpMVA4S2x0eVlBZW1MX2U2Rm55TkdNS2s0Uzl5Tkc1bXM1LURDakpSa19ROVhIYmhDSlYycWQyaXNLc0o5djQ4YjJ1TUNjQkFGYkliR2VaZDZmOXYwZG1RWG1rZTZiZFNSSXlmVQ?oc=5",
-      "text": "Hackenberg wieder warm - Hasenberg weiter mit Problemen  Radio RSG",
-      "date": "Wed, 25 Nov 2026 05:49:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet - Radio RSG",
       "uri": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2VQem5IMTV0bGFjek14R2l3dDFJOGdid0ZPU3pWcTVsbDdLWGVuazJSQ3ItcUdMeFlOUlE1RE41dFgzcEswTWNVUlVPNFRqVVBrZ3BiYmdZTVZmV2V0b2FMMWoyWGJmTzRMckRBQWVzUkdKemROX0Rhd0VPeGVESmZ2WW9OcHNXek1Gc09vWjVzT3RMR0tCVUFCM3VaX0EwRlE?oc=5",
       "text": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet  Radio RSG",
@@ -903,13 +917,6 @@
       "text": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
       "date": "Wed, 25 Nov 2026 01:06:58 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "Ex-Vaillant Manager bestreitet alles - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1FEN2pjVm95ZmltWEx3Y1h1bTJTRHVQamJ0YWtENGptRUpqeUpLSkdSbXhJUi1neDY1bWxta2pZSDVQSnhxd240WTE3ZlZWdWVPeG5DTGRyQ0VjRTJ5ZzVkQ0p0T19PMGZYRGFTUHUyWV9USEgyQV9TYVFMRkg1WU41ZVdhWlVmTzZGV1BLZ1h3bjJFb3oxeWtDMEU2cXVXWXVsb043blJFWVRsZWQ1aWdLNDhod9IBtAFBVV95cUxQdlV4UktXQ3RjRkZOMHRSY1NSMkh3NnQ5dVo3UWlGOGN6NzNMN0l2T2ZucS1mNXExX3lRaW44QjZxOGVDZmFKY3IyM28yOWxiUndGTlNJWENrel9tR3IyQVR6bWpIZTI5bUh6cXBHcVpZbFB4VndSb0hBLTJ2a3pkREIyeFEzWFZyaXlDNTJoYjJ2MFVfVUJLQ2E5RXZGRFJaUmlMYXEwRTI4c25BRlNfVGFDQ3k?oc=5",
-      "text": "Ex-Vaillant Manager bestreitet alles  WDR",
-      "date": "Tue, 24 Nov 2026 19:10:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Verbraucherschützer haben die smarte Brille im Blick",
@@ -966,13 +973,6 @@
       "text": "Ein für heute geplanter Abschiebeflug nach Kabul wurde nach NDR-Informationen von afghanischer Seite abgesagt. Die Taliban wollen offenbar Druck machen, um die Einreise weiterer Konsularbeamte nach Deutschland zu erzwingen. Von P. Hornung.",
       "date": "Tue, 24 Nov 2026 16:15:31 +0100",
       "category": "Deutschland"
-    },
-    {
-      "title": "Steuerzahlerbund kritisiert Remscheider Bewohnerparkausweise - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFhDekItNUlNTDZDUHF6T2JXWjhJS0poZ3BYdktmdWRrX3NEQWpJdmt6em5xYmt1U0EzWVVZc201Qm5WWXYtbDAwMWx3NjVVZkh4bkNOX2R0YlVWcEoyTFVndVN6bTJBZ2szYmdvQlJvME5kYk1wdnFTbnNJZWNwVlMtNWpvLUhVNFJrbXpMYUpNamJFMzJ0Yko2QTZ5YzNGa0E?oc=5",
-      "text": "Steuerzahlerbund kritisiert Remscheider Bewohnerparkausweise  Radio RSG",
-      "date": "Tue, 24 Nov 2026 14:17:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Kita-Gap-Portal: Trotz weniger Geburten fehlen Kitaplätze",
@@ -1038,6 +1038,13 @@
       "category": "Remscheid"
     },
     {
+      "title": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit - Stadt Remscheid",
+      "uri": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0s1Y2w1LVZFRnFxcHN4dER4V0lDU1lsV0xGNzE2Y0RtNFhFUFNkdUlJdE1qLU9pMGJVd3RLa0lTNHZ4eEV6RS10VTdkdTVxc2JFSDJiN2JHV2J5MDVmVTNkOHhKVGstRHRDWnNrR1RjUTNXZEw0WG1MWmNzSTRNWlQxRnBZc0JWdm5UdmR2NTFyNjIwb2tYeGFLUQ?oc=5",
+      "text": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit  Stadt Remscheid",
+      "date": "Tue, 24 Nov 2026 07:25:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Bayer 04 bekommt zur richtigen Zeit die Kurve",
       "uri": "https://www.sportschau.de/regional/wdr/wdr-bayer-04-bekommt-zur-richtigen-zeit-die-kurve-100.html",
       "text": "Gerade rechtzeitig vor dem Jahresendspurt kommt Bayer 04 Leverkusen in Form. In der Europa League soll der nächste Sieg folgen.",
@@ -1071,20 +1078,6 @@
       "text": "Mit dem Friedensabkommen in Kolumbien von 2016 wurden weltweit große Hoffnungen verknüpft. Er sollte ein halbes Jahrhundert Bürgerkrieg beenden. Doch zehn Jahre später ist Kolumbien polarisiert wie lange nicht. Von Jenny Barke.",
       "date": "Tue, 24 Nov 2026 06:28:47 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "Schmiergeld in Millionenhöhe: Ex-Manager vor Gericht - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkRrMnZrbFhXVF9DdzRMQXVvdE9lazQ3Y2I0aHo3NHFLYmdRbjFINmZOWlpFQXVnZDFBRThqOTZHRWp6cFZQX0I5ZEJQVVVMcnhJenpJUnVJRllUWHJyQW10VUZhem5YeS0xUmk4bzB1TmlVakN3YWRoak9UdlkxN2FEQzRPVzlvQVdVRWZDejFEUk9jYU5j?oc=5",
-      "text": "Schmiergeld in Millionenhöhe: Ex-Manager vor Gericht  Radio RSG",
-      "date": "Tue, 24 Nov 2026 05:20:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "VW-Tarifrunde beginnt in Emden - wo die Streitpunkte liegen",
-      "uri": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
-      "text": "Mitten in der tiefsten Krise der Konzerngeschichte startet heute die Tarifrunde für rund 120.000 Volkswagen-Beschäftigte. Das Management will Kosten senken, die IG Metall wehrt sich gegen weitere Einbußen. Von T. Hildebrandt.",
-      "date": "Tue, 24 Nov 2026 06:04:00 +0100",
-      "category": "Wirtschaft"
     },
     {
       "title": "Deutschland baut künftig ukrainische Drohnen",
@@ -1143,13 +1136,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "So läuft der Wintersport ab heute in der Sportschau",
-      "uri": "https://www.sportschau.de/wintersport/so-laeuft-die-wintersport-woche-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html",
-      "text": "Das erste große Wintersport-Wochenende steht an. Nach den Skirennfahrern und den Skispringern steigen auch die Biathleten, Langläufer und Kombinierer ins Weltcup-Geschehen ein.",
-      "date": "Mon, 23 Nov 2026 14:40:07 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben - RP Online",
       "uri": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG83YWJYWG9vTGZhMGo4OEJXeVRscFR6VGlLM2w2VlBVNUhyejRXR2hnRG51OG43eWJnaUhpYkN2Z0JyMUgwTWpfNmpYOUE5UmplZkM5cW91ZXhsOXJNdEEyZHBfbWVzRHFLbjQwbEpvN1dzdHprcTQ4dmRibEdNd3RrS3pxRjZVZndObUUtWUk2X1ZyRDVPOGYyMVJkODNic21feFJWcEhUcXhwUXh3UkNhNkpLb3FtTkoxTw?oc=5",
       "text": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben  RP Online",
@@ -1199,13 +1185,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Handelsverband hofft auf gutes Weihnachtsgeschäft - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkV6NExCUVU2Z2dZekI2ZEVqR0pvb2lEMmNrc251ZGk4XzRqMm1BOUNYbUxZLWtPLXc4SEhHSGpabTRkS2hNYmVMR1BXOTRpU0c3Wi1BMmdiaENmY29wcEZNWWhwUHRGMmNTQnh5bWcxVmVkQllnby1Mbnh1NnR6ZTZsM1Q1SWJxRWVNQ09oQmVxTVpM?oc=5",
-      "text": "Handelsverband hofft auf gutes Weihnachtsgeschäft  Radio RSG",
-      "date": "Mon, 23 Nov 2026 05:05:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
       "uri": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
       "text": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
@@ -1227,13 +1206,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Wiener Schmäh statt Wartezeit: So unterstützt das Remscheider Unternehmen Vaillant SOS Kinderdörfer weltweit - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZUl5TV9MUWhDMFM0QXhUaVhKZE5aYW83NEtNNFhqWTdzMkZlcTJqSVM0NWZ6ajdndkZhMTlDakZJa1N3SE5DdU9kZUVJeFF1ZWV5ZFdna3pMQi11Rk5remhCZEdFeV90Z0JSM2VyaG80RmN4WHRmemk5TWhOVHFBbi15aGgwNmNhRTBQZEdsbElHMlJJNERHeW5Xd01sN1Rlbms1X29LdlUyTFYwVDB5QTQ2UVF3akt0ZHZLc2F5OUx4cjFIRDBCdTcyakZYR3RPLU56NFlRakJkY1JPV3FhYVg5WEdtdml1ZkVpaNIBiAJBVV95cUxOYkpLYU5DNHA2VGp3UGhxcTQ0UlZRTHpxdXRkYURiNmlGNzFwWlFYNmowY3o3R285YTRjVnlVYXdvMWdOVWxSZU9UUHgtVUthQ1NuZ0JIckhSd1FQWW9Hc1pUS3paUGZRa0ZuNkVrMDhNODVLdDJLS19wNEU0X3pTVUw3cDkzaXZ3TFZ0dmMyTC02blhwdV9wXzVUa3VkSWIzLTc5YUdCUWh5dnpUS2doUVI5NHBoUVR3TE1rdDVrdnFNOUhVVnRoampqUzV4S0dXOGl4VFcycXR1WEQyWjdSM255MUE3UkdicF9SdnZzc1h0U19NcHJpR1AxaTBYemRrSUNxVjI2bmg?oc=5",
-      "text": "Wiener Schmäh statt Wartezeit: So unterstützt das Remscheider Unternehmen Vaillant SOS Kinderdörfer weltweit  RGA",
-      "date": "Sat, 21 Nov 2026 15:04:53 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "\"Costa Concordia\"-Kapitän Schettino auf Bewährung aus Haft entlassen",
       "uri": "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
       "text": "Aufgrund eines riskanten Manövers kenterte die \"Costa Concordia\" 2012 vor der Küste Italiens. 32 Menschen starben. Nun ist der ehemalige Kapitän des Schiffes aus dem Gefängnis entlassen worden. Von Anna Giordano.",
@@ -1248,17 +1220,10 @@
       "category": "Remscheid"
     },
     {
-      "title": "Sport am Wochenende - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyVmZ2VmZWSTI1S0lfT3dKWTlRMFllY2lERXVQU0RkREt5clFINDZTdEdwTTJlVzJ2WW1oRDZlUWhZVWd0Y3NsUmMwVkxBbkY0YWpaTl9mVS02WDZQQWFzY2p6Wm9lMDY0UFU4?oc=5",
-      "text": "Sport am Wochenende  Radio RSG",
-      "date": "Fri, 20 Nov 2026 16:27:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Jahnkampfbahn kann nicht genutzt werden - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMnVVS0xEX1BpSWoxTnBBRUVWVjRKS1otNlhXaTdpRTBBX3lndWtaZzlvZU0wWmpYYVNqODc2d0QwMG9JRGh2Q0dKeFNFczBZZ2UyZTFTdFRQZlpsOE1VRGhCQ0d0YVItQTVRWlBiLVFHcl9saS1RTDVyV2g3dm5QLWpNSlF4QQ?oc=5",
-      "text": "Jahnkampfbahn kann nicht genutzt werden  Radio RSG",
-      "date": "Fri, 20 Nov 2026 16:23:00 GMT",
+      "title": "Weihnachtsbasar der JVA Remscheid - Justiz NRW",
+      "uri": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNzczUWJPdjdNWGUzSm54c2xyaWhDMVFGX3kxQVB2N0Y0NUtLZDJYeG1qNGVjVWdhLVlMbF9kaDkxa1FWdDJWZzUzOWduQXZESU5VVUhn?oc=5",
+      "text": "Weihnachtsbasar der JVA Remscheid  Justiz NRW",
+      "date": "Sat, 21 Nov 2026 08:00:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1267,13 +1232,6 @@
       "text": "Von Kriegen bis Klimawandel - Jugendliche sehen sich stärker als frühere Generationen durch einen Mix aus Dauerkrisen bedroht. Von der Politik fühlen sie sich im Stich gelassen und fürchten um ihre Zukunft. Von Sven Kästner.",
       "date": "Fri, 20 Nov 2026 12:40:13 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Was die Volkswagen-Forderungen für Beschäftigte bedeuten könnten",
-      "uri": "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
-      "text": "Kein Lohnplus, mehr Arbeit, weniger Extras: VW hat der IG Metall einen Forderungskatalog vorgelegt, der es in sich hat. Was auf die Beschäftigten zukommen könnte - und warum eine schnelle Einigung kaum möglich ist.",
-      "date": "Fri, 20 Nov 2026 10:55:01 +0100",
-      "category": "Wirtschaft"
     },
     {
       "title": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle - RGA",
@@ -1287,13 +1245,6 @@
       "uri": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFJoYjJmeDFydnhSWEN0cDRJQndTUnBhbnNvd3cwdFVoY1l0ajNHTTJTQzY5UmVLbUxDUWFFM0JVZ0dlenVLRFZfQ214VXlkem5Fd2t6NV9feTVWM0Q2OEVJNGxEa3c4WHhzd0oyNHBfc2JyVFBTYm95ZmwwaEtDMGx3MFM4TTdYaXdERHVEbTgyb1NpME5BNTVSeTJnYWRudkJPaXVfNkRZS0dWWFdnamlWRGFGMTdNeUdmakhxVTNaUF9xYkR0TA?oc=5",
       "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
       "date": "Thu, 19 Nov 2026 15:55:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Polizei durchsucht Gebäude in Remscheid und Solingen - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFVmbzdNYm05OWlhcnQ3Ym5WU1JibjljQWdZSm11alVhOXdVeFhJaU9nM0hfa2sxZFhUZE5NenlvRGowY2ZUQ3MwekMyRzlyRC1YYnoyNDlRczRsdWIyUXQxZVlrUkZ0ZHFoQ0t0Xy1FVVphcnBYdkNmcmxpLURyVloxbWRoVU1URUFuaXF0WHRzRVRzTDB1VA?oc=5",
-      "text": "Polizei durchsucht Gebäude in Remscheid und Solingen  Radio RSG",
-      "date": "Thu, 19 Nov 2026 09:48:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1325,6 +1276,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid - FuPa ⚽️",
+      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWROTVBUNXpMckd4VWFKVE8tX1ZJMTlDX01ncHg5WHFMNmxmWEY4eDVQdHRyTUdPMWNvZWpmWWRvYVIydHo0SzNrZ2I3emRXTU1ReTY3V1ZaZkhWUmpldU5TcGhzSE5PdG14aEtYWElGZ2UtZ0lQSUpVcWhxRDZ5QzJuMlR4c1daZUxBbzJJZ2JCVVFKTVZ2QU9aQko?oc=5",
+      "text": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid  FuPa ⚽️",
+      "date": "Tue, 17 Nov 2026 11:13:23 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html",
       "text": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
@@ -1337,6 +1295,20 @@
       "text": "Sie fallen nicht auf und sind einfach zu bekommen: sogenannte Baller-Liquids - starke Drogen für die E-Zigarette. Die Flüssigkeiten werden gezielt an Teenager verkauft. Doch ihr schneller Rausch kann lebensbedrohlich sein. Von Jenny Witt.",
       "date": "Sun, 15 Nov 2026 05:11:26 +0100",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Remscheider SilberRock - Stadt Remscheid",
+      "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDBQZ3JtNTNfaTh0Q0NZZ2RxVWJuNEZBSXpZUmthOXZDYTluQVpUM0xmbk1LU0RlaERIaXQwdmR3NnNzUDZnNmwxNThlMldKQVVVS2ZxLXQ1M0M3QmU4cDJCb0l2TlhMaDVhQ3BoZF9rZ09vWXhCd2psb3NCWnFuQmp2ZDUwVmhZTnR1aU1n?oc=5",
+      "text": "Remscheider SilberRock  Stadt Remscheid",
+      "date": "Tue, 10 Nov 2026 11:55:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Gedore schließt einen Standort in Remscheid - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjZOTmpGT2IySlJqeVBCMFI1aXV2Z3FwM200VTYtRnYtMXZsSFBnZldhM2gzTFRaSXk4Z2MzbXZmWFdMSnpmNnQyV1ZsWWc2NzBERkt3Q1Y5NGlJYXdjclRnamhpeTRwQUVsRE81WGVRM2NsVk5vY2tibkhrSU1xQVdOSEtsdUdfX0pYUw?oc=5",
+      "text": "Gedore schließt einen Standort in Remscheid  Radio RSG",
+      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Tor des Monats Oktober - alle Tore",
@@ -1353,11 +1325,32 @@
       "category": "Sport"
     },
     {
+      "title": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam - Deutscher Judo-Bund",
+      "uri": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5iMmFHbVV6ZVIza1V5VVFFYlhBQVdWZWZGV0cwZnFwWmVIakoxcDFYRGJaYkNxR3pxSE81dnBrcGFfeTVsbFFPQU5qWEZXNTdwUmxNS3F5UFhSTU5RdllPcE4xR2JuREFheWhFS0toNjEtNU5kZ25Ddy1aczF2M3dxc2ZwTWtlRXV2UjhnTm94QkZxT3B0Rm1Bbk1nSDY0?oc=5",
+      "text": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam  Deutscher Judo-Bund",
+      "date": "Thu, 05 Nov 2026 19:51:55 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Studie sieht Solingen und Remscheid wenig zukunftsfähig - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEhrRUFkNV9SMV9KZmRpTDl2R3VhOFA4RWxfMlQ0UnNTeE9MSm5zZlpMNFNtMDVmTVh4Z2lDUVlVakwtUXVsUi1xYU9kRk05UF9YODJPb3NVTk9uakJuanlER2VCcHZuLVZaLXZBR1UwNXR1NW83azdzQVh6a0ZpSDN4MmZuaVRnaWt2dF9GbHAxM21ZS3VUaTRaUE0?oc=5",
+      "text": "Studie sieht Solingen und Remscheid wenig zukunftsfähig  Radio RSG",
+      "date": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/kinder-jugendliche-bewegung-100.html",
       "text": "Sport und Bewegung gehören für viele Kinder und Jugendliche nicht mehr zum Alltag. Nur 14 Prozent bewegen sich laut WHO täglich für eine Stunde mäßig bis intensiv. Auch in Deutschland gibt es viele Bewegungsmuffel.",
       "date": "Wed, 04 Nov 2026 17:37:10 +0100",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Remscheid: Alarmstimmung nach Angriff auf Kühltechnik - RGA",
+      "uri": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPd3lQU0hTLS1rNkRlMmpGdGhQQVN2YVdLd0lrT2ZLWUx5eEdsQWtVcldmX1pMZkNzRWFPVGZuMFZlMkJ4c002LUk0OG83WGhveU81Ym9iQXNOTVM4N2RwWE9PeXVNWkVHWkpmTzFyM2xBSE05SEJKWG1QTXJOVkxLcXFDd054SFhTaGd1WHlhVFl0eEN3VEZTaEdWOXpvRXpzMVdDUVJ6TjhGRzBzcG84S2tzamJEdnE0dGNOeFJOY9IB2wFBVV95cUxPOUNhTUE0S0dESWwzT3E3S2VZSG1oU3FEckc4TUF2ZHJOMWhYQzJvaWZsMjdqdVJUb1VkT1I4M2t6bUhJajAxZzA0NW5oa2RKZFRvcXphalFFM2IzWmpRaWNkejFJZGRkQTRTbm1YMTAyLTFYY0xqT3pBTmtnNVJUekVWTVdsOTFFc0VmeHQtQ1ItOTcydlZsOE1IY3NkOXV1al9RQU9faWVkYTYtNldCY1lOWWVWS2hYMDAtZWJpWm5EWm1NOXpDZ2VqR0R5X0tGbFAtUGI0NUotdEE?oc=5",
+      "text": "Remscheid: Alarmstimmung nach Angriff auf Kühltechnik  RGA",
+      "date": "Wed, 04 Nov 2026 15:18:27 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "RNA-Medizin: Was kommt nach der Corona-Impfung?",
@@ -1379,6 +1372,13 @@
       "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "date": "Sun, 01 Nov 2026 09:01:01 +0100",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Forschung zu NS-Krankenmorden in Remscheid - Stadtarchiv hat hunderte Biografien erstellt - WDR",
+      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2NkLUQxaTV4cUZyb2JvV1FSUkhNRWc1RE5ySmFtTkRyb1UyRTBXUWF2eFFKcGNFVXg5eDIyWWthTGZxdFhjYzItT0w5MHY1cVY5cUg3X2lFRlRSNmk0Vmpnb1pfdkhKVTNXRGxNVGRLaDNXU3RwOTlacUxJVnZYWkZhTEV6ckxUWkp0WWZWU1FzdXJEeDFqT21SNVQ?oc=5",
+      "text": "Forschung zu NS-Krankenmorden in Remscheid - Stadtarchiv hat hunderte Biografien erstellt  WDR",
+      "date": "Wed, 28 Oct 2026 07:00:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Nach Eskalation - Remscheid will durchgreifen - WDR",
