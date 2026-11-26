@@ -151,8 +151,8 @@
                         ],
 
                         tools: [{
-                            google_search: {}
-                        }],
+    google_search: {}
+}],
 
                         generationConfig: {
                             temperature: 0.4,
