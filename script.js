@@ -42,11 +42,13 @@ speechSynthesis.resume();
 
 
 async function searchInternet(query) {
+    
     const keywords = query
-        .replace(/\b(jarvis|bitte|suche|such|recherchiere|mir|nach|im|internet|auf|wikipedia|was|ist|sind|wer|wie|erkläre)\b/gi, "")
+        .replace(/\b(jarvis|hey|bitte|suche|such|recherchiere|mir|nach|im|internet|auf|wikipedia|was|ist|sind|wer|wie|erkläre|funktioniert|ein|eine|einen|der|die|das|den|dem|über|finde|heraus|kannst|du|sagen)\b/gi, "")
         .replace(/[?!.,]/g, "")
         .replace(/\s+/g, " ")
         .trim() || query;
+
 
     const url = "https://de.wikipedia.org/w/api.php?"
         + new URLSearchParams({
