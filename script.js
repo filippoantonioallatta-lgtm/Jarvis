@@ -150,9 +150,9 @@
                             userMessage
                         ],
 
-                        tools: [{
-    google_search: {}
-}],
+                        ...(/recherchier|internet|aktuell|nachrichten|google|suche/i.test(text)
+    ? { tools: [{ google_search: {} }] }
+    : {}),
 
                         generationConfig: {
                             temperature: 0.4,
@@ -168,10 +168,6 @@ if (!result.ok) {
     response.textContent = JSON.stringify(data, null, 2);
     status.textContent = "API ERROR";
     return;
-}
-
-            if (!result.ok) {
-    throw new Error(JSON.stringify(data.error || data, null, 2));
 }
 
             const candidate = data.candidates?.[0];
