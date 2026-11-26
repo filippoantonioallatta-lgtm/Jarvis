@@ -755,7 +755,8 @@ async function getWeather(city, tomorrow = false) {
    async function getNews(input) {
 
     status.textContent = "SYSTEM THINKING";
-    response.textContent = "Recherchiere aktuelle Nachrichten, Sir...";
+    response.textContent =
+        "Recherchiere aktuelle Nachrichten, Sir...";
 
     let topic = "Deutschland";
 
@@ -775,37 +776,43 @@ async function getWeather(city, tomorrow = false) {
             "&hl=de&gl=DE&ceid=DE:de";
 
         const data = await fetchWithTimeout(
-            "https://api.rss2json.com/v1/api.json?rss_url=" +
+            "https://api.allorigins.win/get?url=" +
             encodeURIComponent(rss),
             {},
-            15000
+            20000
         );
 
-        const articles = (data.items || []).slice(0, 5);
+        const xml = new DOMParser().parseFromString(
+            data.contents,
+            "text/xml"
+        );
+
+        const articles = Array.from(
+            xml.querySelectorAll("item")
+        ).slice(0, 5);
 
         if (!articles.length) {
-            speak("Keine aktuellen Nachrichten gefunden, Sir.");
-            return;
+            throw new Error("Keine Nachrichten gefunden.");
         }
 
+        const sources = articles.map(article => ({
+            title: article.querySelector("title").textContent,
+            uri: article.querySelector("link").textContent
+        }));
+
         const answer =
-            "Aktuelle Schlagzeilen zum Thema " +
+            "Aktuelle Nachrichten zum Thema " +
             topic + ", Sir.\n\n" +
-            articles.map((article, i) =>
+            sources.map((article, i) =>
                 (i + 1) + ". " + article.title
             ).join("\n\n");
-
-        const sources = articles.map(article => ({
-            title: article.title,
-            uri: article.link
-        }));
 
         speak(answer, sources);
 
     } catch (error) {
 
         speak(
-            "Nachrichten konnten momentan nicht abgerufen werden, Sir. " +
+            "Nachrichtenabruf fehlgeschlagen, Sir. " +
             error.message
         );
     }
