@@ -545,6 +545,16 @@ try {
         busy = false;
     }
 
+} else if (/nachrichten|schlagzeilen|neuigkeiten|was gibt es neues|was ist heute passiert|was ist heute in/i.test(input)) {
+
+    busy = true;
+
+    try {
+        await getNews(input);
+    } finally {
+        busy = false;
+    }
+
 } else if (input === "wer bist du") {
 
             speak(
@@ -742,6 +752,64 @@ async function getWeather(city, tomorrow = false) {
 
     }
 }
-    status.textContent = "SYSTEM ONLINE";
+   async function getNews(input) {
+
+    status.textContent = "SYSTEM THINKING";
+    response.textContent = "Recherchiere aktuelle Nachrichten, Sir...";
+
+    let topic = "Deutschland";
+
+    if (/remscheid|lüttringhausen|lokal/i.test(input)) {
+        topic = "Remscheid";
+    } else if (/technik|technologie|computer/i.test(input)) {
+        topic = "Technologie";
+    } else if (/welt|international/i.test(input)) {
+        topic = "Welt";
+    }
+
+    try {
+
+        const rss =
+            "https://news.google.com/rss/search?q=" +
+            encodeURIComponent(topic + " when:1d") +
+            "&hl=de&gl=DE&ceid=DE:de";
+
+        const data = await fetchWithTimeout(
+            "https://api.rss2json.com/v1/api.json?rss_url=" +
+            encodeURIComponent(rss),
+            {},
+            15000
+        );
+
+        const articles = (data.items || []).slice(0, 5);
+
+        if (!articles.length) {
+            speak("Keine aktuellen Nachrichten gefunden, Sir.");
+            return;
+        }
+
+        const answer =
+            "Aktuelle Schlagzeilen zum Thema " +
+            topic + ", Sir.\n\n" +
+            articles.map((article, i) =>
+                (i + 1) + ". " + article.title
+            ).join("\n\n");
+
+        const sources = articles.map(article => ({
+            title: article.title,
+            uri: article.link
+        }));
+
+        speak(answer, sources);
+
+    } catch (error) {
+
+        speak(
+            "Nachrichten konnten momentan nicht abgerufen werden, Sir. " +
+            error.message
+        );
+    }
+}
+status.textContent = "SYSTEM ONLINE";
 
 })();
