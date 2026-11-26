@@ -1,18 +1,46 @@
 {
-  "updated": "2026-11-26T20:37:20.751735+00:00",
+  "updated": "2026-11-26T21:37:27.129450+00:00",
   "articles": [
+    {
+      "title": "Jetzt live - Wimmers Einwechslung bringt Schwung, Hlozek mit dem Ausgleich",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520497/tsg-hoffenheim_sturm-graz/liveticker",
+      "text": "In der Europa League trifft die TSG Hoffenheim am 5. Spieltag auf das punktgleiche Sturm Graz aus Österreich.",
+      "date": "Thu, 26 Nov 2026 22:33:24 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live - Twente gleicht aus, Taha trifft mit Traum-Freistoß",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520659/sc-freiburg_twente-enschede/liveticker",
+      "text": "Twente Enschede hat in der Conference League drei Siege aus drei Spielen geholt - auf die Freiburger wartet also eine echte Herausforderung.",
+      "date": "Thu, 26 Nov 2026 22:21:43 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Sechste DEL-Pleite in Folge: Frankfurt weiter Tabellenletzter",
+      "uri": "https://www.sportschau.de/regional/hr/hr-sechste-pleite-in-folge-loewen-verlieren-auch-gegen-mannheim-100.html",
+      "text": "Die Löwen Frankfurt sind in der Deutschen Eishockey Liga weiterhin nicht konkurrenzfähig. Auch im Derby gegen Mannheim blieb die Wende aus.",
+      "date": "Thu, 26 Nov 2026 22:18:17 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Gidsel wirft Berlin zum Sieg gegen Melsungen",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma12618329/fuechse-berlin_mt-melsungen/liveticker",
+      "text": "Die Füchse Berlin haben im Kampf um das Viertelfinale der Handball-Champions-League einen wichtigen Sieg gefeiert und das deutsche Duell mit der MT Melsungen für sich entschieden.",
+      "date": "Thu, 26 Nov 2026 22:15:15 +0100",
+      "category": "Sport"
+    },
     {
       "title": "Erfolg im vorletzten Test: DHB-Frauen gegen Frankreich schon in EM-Form",
       "uri": "https://www.sportschau.de/handball/nationalmannschaft/dhb-frauen-gegen-frankreich-schon-in-em-form,spielbericht-test-dhb-frauen-frankreich-100.html",
       "text": "Stabile Abwehr und effizienter Angriff: Deutschlands Handballerinnen haben bei ihrem vorletzten EM-Test gegen Frankreich berechtigte Hoffnungen auf Edelmetall geweckt.",
-      "date": "Thu, 26 Nov 2026 21:35:02 +0100",
+      "date": "Thu, 26 Nov 2026 22:04:08 +0100",
       "category": "Sport"
     },
     {
-      "title": "Jetzt live - Irié vollendet schönen Suzuki-Lauf, Backhaus hält",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520659/sc-freiburg_twente-enschede/liveticker",
-      "text": "Twente Enschede hat in der Conference League drei Siege aus drei Spielen geholt - auf die Freiburger wartet also eine echte Herausforderung.",
-      "date": "Thu, 26 Nov 2026 21:31:55 +0100",
+      "title": "Souveräne Leverkusener feiern glanzlosen Sieg in Zagreb",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-souveraene-leverkusener-feiern-glanzlosen-sieg-in-zagreb-100.html",
+      "text": "Mit einer abgezockten Vorstellung hat Bayer Leverkusen im Europa-League-Spiel bei Dinamo Zagreb überhaupt nichts anbrennen lassen.",
+      "date": "Thu, 26 Nov 2026 21:38:32 +0100",
       "category": "Sport"
     },
     {
@@ -23,31 +51,10 @@
       "category": "Technik"
     },
     {
-      "title": "Jetzt live - TSG Hoffenheim gegen Sturm Graz",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520497/tsg-hoffenheim_sturm-graz/liveticker",
-      "text": "In der Europa League trifft die TSG Hoffenheim am 5. Spieltag auf das punktgleiche Sturm Graz aus Österreich.",
-      "date": "Thu, 26 Nov 2026 20:58:10 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Jetzt live - Füchse Berlin gegen MT Melsungen",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma12618329/fuechse-berlin_mt-melsungen/liveticker",
-      "text": "Aus der Gruppe I spielen die gruppenletzten Füchse Berlin gegen MT Melsungen.",
-      "date": "Thu, 26 Nov 2026 20:48:19 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "U21 mit Losglück - Duell mit den Niederlanden",
       "uri": "https://www.sportschau.de/fussball/u21/u21-mit-losglueck-duell-mit-niederlanden,auslosung-u21-em-albanien-serbien-100.html",
       "text": "Die deutsche U21-Nationalmannschaft geht den Topteams bei der EM im Sommer 2027 in Gruppe D zunächst aus dem Weg und trifft auf Norwegen, Belgien sowie die Niederlande.",
       "date": "Thu, 26 Nov 2026 20:38:45 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Souveräne Leverkusener feiern glanzlosen Sieg in Zagreb",
-      "uri": "https://www.sportschau.de/regional/wdr/wdr-souveraene-leverkusener-feiern-glanzlosen-sieg-in-zagreb-100.html",
-      "text": "Mit einer abgezockten Vorstellung hat Bayer Leverkusen im Europa-League-Spiel bei Dinamo Zagreb überhaupt nichts anbrennen lassen.",
-      "date": "Thu, 26 Nov 2026 20:37:00 +0100",
       "category": "Sport"
     },
     {
@@ -251,13 +258,6 @@
       "uri": "https://www.sportschau.de/regional/wdr/wdr-tabellenfuehrung-wird-fuer-den-bvb-zur-kopfsache-100.html",
       "text": "Die Bayern-Krise ist die Chance für Borussia Dortmund. Doch die Tabellenführung wird für den BVB zur mentalen Herausforderung.",
       "date": "Thu, 26 Nov 2026 16:53:16 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Jetzt live - Löwen Frankfurt gegen Adler Mannheim",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189751/loewen-frankfurt_adler-mannheim/liveticker",
-      "text": "Am 20. Spieltag spielen die Tabellenletzten, die Löwen Frankfurt zuhause gegen Adler Mannheim.",
-      "date": "Thu, 26 Nov 2026 16:48:12 +0100",
       "category": "Sport"
     },
     {
@@ -681,6 +681,13 @@
       "category": "Sport"
     },
     {
+      "title": "Früh-Update am Donnerstag",
+      "uri": "https://www.sportschau.de/podcasts/sportschau-update/frueh-update-am-donnerstag,audio-frueh-update-am-donnerstag-276.html",
+      "text": "Fußball: Bayern und Stuttgart verlieren in der Champions-League +++ Tennis: Deutschland will die Salatschüssel +++ Handball: Wolff verlässt Kiel +++ Ski Alpin. Brignone beendet Karriere +++ DOSB: Kritik an Findungskommission",
+      "date": "Wed, 25 Nov 2026 23:56:16 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Champions League: Inter Mailand kocht den VfB Stuttgart ab",
       "uri": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html",
       "text": "Trotz einer ordentlichen Leistung bei Inter Mailand hat der VfB Stuttgart in der Champions League die nächste Niederlage kassiert.",
@@ -805,13 +812,6 @@
       "text": "Sie sind fast noch Kinder und planten laut Bundesanwaltschaft schwerste Straftaten, etwa auf eine Flüchtlingsunterkunft. Nun gingen Ermittler gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe \"Terror 18\" vor. Was ist bekannt? Von Max Bauer.",
       "date": "Wed, 25 Nov 2026 14:15:59 +0100",
       "category": "Deutschland"
-    },
-    {
-      "title": "Russland bei Eishockey-WM? Weltverband zieht gegen CAS-Urteil vor Gericht",
-      "uri": "https://www.sportschau.de/eishockey/weltverband-zieht-gegen-cas-urteil-vor-gericht,iihf-bundesgericht-russland-cas-100.html",
-      "text": "Der Streit um die Teilnahme Russlands an internationalen Eishockey-Turnieren - wie der WM 2027 in Deutschland - landet erneut vor Gericht.",
-      "date": "Wed, 25 Nov 2026 13:09:18 +0100",
-      "category": "Sport"
     },
     {
       "title": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen - RGA",
