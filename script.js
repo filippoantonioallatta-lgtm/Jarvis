@@ -529,7 +529,23 @@ try {
                 ", Sir."
             );
 
-        } else if (input === "wer bist du") {
+        } else if (/\b(wetter|temperatur|regnen|regen|wettervorhersage|warm|kalt)\b/i.test(input)) {
+
+    const match = text.match(
+        /\b(?:in|für)\s+(.+?)(?:\s+(?:heute|morgen|aktuell)|[?!.]|$)/i
+    );
+
+    const city = match ? match[1].trim() : "Remscheid";
+
+    busy = true;
+
+    try {
+        await getWeather(city, /\bmorgen\b/i.test(input));
+    } finally {
+        busy = false;
+    }
+
+} else if (input === "wer bist du") {
 
             speak(
                 "Ich bin JARVIS, Ihr persönlicher " +
@@ -662,7 +678,70 @@ localStorage.removeItem("jarvis_history");
             );
         }
     });
+async function getWeather(city, tomorrow = false) {
 
+    try {
+
+        status.textContent = "SYSTEM THINKING";
+        response.textContent = "Rufe Wetterdaten ab, Sir...";
+
+        const geo = await fetchWithTimeout(
+            "https://geocoding-api.open-meteo.com/v1/search?name=" +
+            encodeURIComponent(city) +
+            "&count=1&language=de&format=json"
+        );
+
+        const place = geo.results?.[0];
+
+        if (!place) {
+            speak("Ort nicht gefunden, Sir.");
+            return;
+        }
+
+        const weather = await fetchWithTimeout(
+            "https://api.open-meteo.com/v1/forecast" +
+            "?latitude=" + place.latitude +
+            "&longitude=" + place.longitude +
+            "&current=temperature_2m,relative_humidity_2m,apparent_temperature,wind_speed_10m" +
+            "&daily=temperature_2m_max,temperature_2m_min,precipitation_probability_max" +
+            "&timezone=auto"
+        );
+
+        const current = weather.current;
+        const daily = weather.daily;
+        const day = tomorrow ? 1 : 0;
+
+        let answer = tomorrow
+            ? "Wettervorhersage für morgen in "
+            : "Aktuelles Wetter in ";
+
+        answer += place.name + ", Sir.\n\n";
+
+        if (!tomorrow) {
+
+            answer +=
+                "Temperatur: " + current.temperature_2m + " Grad.\n" +
+                "Gefühlt: " + current.apparent_temperature + " Grad.\n" +
+                "Luftfeuchtigkeit: " + current.relative_humidity_2m + " Prozent.\n" +
+                "Windgeschwindigkeit: " + current.wind_speed_10m + " Kilometer pro Stunde.\n";
+        }
+
+        answer +=
+            "Höchsttemperatur: " + daily.temperature_2m_max[day] + " Grad.\n" +
+            "Tiefsttemperatur: " + daily.temperature_2m_min[day] + " Grad.\n" +
+            "Regenwahrscheinlichkeit: " + daily.precipitation_probability_max[day] + " Prozent.";
+
+        speak(answer, [{
+            title: "Open-Meteo Wetterdaten",
+            uri: "https://open-meteo.com/"
+        }]);
+
+    } catch (error) {
+
+        speak("Wetterdaten momentan nicht verfügbar, Sir.");
+
+    }
+}
     status.textContent = "SYSTEM ONLINE";
 
 })();
