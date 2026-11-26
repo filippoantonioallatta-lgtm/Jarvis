@@ -150,14 +150,15 @@
                             userMessage
                         ],
 
-                        ...(/recherchier|internet|aktuell|nachrichten|google|suche/i.test(text)
-    ? { tools: [{ google_search: {} }] }
-    : {}),
+                        tools: [{
+    googleSearch: {}
+}],
 
-                        generationConfig: {
-                            temperature: 0.4,
-                            maxOutputTokens: 4096
-                        }
+generationConfig: {
+    thinkingConfig: {
+        thinkingLevel: "MINIMAL"
+    }
+}
                     })
                 }
             );
