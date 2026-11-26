@@ -306,7 +306,15 @@ try {
 
     if (res.ok) {
         const news = await res.json();
-        const words = text.toLowerCase().match(/\p{L}{4,}/gu) || [];
+        const words = (text.toLowerCase().match(/\p{L}{2,}/gu) || [])
+    .filter(word => ![
+        "recherchiere", "recherche", "internet",
+        "suche", "über", "nach", "mir", "bitte",
+        "was", "ist", "der", "die", "das",
+        "den", "dem", "im", "in", "von",
+        "und", "zum", "zur", "aktuell",
+        "aktuelle", "erkläre", "finde"
+    ].includes(word));
 
         const matches = (news.articles || []).filter(article =>
             words.some(word =>
