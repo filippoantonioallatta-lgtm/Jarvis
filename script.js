@@ -756,55 +756,28 @@ async function getWeather(city, tomorrow = false) {
 
     status.textContent = "SYSTEM THINKING";
     response.textContent =
-        "Recherchiere aktuelle Nachrichten, Sir...";
-
-    let topic = "Deutschland";
-
-    if (/remscheid|lüttringhausen|lokal/i.test(input)) {
-        topic = "Remscheid";
-    } else if (/technik|technologie|computer/i.test(input)) {
-        topic = "Technologie";
-    } else if (/welt|international/i.test(input)) {
-        topic = "Welt";
-    }
+        "Rufe aktuelle Nachrichten ab, Sir...";
 
     try {
 
-        const rss =
-            "https://news.google.com/rss/search?q=" +
-            encodeURIComponent(topic + " when:1d") +
-            "&hl=de&gl=DE&ceid=DE:de";
-
         const data = await fetchWithTimeout(
-            "https://api.allorigins.win/get?url=" +
-            encodeURIComponent(rss),
-            {},
-            20000
+            "./news.json?t=" + Date.now()
         );
 
-        const xml = new DOMParser().parseFromString(
-            data.contents,
-            "text/xml"
-        );
-
-        const articles = Array.from(
-            xml.querySelectorAll("item")
-        ).slice(0, 5);
+        const articles = data.articles || [];
 
         if (!articles.length) {
-            throw new Error("Keine Nachrichten gefunden.");
+            speak("Keine Nachrichten gefunden, Sir.");
+            return;
         }
 
-        const sources = articles.map(article => ({
-            title: article.querySelector("title").textContent,
-            uri: article.querySelector("link").textContent
-        }));
+        const sources = articles.slice(0, 5);
 
         const answer =
-            "Aktuelle Nachrichten zum Thema " +
-            topic + ", Sir.\n\n" +
+            "Hier sind die neuesten verfügbaren Schlagzeilen, Sir.\n\n" +
             sources.map((article, i) =>
-                (i + 1) + ". " + article.title
+                (i + 1) + ". " + article.title +
+                "\n" + article.text
             ).join("\n\n");
 
         speak(answer, sources);
