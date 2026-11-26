@@ -1,12 +1,61 @@
 {
-  "updated": "2026-11-26T12:06:14.777002+00:00",
+  "updated": "2026-11-26T12:51:23.477046+00:00",
   "articles": [
+    {
+      "title": "Nationalspielerin Freigang für knapp ein Jahr gesperrt",
+      "uri": "https://www.sportschau.de/nationalspielerin-freigang-fuer-knapp-ein-jahr-gesperrt,freigang-eilmeldung-100.html",
+      "text": "Fußball-Nationalspielerin Laura Freigang erhält wegen verpasster Dopingtests eine Sperre bis zum 7. Oktober 2027.",
+      "date": "Thu, 26 Nov 2026 13:44:27 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Ein Jahr nach dem Hochhausbrand gedenkt Hongkong der Opfer individuell",
+      "uri": "https://www.tagesschau.de/ausland/asien/hongkong-gedenken-hochhausbrand-100.html",
+      "text": "Vor einem Jahr starben bei einem verheerenden Brand in einem Hochhauskomplex in Hongkong 168 Menschen. Heute haben die Meschen dort der Opfer gedacht. Eine offizielle Gedenkveranstaltung gab es aber nicht - auch auf Druck der Regierung.",
+      "date": "Thu, 26 Nov 2026 13:42:48 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Davis-Cup-Viertelfinale in Bologna: Starker Zverev wahrt deutsche Chance aufs Weiterkommen",
+      "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-viertelfinale-zverev-ausgleich,davis-cup-viertelfinale-100.html",
+      "text": "Weil Alexander Zverev seine Aufgabe souverän erledigt, fällt die Entscheidung über den Einzug ins Davis-Cup-Halbfinale zwischen Deutschland und Großbritannien im Doppel. Die Protagonisten erwarten ein \"50:50-Spiel\".",
+      "date": "Thu, 26 Nov 2026 13:41:36 +0100",
+      "category": "Sport"
+    },
     {
       "title": "Handball-Bundesliga: Andreas Wolff wechselt vom THW Kiel zum VfL Gummersbach",
       "uri": "https://www.sportschau.de/regional/ndr/andreas-wolff-verlaesst-thw-kiel-und-wechselt-zum-vfl-gummersbach,thw-kiel-594.html",
       "text": "Handball-Nationaltorhüter Andreas Wolff verlässt den THW Kiel und schließt sich Medienberichten zufolge dem Bundesliga-Konkurrenten VfL Gummersbach an.",
-      "date": "Thu, 26 Nov 2026 13:03:48 +0100",
+      "date": "Thu, 26 Nov 2026 13:40:29 +0100",
       "category": "Sport"
+    },
+    {
+      "title": "Tesla Assisted Driving: EU-Entscheidung verschiebt sich auf 15. Dezember",
+      "uri": "https://www.heise.de/news/Tesla-Assisted-Driving-EU-Entscheidung-verschiebt-sich-auf-15-Dezember-11539133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Die EU-Entscheidung über Teslas Fahrassistenzsystem TAD fällt nicht am 1., sondern frühestens am 15. Dezember. In zwölf Ländern ist FSD bereits erlaubt.",
+      "date": "2026-11-26T13:40:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "heise+ | Die Authentifizierungsmethode Trusted Publishing bei npm, PyPI und crates.io",
+      "uri": "https://www.heise.de/hintergrund/Die-Authentifizierungsmethode-Trusted-Publishing-bei-npm-PyPI-und-crates-io-11504231.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "text": "Trusted Publishing ersetzt Registry-Tokens in CI/CD-Pipelines durch kurzlebige Identitätsnachweise. npm, PyPI und crates.io setzen dies unterschiedlich um.",
+      "date": "2026-11-26T13:30:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Mia san Kimmich - Kommentar zum Fall Musiala beim FC Bayern München",
+      "uri": "https://www.sportschau.de/fussball/championsleague/mia-san-kimmich,musiala-bayern-kimmich-kommentar-100.html",
+      "text": "Was Joshua Kimmich am Mittwochabend getan hat, ist im Profifußball und beim FC Bayern München ein Tabubruch - und letztendlich ein Segen.",
+      "date": "Thu, 26 Nov 2026 13:18:19 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Marktbericht: Aktieninvestoren blicken vorsichtig nach vorn",
+      "uri": "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html",
+      "text": "Nach einer massiven Talfahrt erholt sich der Aktienmarkt sprunghaft. Doch eine echte Trendwende an den Börsen ist derzeit nicht in Sicht. Chancen sind ebenso wie Risiken reichlich vorhanden.",
+      "date": "Thu, 26 Nov 2026 13:04:38 +0100",
+      "category": "Allgemein"
     },
     {
       "title": "Enges Rennen in beiden Gruppen: Wer holt sich die Tabellenführung? - FuPa ⚽️",
@@ -23,11 +72,11 @@
       "category": "Allgemein"
     },
     {
-      "title": "Jetzt live - Zverev führt gegen Fery",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/tennis/davis-cup/ma12661070/arthur-fery_alexander-zverev/liveticker",
-      "text": "Deutschland liegt im Viertelfinale des Davis Cup mit 0:1 gegen Großbritannien zurück. Gelingt Alexander Zverev der Ausgleich gegen Arthur Fery?",
-      "date": "Thu, 26 Nov 2026 12:45:48 +0100",
-      "category": "Sport"
+      "title": "Alter macOS-Bug: Warum die Fenster-Ecken in Tahoe so rund waren",
+      "uri": "https://www.heise.de/news/Alter-macOS-Bug-Warum-die-Fenster-Ecken-in-Tahoe-so-rund-waren-11538321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "macOS 26 alias Tahoe nervte User anfangs mit einer Merkwürdigkeit: Fenster waren viel runder als zuvor. Nun scheint der Grund dafür aufgetaucht zu sein.",
+      "date": "2026-11-26T12:58:00+01:00",
+      "category": "Technik"
     },
     {
       "title": "heise+ | Hardware-Kaufberatung für Aufrüster: PC-Leben verlängern in der Speicherkrise",
@@ -42,13 +91,6 @@
       "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern den Waffenschein zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
       "date": "Thu, 26 Nov 2026 12:39:55 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Davis-Cup-Viertelfinale in Bologna: Zverev unter Siegzwang nach Struff-Auftaktpleite",
-      "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-viertelfinale-struff-auftaktpleite,davis-cup-viertelfinale-100.html",
-      "text": "Jan-Lennard Struff verliert das Auftaktspiel im Davis-Cup-Viertelfinale. Das deutsche Weiterkommen hängt am seidenen Faden - und neben Alexander Zverev mutmaßlich vom Doppel ab.",
-      "date": "Thu, 26 Nov 2026 12:20:30 +0100",
-      "category": "Sport"
     },
     {
       "title": "Google lässt Entwickler für den Traffic der Anwender bezahlen",
@@ -70,6 +112,13 @@
       "text": "Wer in Asien unterwegs ist, benötigt die bei uns wenig üblichen QR-Zahlverfahren. Bluecode will Brücke sein. Revolut unterstützt unterdessen Blik aus Polen.",
       "date": "2026-11-26T12:04:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Remscheid: Verkehrspläne für Outlet - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbzdFVGpUM2ZlY3l0c1NiTDc2VGlxd0pHRU0xdjl4enZHcW95OGRTVi1Ga3BNcEJaaFFhelJHMll5UXo2U0xtblRBZ0ZrRS0zejBEdUdDNEQ3bEpIWmlHNXVIUTdaLThvLUtCUHljU3NKMk5ERXBzOThZV0x6bVV0OE1n?oc=5",
+      "text": "Remscheid: Verkehrspläne für Outlet  Radio RSG",
+      "date": "Thu, 26 Nov 2026 11:02:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "heise+ | Silent-Allrounder: Bauvorschlag für einen flüsterleisen Gaming-PC",
@@ -296,16 +345,16 @@
       "category": "Sport"
     },
     {
-      "title": "i-Kfz-App: Digitaler Führerschein startet verzögert",
-      "uri": "https://www.heise.de/news/i-Kfz-App-Digitaler-Fuehrerschein-startet-verzoegert-11538559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "In der i-Kfz-App wird bisher der digitale Fahrzeugschein abgebildet. Bald folgt der Führerschein – etwas später als geplant.",
+      "title": "Ubisoft vor Gericht: Das „AAAA“-Spiel war bloß Werbesprech",
+      "uri": "https://www.heise.de/news/Skull-and-Bones-als-AAAA-Ubisofts-Prahlerei-hatte-juristisches-Nachspiel-11538543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "„Skull and Bones“ sei ein „AAAA“-Spiel, prahlte Ubisoft vor dem Release. In den USA kam es zu einer Klage über das vollmundige Versprechen.",
       "date": "2026-11-26T08:37:00+01:00",
       "category": "Technik"
     },
     {
-      "title": "Ubisoft vor Gericht: Das „AAAA“-Spiel war bloß Werbesprech",
-      "uri": "https://www.heise.de/news/Skull-and-Bones-als-AAAA-Ubisofts-Prahlerei-hatte-juristisches-Nachspiel-11538543.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "„Skull and Bones“ sei ein „AAAA“-Spiel, prahlte Ubisoft vor dem Release. In den USA kam es zu einer Klage über das vollmundige Versprechen.",
+      "title": "i-Kfz-App: Digitaler Führerschein startet verzögert",
+      "uri": "https://www.heise.de/news/i-Kfz-App-Digitaler-Fuehrerschein-startet-verzoegert-11538559.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "In der i-Kfz-App wird bisher der digitale Fahrzeugschein abgebildet. Bald folgt der Führerschein – etwas später als geplant.",
       "date": "2026-11-26T08:37:00+01:00",
       "category": "Technik"
     },
@@ -380,13 +429,6 @@
       "category": "Technik"
     },
     {
-      "title": "#heiseshow: Jensen ist zurück, Ladybird-Browser, GTA 6",
-      "uri": "https://www.heise.de/news/heiseshow-Jensen-ist-zurueck-Ladybird-Browser-GTA-6-11538152.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "In der #heiseshow: Jensen Huang ist zurück an der Nvidia-Spitze, Ladybird fordert die großen Browser-Engines heraus und GTA 6 bricht Rekorde.",
-      "date": "2026-11-26T06:11:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Schlauchboote im Ärmelkanal: Deutscher Firmenchef soll Schleuser beliefert haben",
       "uri": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
       "text": "Schleuser bringen jährlich Zehntausende Migranten über den Ärmelkanal nach Großbritannien. Bei fast einem Drittel der Überfahrten sollen laut Recherchen von WDR, NDR und SZ zuletzt Boote oder Motoren einer deutschen Firma genutzt worden sein.",
@@ -408,25 +450,11 @@
       "category": "Allgemein"
     },
     {
-      "title": "USA genehmigen 1 Million SpaceX-Satelliten für KI-Rechenzentren im Orbit",
-      "uri": "https://www.heise.de/news/USA-genehmigen-1-Million-SpaceX-Satelliten-fuer-KI-Rechenzentren-im-Orbit-11538437.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Das SpaceX-Projekt „Starmind“ ist von der US-Aufsicht offiziell genehmigt - in massivem Ausmaß. Der erste Rechenzentrum-Satellit soll bis 2033 im All sein.",
-      "date": "2026-11-26T05:03:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "EU-Haushalt: Kampf um bis zu zwei Billionen Euro",
       "uri": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
       "text": "Die Staats- und Regierungschefs der 27 EU-Länder beraten bei einem Sondergipfel in Brüssel über den langfristigen EU-Haushalt. Dabei geht es auch um mögliche neue Einnahmequellen wie etwa eine Digitalsteuer. Von C. Feld.",
       "date": "Thu, 26 Nov 2026 05:00:53 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "1Password: Kundendaten entfleucht",
-      "uri": "https://www.heise.de/news/1Password-Kundendaten-entfleucht-11538455.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Warum die Datenbank hacken, wenn man das Backend umschreiben kann? Kundendaten 1Passwords sind in unbefugte Hände gelangt. Obacht vor Phishing!",
-      "date": "2026-11-26T03:11:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "SpaceX darf eine Million Satelliten für KI-Rechenzentren ins All schicken",
@@ -448,13 +476,6 @@
       "text": "Andy Taylor, der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, ist gestorben. Mit seinen von Rock und Funk inspirierten Gitarrenriffs prägte Taylor den Sound der Band.",
       "date": "Thu, 26 Nov 2026 00:56:55 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Debatte um Musiala: Kimmich greift Bayern-Bosse an",
-      "uri": "https://www.sportschau.de/fussball/championsleague/kimmich-greift-bayern-bosse-an,musiala-bayern-kimmich-100.html",
-      "text": "Die Spitze des FC Bayern hat eine Debatte über Jamal Musiala losgetreten, Joshua Kimmich äußerte darüber nun Unverständnis.",
-      "date": "Thu, 26 Nov 2026 00:55:22 +0100",
-      "category": "Sport"
     },
     {
       "title": "Früh-Update am Donnerstag",
@@ -559,14 +580,14 @@
       "uri": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
       "text": "Landwirte, Industrie und andere Unternehmen können wegen der anhaltenden Energiekrise weiterhin mit staatlichen Zuschüssen rechnen. Laut EU-Kommission bleibt es bis mindestens Ende Juni 2027 bei den gelockerten Regeln zur Beihilfe.",
       "date": "Wed, 25 Nov 2026 17:29:03 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "KI-Ernüchterung an den Börsen greift um sich",
       "uri": "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
       "text": "An den US-Börsen geht die Verkaufswelle bei Tech-Aktien weiter. Die alten Sorgen von Investoren wegen der Geschäfts mit Künstlicher Intelligenz bleiben - und neue sind hinzugekommen. Von Heidi Radvilas.",
       "date": "Wed, 25 Nov 2026 17:28:08 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "Generaldebatte im Bundestag: Nachdenkliche Töne und ein Zugeständnis",
@@ -1129,13 +1150,6 @@
       "category": "Welt"
     },
     {
-      "title": "Nach Drohnenangriff: \"Sparta II\" wird in russische Gewässer geschleppt",
-      "uri": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
-      "text": "Am Samstag war der russische Frachter \"Sparta II\" in der Ostsee von einer Drohne getroffen worden und in Brand geraten. Laut finnischem Grenzschutz hat das Schiff Schlagseite, kann aber in russische Gewässer geschleppt werden.",
-      "date": "Sun, 22 Nov 2026 20:53:03 +0100",
-      "category": "Welt"
-    },
-    {
       "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
       "uri": "https://www.tagesschau.de/wissen/weltraum/merkur-sonde-esa-100.html",
       "text": "Zehn Milliarden Kilometer hat \"BepiColombo\" zurückgelegt und ist endlich am Ziel angekommen: dem Merkur. Jetzt beginnt die eigentliche Arbeit der 1,7 Milliarden Euro teuren europäisch-japanischen Weltraummission.",
@@ -1251,13 +1265,6 @@
       "title": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid - FuPa ⚽️",
       "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWROTVBUNXpMckd4VWFKVE8tX1ZJMTlDX01ncHg5WHFMNmxmWEY4eDVQdHRyTUdPMWNvZWpmWWRvYVIydHo0SzNrZ2I3emRXTU1ReTY3V1ZaZkhWUmpldU5TcGhzSE5PdG14aEtYWElGZ2UtZ0lQSUpVcWhxRDZ5QzJuMlR4c1daZUxBbzJJZ2JCVVFKTVZ2QU9aQko?oc=5",
       "text": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid  FuPa ⚽️",
-      "date": "Tue, 17 Nov 2026 11:13:23 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Transfers Kreisliga A1 Remscheid-Solingen - Zugänge & Abgänge - FuPa ⚽️",
-      "uri": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlA5dzNKdV94ZGFTVDB5eGltZGdXLXNuVkR5d2RscVNSd3lwVU5nQ3AwY01pTGxsOVhyZ3BaTmhpMHdKZXR3Mmp3QWVOQ1B3RXEtSW5DZ1piOTZHQmx4TkVBbTZVRGtOa0xVM3RrM1MtbnNMOVpZN3dXWUUyOGdWeGV2bXJIRWpwY0ZKOU9WLV8wR2pIYU1ibU54Ylludw?oc=5",
-      "text": "Transfers Kreisliga A1 Remscheid-Solingen - Zugänge & Abgänge  FuPa ⚽️",
       "date": "Tue, 17 Nov 2026 11:13:23 GMT",
       "category": "Remscheid"
     },
