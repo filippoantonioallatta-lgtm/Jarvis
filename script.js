@@ -10,6 +10,18 @@
     let groqKey = localStorage.getItem("jarvis_groq_key") || "";
     let busy = false;
     let history = [];
+
+try {
+    history = JSON.parse(
+        localStorage.getItem("jarvis_history") || "[]"
+    );
+
+    if (!Array.isArray(history)) {
+        history = [];
+    }
+} catch (_) {
+    history = [];
+}
     let recognition = null;
 
     const model = "openai/gpt-oss-20b";
@@ -379,7 +391,14 @@
                 content: answer
             });
 
-            history = history.slice(-12);
+            history = history.slice(-40);
+
+try {
+    localStorage.setItem(
+        "jarvis_history",
+        JSON.stringify(history)
+    );
+} catch (_) {}
 
             busy = false;
 
@@ -503,6 +522,7 @@
         } else if (input === "gedächtnis löschen") {
 
             history = [];
+localStorage.removeItem("jarvis_history");
 
             speak(
                 "Gesprächsverlauf gelöscht, Sir."
