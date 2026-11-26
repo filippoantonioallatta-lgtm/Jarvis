@@ -64,7 +64,9 @@ async function searchInternet(query) {
             origin: "*"
         });
 
-    const result = await fetch(url);
+    const result = await fetch(url, {
+    signal: AbortSignal.timeout(10000)
+});
 
     if (!result.ok) {
         throw new Error("Internetrecherche fehlgeschlagen");
@@ -120,6 +122,7 @@ const result = await fetch(
             "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.5-flash-lite:generateContent",
             {
                 method: "POST",
+                signal: AbortSignal.timeout(30000),
                 headers: {
                     "Content-Type": "application/json",
                     "x-goog-api-key": geminiKey
