@@ -1,3 +1,4 @@
+alert("JavaScript funktioniert");
 const status = document.getElementById("status");
 const response = document.getElementById("response");
 const command = document.getElementById("command");
