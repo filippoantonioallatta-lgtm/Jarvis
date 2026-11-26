@@ -417,7 +417,7 @@ try {
                 (source, i) =>
                     "Quelle " + (i + 1) + ":\n" +
                     source.title + "\n" +
-                    source.text + "\n" +
+                    String(source.text || "").slice(0, 1200) + "\n" +
                     source.uri
             ).join("\n\n");
 
@@ -469,7 +469,10 @@ try {
                                     "Berücksichtige den Gesprächsverlauf."
                             },
 
-                            ...history,
+                            ...history.slice(-8).map(message => ({
+    role: message.role,
+    content: String(message.content || "").slice(0, 1500)
+})),
 
                             {
                                 role: "user",
