@@ -29,9 +29,15 @@ try {
     function speak(text, sources = []) {
 
         const clean = text
-            .replace(/\*\*/g, "")
-            .replace(/```/g, "")
-            .trim();
+    .replace(/```/g, "")
+    .replace(/^\s*#{1,6}\s+/gm, "")
+    .replace(/^\s*[-*_]{3,}\s*$/gm, "")
+    .replace(/^\s*\|?[\s:|-]+\|[\s:|-]*$/gm, "")
+    .replace(/\*\*/g, "")
+    .replace(/^\s*\*\s+/gm, "• ")
+    .replace(/\|/g, " – ")
+    .replace(/\n{3,}/g, "\n\n")
+    .trim();
 
         response.textContent = clean;
         status.textContent = "SYSTEM ONLINE";
