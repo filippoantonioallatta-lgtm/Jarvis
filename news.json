@@ -1,32 +1,67 @@
 {
-  "updated": "2026-11-26T21:37:27.129450+00:00",
+  "updated": "2026-11-26T22:40:55.170466+00:00",
   "articles": [
     {
-      "title": "Jetzt live - Wimmers Einwechslung bringt Schwung, Hlozek mit dem Ausgleich",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/uefa-europa-league/ma12520497/tsg-hoffenheim_sturm-graz/liveticker",
-      "text": "In der Europa League trifft die TSG Hoffenheim am 5. Spieltag auf das punktgleiche Sturm Graz aus Österreich.",
-      "date": "Thu, 26 Nov 2026 22:33:24 +0100",
+      "title": "Europa League: Randale und Unterbrechung bei Besiktas-Sieg über Hapoel Beer-Sheva",
+      "uri": "https://www.sportschau.de/fussball/europaleague/randale-und-unterbrechung-trueben-besiktas-sieg,besiktas-randale-unterbrechung-100.html",
+      "text": "Heftige Randale und eine lange Unterbrechung haben den Sieg von Besiktas Istanbul in der Europa League gegen den israelischen Club Hapoel Beer-Sheva überschattet.",
+      "date": "Thu, 26 Nov 2026 23:28:36 +0100",
       "category": "Sport"
     },
     {
-      "title": "Jetzt live - Twente gleicht aus, Taha trifft mit Traum-Freistoß",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/europa-conference-league/ma12520659/sc-freiburg_twente-enschede/liveticker",
-      "text": "Twente Enschede hat in der Conference League drei Siege aus drei Spielen geholt - auf die Freiburger wartet also eine echte Herausforderung.",
-      "date": "Thu, 26 Nov 2026 22:21:43 +0100",
+      "title": "Conference League: SC Freiburg jubelt gegen Twente Enschede",
+      "uri": "https://www.sportschau.de/regional/swr/swr-traumtor-und-spaetes-drama-sc-freiburg-jubelt-gegen-twente-enschede-100.html",
+      "text": "In einem temporeichen Europapokal-Spiel zwischen dem SC Freiburg und Twente Enschede treffen beide Teams in der Halbzeit, die der Gegner dominiert. Am Ende jubelt doch der Bundesligist.",
+      "date": "Thu, 26 Nov 2026 23:25:00 +0100",
       "category": "Sport"
+    },
+    {
+      "title": "Gidsel wirft Berlin zum Sieg gegen Melsungen",
+      "uri": "https://www.sportschau.de/regional/hr/hr-mt-melsungen-unterliegt-im-deutsch-deutschen-champions-league-duell-berlin-100.html",
+      "text": "Die MT Melsungen verliert auch das zweite Spiel in der Gruppenphase der Champions League. Gegen Berlins Mathias Gidsel finden die Nordhessen einfach kein Mittel.",
+      "date": "Thu, 26 Nov 2026 23:22:58 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Hoffenheim bekommt Graz mit Mühe in den Griff",
+      "uri": "https://www.sportschau.de/regional/swr/swr-sieg-nach-rueckstand-hoffenheim-bekommt-graz-mit-muehe-in-den-griff-100.html",
+      "text": "Am fünften Spieltag der Europa League hat die TSG Hoffenheim gegen Sturm Graz gewonnen und damit den zweiten Sieg während der Ligaphase geholt.",
+      "date": "Thu, 26 Nov 2026 23:00:58 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Wintereinbruch: Schneefall behindert Autoverkehr in Bayern",
+      "uri": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
+      "text": "In Oberbayern haben Schneefälle für zahlreiche Verkehrsunfälle und Sperrungen von Autobahnen gesorgt. Stellenweise fielen bis zu zehn Zentimeter Neuschnee. Laut Wetterdienst bleiben auch die kommenden Tage eher frostig.",
+      "date": "Thu, 26 Nov 2026 22:54:39 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "TBV Lemgo Lippe jubelt über Last-Minute-Sieg in Balingen",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-tbv-lemgo-lippe-jubelt-ueber-last-minute-sieg-in-balingen-100.html",
+      "text": "Nach der Niederlage gegen Gummersbach hat sich der TBV Lemgo Lippe zu einem Sieg beim HBW Balingen-Weilstetten gezittert.",
+      "date": "Thu, 26 Nov 2026 22:54:14 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Verbraucherschutz: Temu verspricht Besserung im EWR",
+      "uri": "https://www.heise.de/news/Verbraucherschutz-Temu-verspricht-Besserung-im-EWR-11539845.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Temu wird eine Palette an Irreführungen und Beeinflussungen unterlassen. Das verspricht der Händler der EU-Kommission.",
+      "date": "2026-11-26T22:44:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
+      "uri": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
+      "text": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
+      "date": "Thu, 26 Nov 2026 22:37:41 +0100",
+      "category": "Allgemein"
     },
     {
       "title": "Sechste DEL-Pleite in Folge: Frankfurt weiter Tabellenletzter",
       "uri": "https://www.sportschau.de/regional/hr/hr-sechste-pleite-in-folge-loewen-verlieren-auch-gegen-mannheim-100.html",
       "text": "Die Löwen Frankfurt sind in der Deutschen Eishockey Liga weiterhin nicht konkurrenzfähig. Auch im Derby gegen Mannheim blieb die Wende aus.",
-      "date": "Thu, 26 Nov 2026 22:18:17 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Gidsel wirft Berlin zum Sieg gegen Melsungen",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/ehf-champions-league/ma12618329/fuechse-berlin_mt-melsungen/liveticker",
-      "text": "Die Füchse Berlin haben im Kampf um das Viertelfinale der Handball-Champions-League einen wichtigen Sieg gefeiert und das deutsche Duell mit der MT Melsungen für sich entschieden.",
-      "date": "Thu, 26 Nov 2026 22:15:15 +0100",
+      "date": "Thu, 26 Nov 2026 22:07:43 +0100",
       "category": "Sport"
     },
     {
@@ -226,13 +261,6 @@
       "category": "Technik"
     },
     {
-      "title": "Muss der FC Bayern im Winter neue Spieler holen?",
-      "uri": "https://www.sportschau.de/regional/br/br-planlos-gegen-lille-muss-der-fcb-im-winter-neue-spieler-holen-102.html",
-      "text": "Bei der Niederlage in Lille wird die Lücke, die Harry Kane hinterlässt, offensichtlich. Damit wächst der Druck – und auch die Dringlichkeit eines möglichen Wintertransfers.",
-      "date": "Thu, 26 Nov 2026 17:17:33 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
       "uri": "https://www.tagesschau.de/wirtschaft/konjunktur/nachfolger-ezb-de-cos-portrait-100.html",
       "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?",
@@ -268,10 +296,10 @@
       "category": "Technik"
     },
     {
-      "title": "Fix: Andreas Wolff wechselt zum VfL Gummersbach",
-      "uri": "https://www.sportschau.de/regional/wdr/wdr-andreas-wolff-wechselt-zum-vfl-gummersbach-100.html",
-      "text": "Der VfL Gummersbach landet einen Transfer-Hammer: Nationaltorhüter Andreas Wolff kommt 2028 vom THW Kiel.",
-      "date": "Thu, 26 Nov 2026 16:46:44 +0100",
+      "title": "Ist Recht im Sport eine Frage des Geldes?",
+      "uri": "https://www.sportschau.de/investigativ/ist-recht-im-sport-eine-frage-des-geldes,fall-anna-bader-100.html",
+      "text": "Der Fall Anna Bader zeigt, wie schwer es Anti-Doping-Organisationen fällt, bei Athleten positive Dopingproben von Kontaminationen zu unterscheiden.",
+      "date": "Thu, 26 Nov 2026 16:38:57 +0100",
       "category": "Sport"
     },
     {
@@ -450,13 +478,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
-      "uri": "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
-      "text": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
-      "date": "Thu, 26 Nov 2026 12:58:32 +0100",
-      "category": "Allgemein"
-    },
-    {
       "title": "Alter macOS-Bug: Warum die Fenster-Ecken in Tahoe so rund waren",
       "uri": "https://www.heise.de/news/Alter-macOS-Bug-Warum-die-Fenster-Ecken-in-Tahoe-so-rund-waren-11538321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "macOS 26 alias Tahoe nervte User anfangs mit einer Merkwürdigkeit: Fenster waren viel runder als zuvor. Nun scheint der Grund dafür aufgetaucht zu sein.",
@@ -476,13 +497,6 @@
       "text": "Mit einem neuen und undurchsichtigen Kostenmodell erhebt Google Gebühren für die API-Nutzung, auch für jene, die von bereits zahlenden Anwendern anfällt.",
       "date": "2026-11-26T12:12:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Verkaufsoffene Sonntage in Remscheid und Solingen - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmlIZnNJMVM2SmowMDlsSzZsRXlXaXlQTXFOb21MUnR4aVhzSGo3a2dXbzhqdUV6N2NOODZnckFRNk5qMmRfMEQxVUNFNDNmT3dUTVV6ejZ6WXF1RVZRbmhaTklpWE4tS0RUR3VYNkZKakQxSXJOUTdKampLcWlUOWRRaTRJSVVUTElacEcyVUtzTEE?oc=5",
-      "text": "Verkaufsoffene Sonntage in Remscheid und Solingen  Radio RSG",
-      "date": "Thu, 26 Nov 2026 11:12:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Durchsuchungen in Remscheid wegen Anschlagsplan - Radio RSG",
@@ -562,13 +576,6 @@
       "category": "Sport"
     },
     {
-      "title": "Palo Alto: Angreifer attackieren öffentlich erreichbare PAN-OS-Firewalls",
-      "uri": "https://www.heise.de/news/Palo-Alto-Angriffe-auf-PAN-OS-Firewalls-mit-offenem-Managementzugang-beobachtet-11538805.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Derzeit kombinieren Angreifer zwei Sicherheitslücken, um Firewalls von Palo Alto zu attackieren. Sicherheitspatches stehen zum Download bereit.",
-      "date": "2026-11-26T10:48:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Terrorverdacht - zwei Iraker in Köln und Heidelberg festgenommen",
       "uri": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html",
       "text": "Die Bundesanwaltschaft hat zwei Männer in Köln und Heidelberg festnehmen lassen. Sie sollen einer pro-iranischen Gruppe angehört und Anschläge geplant haben - möglicherweise auch einen auf eine Synagoge in Köln. Von H. Schmidt.",
@@ -629,7 +636,7 @@
       "uri": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
       "text": "Schleuser bringen jährlich Zehntausende Migranten über den Ärmelkanal nach Großbritannien. Bei fast einem Drittel der Überfahrten sollen laut Recherchen von WDR, NDR und SZ zuletzt Boote oder Motoren einer deutschen Firma genutzt worden sein.",
       "date": "Thu, 26 Nov 2026 06:00:30 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "Deutschland verfehlt EU-Frist für besseren Schutz von Lieferfahrern",
@@ -674,24 +681,10 @@
       "category": "Remscheid"
     },
     {
-      "title": "Debatte um Musiala: Kimmich greift Bayern-Bosse an",
-      "uri": "https://www.sportschau.de/fussball/championsleague/kimmich-greift-bayern-bosse-an,musiala-bayern-kimmich-100.html",
-      "text": "Joshua Kimmich hat das Vorgehen der Bayern-Bosse in der Debatte um Jamal Musiala deutlich kritisiert. Vorstandschef Christian Dreesen möchte derweil \"nicht weiter darüber reden.\"",
-      "date": "Thu, 26 Nov 2026 00:55:22 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Früh-Update am Donnerstag",
       "uri": "https://www.sportschau.de/podcasts/sportschau-update/frueh-update-am-donnerstag,audio-frueh-update-am-donnerstag-276.html",
       "text": "Fußball: Bayern und Stuttgart verlieren in der Champions-League +++ Tennis: Deutschland will die Salatschüssel +++ Handball: Wolff verlässt Kiel +++ Ski Alpin. Brignone beendet Karriere +++ DOSB: Kritik an Findungskommission",
       "date": "Wed, 25 Nov 2026 23:56:16 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Champions League: Inter Mailand kocht den VfB Stuttgart ab",
-      "uri": "https://www.sportschau.de/fussball/championsleague/inter-kocht-stuttgart-ab,spielbericht-inter-mailand-vfb-stuttgart-100.html",
-      "text": "Trotz einer ordentlichen Leistung bei Inter Mailand hat der VfB Stuttgart in der Champions League die nächste Niederlage kassiert.",
-      "date": "Wed, 25 Nov 2026 23:01:50 +0100",
       "category": "Sport"
     },
     {
@@ -966,6 +959,13 @@
       "text": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
       "date": "Wed, 25 Nov 2026 01:06:58 +0100",
       "category": "Welt"
+    },
+    {
+      "title": "Ex-Vaillant Manager bestreitet alles - WDR",
+      "uri": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1FEN2pjVm95ZmltWEx3Y1h1bTJTRHVQamJ0YWtENGptRUpqeUpLSkdSbXhJUi1neDY1bWxta2pZSDVQSnhxd240WTE3ZlZWdWVPeG5DTGRyQ0VjRTJ5ZzVkQ0p0T19PMGZYRGFTUHUyWV9USEgyQV9TYVFMRkg1WU41ZVdhWlVmTzZGV1BLZ1h3bjJFb3oxeWtDMEU2cXVXWXVsb043blJFWVRsZWQ1aWdLNDhod9IBtAFBVV95cUxQdlV4UktXQ3RjRkZOMHRSY1NSMkh3NnQ5dVo3UWlGOGN6NzNMN0l2T2ZucS1mNXExX3lRaW44QjZxOGVDZmFKY3IyM28yOWxiUndGTlNJWENrel9tR3IyQVR6bWpIZTI5bUh6cXBHcVpZbFB4VndSb0hBLTJ2a3pkREIyeFEzWFZyaXlDNTJoYjJ2MFVfVUJLQ2E5RXZGRFJaUmlMYXEwRTI4c25BRlNfVGFDQ3k?oc=5",
+      "text": "Ex-Vaillant Manager bestreitet alles  WDR",
+      "date": "Tue, 24 Nov 2026 19:10:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Verbraucherschützer haben die smarte Brille im Blick",
@@ -1262,6 +1262,20 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Säbelfechterin Larissa Eifler - Wie man einen Rückstand in einen Sieg verwandelt",
+      "uri": "https://www.sportschau.de/saebelfechterin-larissa-eifler-wie-man-einen-rueckstand-in-einen-sieg-verwandelt,sportschau-f-larissa-eifler-100.html",
+      "text": "\"Es lohnt sich, Träume zu haben, und es ist möglich, sie zu erreichen\", sagt Fechterin Larissa Eifler. Als erste Deutsche wurde sie Weltmeisterin im Säbelfechten. In Sportschau F berichtet sie aber auch vom Trauma der verpassten Olympiaqualifikation.",
+      "date": "Fri, 20 Nov 2026 10:41:28 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Wie gefällt dir das Sportschau Update?",
+      "uri": "https://1.ard.de/sportschau-update",
+      "text": "Hörst du das Sportschau Update? Dann hilf uns, es besser zu machen. Unsere Umfrage ist anonym und dauert nur ein paar Minuten.",
+      "date": "Fri, 20 Nov 2026 09:49:30 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle - RGA",
       "uri": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWm9QYjZkZThlcm5jczFvV1JRZlNqV0pUa2xWV1NNS080b1VjY2oyalFKVmNqdGUzUDRxWl84MmNmaDRQbDZkaGlxMjNpVHYxVkhBQkZBWVdMb3lxMlk5MU9TRXNXczNIeG5RTS1SSkZIc29aWG9obmxxeEVfZVhZSDdPdGItbmExRjhObjAxZDRfTEVTTThjbTI2eTZoRjBtd21qSzRjRlc2WDBUQXJZdTMxSzV2XzlzYmtscEtjcHFqR0NSNHU3VEJKaW8tcUxJbUt5atIB8AFBVV95cUxNMXNtUElibXhyR1A3LXdSU2NQT1F4SmhrcktjTFZuVEgtMWpqX1R4M2VncDRNYTR1ZWhJaUdaejJ5cVg4dTBMdzg0TGMtbmFkSlBVTnhtbzJBYS1rYkVvbGVBR1dJUWNEUGNJWmxJVFh4WmU4THlwb1hVRlJGNGVlU3RZRXJvX3Q1VUhLSnNfSWpZc3h0QnJHS1h1SnRCbk81a25NTklHWDF4UE5vTWhjdEcwdmpna1o0ZElhQzZmTUZfcDd3aE9MVkZwZk9lNTRVRHdkMDZ6X2Fxbmllbjh2Q2lxeG9rNEFOeXdIX0dkYVU?oc=5",
       "text": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle  RGA",
@@ -1274,6 +1288,13 @@
       "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
       "date": "Thu, 19 Nov 2026 15:55:00 GMT",
       "category": "Remscheid"
+    },
+    {
+      "title": "Zwei Herausforderer für FIFA-Präsident Infantino",
+      "uri": "https://www.sportschau.de/fussball/zwei-herausforderer-fuer-fifa-praesident-infantino,fifa-praesident-kandidaten-100.html",
+      "text": "Drei Kandidaten haben die nötige Unterstützung bekommen, um für das Amt des FIFA-Präsidenten zu kandidieren. Philippe Diallo und Kozo Tashima treten gegen Gianni Infantino an - vorbehaltlich eines Integritätschecks.",
+      "date": "Thu, 19 Nov 2026 11:28:47 +0100",
+      "category": "Sport"
     },
     {
       "title": "Polizei durchsucht Gebäude in Remscheid und Solingen - Radio RSG",
@@ -1374,25 +1395,11 @@
       "category": "Remscheid"
     },
     {
-      "title": "TSG Hoffenheim gegen Sturm Graz",
-      "uri": "https://www.sportschau.de/fussball/europaleague/tsg-hoffenheim-gegen-sturm-graz,audiostream-europa-league-hoffenheim-graz-100.html",
-      "text": "In der Europa League empfängt die TSG Hoffenheim Sturm Graz. Das Spiel im Audiostream des SWR.",
-      "date": "Fri, 16 Oct 2026 12:34:26 +0200",
-      "category": "Sport"
-    },
-    {
       "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
       "uri": "https://www.tagesschau.de/video/video-1667176.html",
       "text": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
       "date": "Fri, 16 Oct 2026 10:45:37 +0200",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "SC Freiburg gegen Twente Enschede",
-      "uri": "https://www.sportschau.de/fussball/europaleague/sc-freiburg-gegen-twente-enschede,audiostream-ecl-freiburg-enschede-100.html",
-      "text": "In der Conference League empfängt der SC Freiburg die niederländischen Gäste aus Enschede. Das Spiel im Audiostream des SWR.",
-      "date": "Thu, 08 Oct 2026 14:41:30 +0200",
-      "category": "Sport"
     },
     {
       "title": "Grundlegendes Konzept entdeckt - Chemie-Nobelpreis für Japaner und Franzosen",
