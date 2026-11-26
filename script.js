@@ -774,22 +774,60 @@ async function getWeather(city, tomorrow = false) {
 
         if (topic) {
 
-            const filtered = articles.filter(article =>
-                (article.title + " " + article.text)
-                    .toLowerCase()
-                    .includes(topic)
-            );
+    const categories = {
+        wirtschaft: [
+            "wirtschaft", "dax", "börse",
+            "aktien", "banken", "bank",
+            "unternehmen", "finanzen",
+            "inflation", "konjunktur",
+            "commerzbank", "unicredit"
+        ],
+        politik: [
+            "politik", "regierung", "bundestag",
+            "kanzler", "minister", "partei",
+            "wahl", "präsident"
+        ],
+        sport: [
+            "sport", "fußball", "bundesliga",
+            "champions league", "tennis",
+            "formel 1"
+        ],
+        technik: [
+            "technik", "technologie", "computer",
+            "künstliche intelligenz", "software",
+            "digitalisierung", "smartphone"
+        ],
+        deutschland: [
+            "deutschland", "bundesregierung",
+            "berlin", "bundestag", "bundesweit"
+        ]
+    };
 
-            if (!filtered.length) {
-                speak(
-                    "Keine passenden Nachrichten zu " +
-                    topic + " gefunden, Sir."
-                );
-                return;
-            }
+    const keywords = categories[topic] || [topic];
 
-            articles = filtered;
-        }
+    const filtered = articles.filter(article => {
+
+        const content =
+            (article.title + " " + article.text)
+                .toLowerCase();
+
+        return keywords.some(word =>
+            content.includes(word)
+        );
+    });
+
+    if (!filtered.length) {
+
+        speak(
+            "Keine passenden Nachrichten zu " +
+            topic + " im aktuellen Nachrichtenbestand gefunden, Sir."
+        );
+
+        return;
+    }
+
+    articles = filtered;
+}
 
         const sources = articles.slice(0, 5);
 
