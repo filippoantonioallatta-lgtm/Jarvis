@@ -230,7 +230,54 @@ try {
             [first]
         );
     }
+async function searchInternet(query) {
 
+    try {
+
+        let key = localStorage.getItem("jarvis_tavily_key");
+
+        if (!key) {
+            key = prompt(
+                "Tavily API-Schlüssel eingeben:"
+            )?.trim();
+
+            if (!key) return [];
+
+            localStorage.setItem("jarvis_tavily_key", key);
+        }
+
+        const data = await fetchWithTimeout(
+            "https://api.tavily.com/search",
+            {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "Authorization": "Bearer " + key
+                },
+                body: JSON.stringify({
+                    query: query.slice(0, 400),
+                    search_depth: "basic",
+                    max_results: 5,
+                    include_answer: false,
+                    include_raw_content: false
+                })
+            },
+            15000
+        );
+
+        return (data.results || []).map(item => ({
+            title: item.title,
+            text: item.content,
+            uri: item.url
+        }));
+
+    } catch (error) {
+
+        console.warn("Internetsuche:", error.message);
+
+        return [];
+    }
+}
     async function askAI(text) {
 
         if (busy) return;
@@ -293,11 +340,15 @@ try {
             if (shouldSearch) {
 
                 response.textContent =
-                    "Durchsuche Wikipedia, Sir...";
+                    "Durchsuche das Internet, Sir...";
 
                 try {
 
-                    results = await searchWikipedia(text);
+                    results = await searchInternet(text);
+
+if (!results.length) {
+    results = await searchWikipedia(text);
+}
 
 try {
     const res = await fetch("./news.json", {
