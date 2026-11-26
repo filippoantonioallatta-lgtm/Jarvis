@@ -6,8 +6,20 @@
     const command = document.getElementById("command");
     const mic = document.getElementById("mic");
     const send = document.getElementById("send");
+const API_SERVER = "https://jarvis-api.filippoantonioallatta.workers.dev";
+let jarvisCode = localStorage.getItem("jarvis_access_code") || "";
 
-    let groqKey = localStorage.getItem("jarvis_groq_key") || "";
+function getJarvisCode() {
+    if (!jarvisCode) {
+        jarvisCode = prompt("Bitte JARVIS-Zugangscode eingeben, Sir.")?.trim() || "";
+        if (jarvisCode) {
+            localStorage.setItem("jarvis_access_code", jarvisCode);
+        }
+    }
+    return jarvisCode;
+}
+    localStorage.removeItem("jarvis_groq_key");
+localStorage.removeItem("jarvis_tavily_key");
     let busy = false;
     let history = [];
 
@@ -240,25 +252,15 @@ async function searchInternet(query) {
 
     try {
 
-        let key = localStorage.getItem("jarvis_tavily_key");
-
-        if (!key) {
-            key = prompt(
-                "Tavily API-Schlüssel eingeben:"
-            )?.trim();
-
-            if (!key) return [];
-
-            localStorage.setItem("jarvis_tavily_key", key);
-        }
+        if (!getJarvisCode()) return [];
 
         const data = await fetchWithTimeout(
-            "https://api.tavily.com/search",
+            API_SERVER + "/search",
             {
                 method: "POST",
                 headers: {
                     "Content-Type": "application/json",
-                    "Authorization": "Bearer " + key
+                    "X-Jarvis-Code": getJarvisCode()
                 },
                 body: JSON.stringify({
                     query: query.replace(/^(?:hey\s+jarvis[,\s]+)?(?:recherchiere|suche|google|finde heraus)\s*(?:bitte\s+)?(?:mir\s+)?(?:im internet\s*)?(?:nach\s+|über\s+)?/i, "").trim().slice(0, 400) || query.slice(0, 400),
@@ -288,31 +290,10 @@ async function searchInternet(query) {
 
         if (busy) return;
 
-        if (!groqKey) {
-
-            groqKey = prompt(
-                "Bitte den Groq API-Schlüssel eingeben (gsk_...)"
-            )?.trim() || "";
-
-            if (groqKey && !groqKey.startsWith("gsk_")) {
-
-                groqKey = "";
-
-                speak(
-                    "Das ist kein gültiger Groq-Schlüssel, Sir."
-                );
-
-                return;
-            }
-
-            if (groqKey) {
-
-                localStorage.setItem(
-                    "jarvis_groq_key",
-                    groqKey
-                );
-            }
-        }
+        if (!getJarvisCode()) {
+    speak("Kein Zugangscode eingegeben, Sir.");
+    return;
+}
 
         busy = true;
 
@@ -391,7 +372,7 @@ try {
                 }
             }
 
-            if (!groqKey) {
+            if (!jarvisCode) {
 
                 busy = false;
 
@@ -404,7 +385,7 @@ try {
 
                 wikipediaFallback(
                     results,
-                    "Kein Groq API-Schlüssel vorhanden, Sir."
+                    "Kein Zugangscode vorhanden, Sir."
                 );
 
                 return;
@@ -427,14 +408,14 @@ try {
 
             const data = await fetchWithTimeout(
 
-                "https://api.groq.com/openai/v1/chat/completions",
+                API_SERVER + "/chat",
 
                 {
                     method: "POST",
 
                     headers: {
                         "Content-Type": "application/json",
-                        "Authorization": "Bearer " + groqKey
+                        "X-Jarvis-Code": getJarvisCode()
                     },
 
                     body: JSON.stringify({
@@ -675,19 +656,13 @@ localStorage.removeItem("jarvis_history");
             );
 
         } else if (
-            input === "api schlüssel ändern" ||
-            input === "api-schlüssel ändern"
-        ) {
-
-            groqKey = "";
-
-            localStorage.removeItem(
-                "jarvis_groq_key"
-            );
-
-            speak(
-                "Groq API-Schlüssel zurückgesetzt, Sir."
-            );
+    input === "zugangscode ändern" ||
+    input === "api schlüssel ändern" ||
+    input === "api-schlüssel ändern"
+) {
+    jarvisCode = "";
+    localStorage.removeItem("jarvis_access_code");
+    speak("Zugangscode zurückgesetzt, Sir.");
 
         } else {
 
@@ -948,17 +923,17 @@ async function getWeather(city, tomorrow = false) {
             "Hier sind die verfügbaren Nachrichten, Sir.\n\n" +
             newsText;
 
-        if (groqKey) {
+        if (getJarvisCode()) {
 
             try {
 
                 const result = await fetchWithTimeout(
-                    "https://api.groq.com/openai/v1/chat/completions",
+                    API_SERVER + "/chat",
                     {
                         method: "POST",
                         headers: {
                             "Content-Type": "application/json",
-                            "Authorization": "Bearer " + groqKey
+                            "X-Jarvis-Code": getJarvisCode()
                         },
                         body: JSON.stringify({
                             model: model,
