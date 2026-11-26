@@ -838,7 +838,7 @@ async function getWeather(city, tomorrow = false) {
         ]
     };
 
-    const keywords = categories[topic] || [topic];
+    const keywords = categories[topic] || [topic, ...topic.split(/\s+/).filter(word => word.length >= 4)];
 
     const filtered = articles.filter(article => {
 
