@@ -22,36 +22,105 @@ jobs:
           import urllib.request
           import xml.etree.ElementTree as ET
           import json
+          import re
+          import html
           from datetime import datetime, timezone
+          from email.utils import parsedate_to_datetime
 
-          url = "https://www.tagesschau.de/xml/rss2/"
-
-          request = urllib.request.Request(
-              url,
-              headers={"User-Agent": "Mozilla/5.0"}
-          )
-
-          with urllib.request.urlopen(request, timeout=30) as r:
-              root = ET.fromstring(r.read())
+          feeds = {
+              "Allgemein": "https://www.tagesschau.de/xml/rss2/",
+              "Deutschland": "https://www.tagesschau.de/inland/index~rss2.xml",
+              "Welt": "https://www.tagesschau.de/ausland/index~rss2.xml",
+              "Wirtschaft": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+              "Wissenschaft": "https://www.tagesschau.de/wissen/index~rss2.xml",
+              "Sport": "https://www.sportschau.de/index~rss2.xml",
+              "Technik": "https://www.heise.de/rss/heise-atom.xml",
+              "Remscheid": "https://news.google.com/rss/search?q=Remscheid&hl=de&gl=DE&ceid=DE:de"
+          }
 
           articles = []
+          seen = set()
+          atom = "{http://www.w3.org/2005/Atom}"
 
-          for item in root.findall(".//item")[:20]:
+          def clean(text):
+              return html.unescape(
+                  re.sub(r"<[^>]+>", "", text or "")
+              ).strip()
+
+          def add(title, uri, text, date, category):
+              if not title or not uri or uri in seen:
+                  return
+              seen.add(uri)
               articles.append({
-                  "title": item.findtext("title", ""),
-                  "uri": item.findtext("link", ""),
-                  "text": item.findtext("description", ""),
-                  "date": item.findtext("pubDate", "")
+                  "title": clean(title),
+                  "uri": uri,
+                  "text": clean(text),
+                  "date": date,
+                  "category": category
               })
 
+          for category, url in feeds.items():
+              try:
+                  request = urllib.request.Request(
+                      url,
+                      headers={"User-Agent": "Mozilla/5.0"}
+                  )
+
+                  with urllib.request.urlopen(
+                      request, timeout=20
+                  ) as r:
+                      root = ET.fromstring(r.read())
+
+                  for item in root.findall(".//item")[:30]:
+                      add(
+                          item.findtext("title", ""),
+                          item.findtext("link", ""),
+                          item.findtext("description", ""),
+                          item.findtext("pubDate", ""),
+                          category
+                      )
+
+                  for item in root.findall(".//" + atom + "entry")[:30]:
+                      link = item.find(atom + "link")
+                      add(
+                          item.findtext(atom + "title", ""),
+                          link.get("href", "") if link is not None else "",
+                          item.findtext(atom + "summary", ""),
+                          item.findtext(atom + "published", "") or
+                          item.findtext(atom + "updated", ""),
+                          category
+                      )
+
+                  print("Abruf abgeschlossen:", category)
+
+              except Exception as error:
+                  print("Quelle nicht verfügbar:", category, error)
+
           if not articles:
-              raise RuntimeError("Keine Nachrichten gefunden")
+              raise RuntimeError("Keine Nachrichten verfügbar")
+
+          def sort_date(article):
+              try:
+                  return parsedate_to_datetime(
+                      article["date"]
+                  ).timestamp()
+              except Exception:
+                  try:
+                      return datetime.fromisoformat(
+                          article["date"].replace("Z", "+00:00")
+                      ).timestamp()
+                  except Exception:
+                      return 0
+
+          articles.sort(key=sort_date, reverse=True)
 
           with open("news.json", "w", encoding="utf-8") as f:
               json.dump({
                   "updated": datetime.now(timezone.utc).isoformat(),
                   "articles": articles
               }, f, ensure_ascii=False, indent=2)
+
+          print("Gespeicherte Nachrichten:", len(articles))
           PY
 
       - name: Nachrichten speichern
