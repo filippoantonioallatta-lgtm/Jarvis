@@ -164,6 +164,12 @@
 
             const data = await result.json();
 
+if (!result.ok) {
+    response.textContent = JSON.stringify(data, null, 2);
+    status.textContent = "API ERROR";
+    return;
+}
+
             if (!result.ok) {
     throw new Error(JSON.stringify(data.error || data, null, 2));
 }
