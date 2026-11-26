@@ -794,11 +794,18 @@ async function getWeather(city, tomorrow = false) {
 
         let articles = data.articles || [];
 
-        const topic = input
-            .toLowerCase()
-            .replace(/nachrichten|schlagzeilen|neuigkeiten|aktuelle|aktuell|heute|über|zum thema|aus|was gibt es|für|jarvis|bitte/gi, " ")
-            .replace(/[?!.,]/g, "")
-            .trim();
+        const topic = (input.toLowerCase().match(/\p{L}+/gu) || [])
+    .filter(word => ![
+        "nachrichten", "schlagzeilen", "neuigkeiten",
+        "aktuelle", "aktuell", "heute", "neuste",
+        "neuesten", "neueste", "neusten",
+        "über", "zum", "thema", "aus",
+        "was", "ist", "sind", "gibt", "es", "neues",
+        "der", "die", "das", "den", "dem",
+        "von", "zu", "mir", "bitte", "zeige",
+        "suche", "sag", "erzähle", "finde"
+    ].includes(word))
+    .join(" ");
 
         if (topic) {
 
