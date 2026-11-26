@@ -299,6 +299,26 @@ try {
 
                     results = await searchWikipedia(text);
 
+try {
+    const res = await fetch("./news.json", {
+        cache: "no-store"
+    });
+
+    if (res.ok) {
+        const news = await res.json();
+        const words = text.toLowerCase().match(/\p{L}{4,}/gu) || [];
+
+        const matches = (news.articles || []).filter(article =>
+            words.some(word =>
+                (article.title + " " + article.text)
+                    .toLowerCase().includes(word)
+            )
+        );
+
+        results = [...matches.slice(0, 3), ...results];
+    }
+} catch (_) {}
+
                 } catch (_) {
                     results = [];
                 }
@@ -335,7 +355,7 @@ try {
             ).join("\n\n");
 
             const userContent = results.length
-                ? text + "\n\nWikipedia-Recherche:\n" + webInfo
+                ? text + "\n\ninternet-recherche:\n" + webInfo
                 : text;
 
             const data = await fetchWithTimeout(
