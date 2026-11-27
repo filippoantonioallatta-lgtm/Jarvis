@@ -768,7 +768,7 @@ localStorage.removeItem("jarvis_history");
 
     function startListening() {
         if (!conversationMode || recognition) return;
-        if (busy || speechSynthesis.speaking || speechSynthesis.pending) {
+        if (busy) {
             scheduleListening();
             return;
         }
@@ -838,7 +838,90 @@ localStorage.removeItem("jarvis_history");
 
 
 
-            session.start();
+            let pausedByVoice = false;
+const oldResult = session.onresult;
+const oldEnd = session.onend;
+const oldError = session.onerror;
+
+
+
+
+function resumeOldSpeech() {
+    if (pausedByVoice) {
+        pausedByVoice = false;
+        speechSynthesis.resume();
+    }
+}
+
+
+
+
+session.onspeechstart = () => {
+    if (conversationMode && speechSynthesis.speaking && !speechSynthesis.paused) {
+        pausedByVoice = true;
+        speechSynthesis.pause();
+    }
+};
+
+
+
+
+session.onresult = async event => {
+    if (!conversationMode) return;
+
+
+
+
+    const text = event.results[0][0].transcript.trim();
+    const normalize = value => value.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+
+
+
+
+    const heard = normalize(text);
+    const spoken = normalize(response.textContent);
+
+
+
+
+    if (!heard || ((pausedByVoice || speechSynthesis.speaking) && (" " + spoken + " ").includes(" " + heard + " "))) {
+        resumeOldSpeech();
+        return;
+    }
+
+
+
+
+    pausedByVoice = false;
+    speechSynthesis.cancel();
+    speechSynthesis.resume();
+
+
+
+
+    await oldResult(event);
+};
+
+
+
+
+session.onend = event => {
+    resumeOldSpeech();
+    oldEnd(event);
+};
+
+
+
+
+session.onerror = event => {
+    resumeOldSpeech();
+    oldError(event);
+};
+
+
+
+
+session.start();
         } catch (error) {
             recognition = null;
             stopConversation();
