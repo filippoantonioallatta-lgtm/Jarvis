@@ -419,6 +419,113 @@ pauseTest.onclick = async () => {
         }
     }, 50);
 };
+const ttsButton = document.createElement("button");
+ttsButton.textContent = "JARVIS-Stimme erzeugen";
+
+
+
+
+const ttsInfo = document.createElement("p");
+const ttsPlayer = document.createElement("audio");
+ttsPlayer.controls = true;
+
+
+
+
+document.body.append(ttsButton, ttsInfo, ttsPlayer);
+
+
+
+
+let ttsURL;
+
+
+
+
+ttsButton.onclick = async () => {
+    const code = localStorage.getItem("jarvis_access_code") ||
+        prompt("Bitte JARVIS-Zugangscode eingeben.");
+
+
+
+
+    if (!code) return;
+
+
+
+
+    ttsButton.disabled = true;
+    ttsInfo.textContent = "Stimme wird erzeugt...";
+
+
+
+
+    try {
+        const result = await fetch(
+            "https://jarvis-api.filippoantonioallatta.workers.dev/tts",
+            {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                    "X-Jarvis-Code": code.trim()
+                },
+                body: JSON.stringify({
+                    text: "Guten Tag. Ich bin JARVIS. Meine neue Stimme ist bereit."
+                })
+            }
+        );
+
+
+
+
+        const data = await result.json();
+
+
+
+
+        if (!result.ok || !data.audio) {
+            throw new Error("HTTP " + result.status + ": " + (data.error || "Keine Audiodaten"));
+        }
+
+
+
+
+        const bytes = Uint8Array.from(
+            atob(data.audio), c => c.charCodeAt(0)
+        );
+
+
+
+
+        const blob = new Blob([bytes], {
+            type: data.mimeType || "audio/wav"
+        });
+
+
+
+
+        if (ttsURL) URL.revokeObjectURL(ttsURL);
+
+
+
+
+        ttsURL = URL.createObjectURL(blob);
+        ttsPlayer.src = ttsURL;
+
+
+
+
+        ttsInfo.textContent = "Stimme bereit. Drücke auf Wiedergabe.";
+
+
+
+
+    } catch (error) {
+        ttsInfo.textContent = "Fehler: " + error.message;
+    } finally {
+        ttsButton.disabled = false;
+    }
+};
 </script>
 
 </body>
