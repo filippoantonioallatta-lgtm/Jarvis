@@ -1,6 +1,34 @@
 {
-  "updated": "2026-11-27T20:39:16.309350+00:00",
+  "updated": "2026-11-27T21:41:01.257573+00:00",
   "articles": [
+    {
+      "title": "Gladbach und Bremen mit spektakulärem Remis",
+      "uri": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+      "text": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Spiel. Gladbach verspielt eine Zwei-Tore-Führung.",
+      "date": "Fri, 27 Nov 2026 22:38:46 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "HSG Wetzlar erkämpft sich ersten Heimsieg",
+      "uri": "https://www.sportschau.de/regional/hr/hr-erfolg-gegen-goeppingen-hsg-wetzlar-erkaempft-sich-ersten-heimsieg-100.html",
+      "text": "Die HSG Wetzlar hat sich mit einer wahren Energieleistung den zweiten Sieg in der laufenden Handballsaison gesichert. Zwei Spieler machten gegen Göppingen den entscheidenden Unterschied.",
+      "date": "Fri, 27 Nov 2026 22:26:23 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Fischtown Pinguins schlagen die Schwenninger Wild Wings",
+      "uri": "https://www.sportschau.de/regional/rb/rb-fischtown-pinguins-schlagen-die-schwenninger-wild-wings-mit-3-100.html",
+      "text": "Nach zwei Niederlagen in Serie gelang den Bremerhavenern am Freitagabend ein souveräner Heimsieg. Max Görtz, Matthew Abt und Eugen Alanov erzielten die Tore für die Pinguins.",
+      "date": "Fri, 27 Nov 2026 22:20:20 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Handball-Bundesliga: THW Kiel gewinnt beim Bergischen HC",
+      "uri": "https://www.sportschau.de/regional/ndr/thw-kiel-arbeitet-sich-gegen-bergischen-hc-zum-sieg,thw-kiel-596.html",
+      "text": "Der THW Kiel hat in der Handball-Bundesliga einen glanzlosen, aber wichtigen Sieg gegen den Bergischen HC gefeiert.",
+      "date": "Fri, 27 Nov 2026 22:00:52 +0100",
+      "category": "Sport"
+    },
     {
       "title": "Deutsche Basketballer lösen WM-Ticket nach Sieg in Lettland",
       "uri": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballer-machen-wm-endrunde-perfekt,wm-qualifikation-lettland-dbb-100.html",
@@ -9,16 +37,9 @@
       "category": "Sport"
     },
     {
-      "title": "Jetzt live - Mit vollem Risiko: Dinkci erzielt Ausgleich für Werder",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193945/werder-bremen_borussia-moenchengladbach/liveticker",
-      "text": "Mönchengladbach sucht nach Perspektive in der Bundesliga. Ausgerechnet Werder Bremen, das Team der Stunde, ist Fohlen-Gegner am Freitagabend.",
-      "date": "Fri, 27 Nov 2026 21:34:02 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Hansa Rostock atmet erleichtert durch - 2:0-Sieg gegen Havelse",
       "uri": "https://www.sportschau.de/regional/ndr/Dritte-Liga-Hansa-Rostock-Havelse,hansa-1048.html",
-      "text": "Den Mecklenburgern ist im Drittliga-Nordduell gegen Havelse der erhoffte sportliche Befreiungsschlag gelungen. Nicht mit dabei war allerdings der Cheftrainer.",
+      "text": "Fußball-Drittligist Hansa Rostock ist im Nordduell gegen den TSV Havelse der erhoffte sportliche Befreiungsschlag gelungen.",
       "date": "Fri, 27 Nov 2026 21:05:24 +0100",
       "category": "Sport"
     },
@@ -44,18 +65,18 @@
       "category": "Sport"
     },
     {
-      "title": "Live hören: Werder Bremen gegen Borussia Mönchengladbach - Bundesliga",
-      "uri": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-borussia-moenchengladbach,audiostream-werder-bremen-gegen-borussia-moenchengladbach-106.html",
-      "text": "11. Spieltag: Anpfiff des Spiels ist am 27.11.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Bremen.",
-      "date": "Fri, 27 Nov 2026 20:15:00 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
       "uri": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-ohne-cloud-ab-30-euro/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
       "date": "2026-11-27T20:00:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Hertha und die Wahrheit hinter den 15 Eigengewächsen",
+      "uri": "https://www.sportschau.de/regional/rbb/rbb-hertha-die-wahrheit-hinter-den-15-eigengewaechsen-100.html",
+      "text": "Mit 15 Kader-Spielern aus der eigenen Akademie stellt Hertha BSC den Bestwert der zweiten Bundesliga. Der Blick in die Einsatzstatistik nach den ersten 14 Pflichtspielen zeigt jedoch: Die Last auf dem Rasen verteilt sich auf erstaunlich wenige Schultern.",
+      "date": "Fri, 27 Nov 2026 19:40:09 +0100",
+      "category": "Sport"
     },
     {
       "title": "Als Vincent Kompany die Raute trug",
@@ -128,17 +149,10 @@
       "category": "Allgemein"
     },
     {
-      "title": "Jetzt live - Kölner Haie empfangen die Straubing Tigers",
+      "title": "Kölner Haie schlagen Straubing Tigers in der Overtime",
       "uri": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189754/koelner-haie_straubing-tigers/liveticker",
-      "text": "Es ist nicht die Saison der Kölner Haie. 14 Punkte Rückstand sind es schon auf die Eisbären auf Platz eins. Am Freitagabend sind die Straubing Tigers in der Domstadt zu Gast.",
+      "text": "Die Kölner Haie haben in der DEL gegen die Straubing Tigers gewonnen. Patrick Russell traf in der Overtime zum Kölner Sieg.",
       "date": "Fri, 27 Nov 2026 17:26:34 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Jetzt live - Bergischer HC empfängt Schwergewicht Kiel",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma12190804/bergischer-hc_thw-kiel/liveticker",
-      "text": "In der Handball-Bundesliga ist Kiel beim Bergischen HC zu Gast. Der Rekordmeister zieht die Massen in die Halle, die Partie ist ausverkauft.",
-      "date": "Fri, 27 Nov 2026 17:25:01 +0100",
       "category": "Sport"
     },
     {
@@ -233,13 +247,6 @@
       "category": "Sport"
     },
     {
-      "title": "Eintracht Braunschweig empfängt VfL Wolfsburg zum \"kleinen\" Derby",
-      "uri": "https://www.sportschau.de/regional/ndr/welches-rollenspiel-zeigt-braunschweig-gegen-wolfsburg,eintracht-446.html",
-      "text": "Vorhang auf für das \"kleine\" Niedersachsenderby: Am Sonntag empfängt Eintracht Braunschweig in der 2. Bundesliga den VfL Wolfsburg.",
-      "date": "Fri, 27 Nov 2026 15:43:28 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "AI-Supply-Chain: Günstige Inferenzangebote greifen Secrets ab",
       "uri": "https://www.heise.de/news/AI-Supply-Chain-Guenstige-Inferenzangebote-greifen-Secrets-ab-11540914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Über KI-Router-Dienste, die an kostengünstige Inferenz-Engines weiterleiten, wurden Promptinhalte abgefischt. Modellanbieter MiniMax ignorierte ZDR-Flags.",
@@ -315,13 +322,6 @@
       "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
       "date": "Fri, 27 Nov 2026 14:44:03 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Tages-Update am Freitag",
-      "uri": "https://www.sportschau.de/podcasts/sportschau-update/tages-update-am-freitag,audio-tages-update-am-freitag-244.html",
-      "text": "Deutscher Doppelsieg im Monobob, aber durchwachsene Ergebnisse im Langlauf +++ Hase und Volodin sichern sich mit sechs Punkten Vorsprung den ersten Platz im Eiskunstlauf +++ Bitteres Davis-Cup-Aus: Deutschland scheitert mit Zverev im Viertelfinale an Großbritannien.",
-      "date": "Fri, 27 Nov 2026 14:42:17 +0100",
-      "category": "Sport"
     },
     {
       "title": "GrapheneOS: Proof of Concept für RCS-Messenger ohne Google Messages",
@@ -448,6 +448,13 @@
       "text": "Damit in Klassen nicht immer dieselben zu Wort kommen, haben Bildungsforscher die schnipp-App entwickelt. Ein Modell sortiert die Antworten.",
       "date": "2026-11-27T12:53:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Remscheid: Bürgerinitiative Lennep zu Outlet-Verkehrsplänen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVVQzemV1azd6NElIWDVKSjc2eFBTdkY4a0hZMFg1aWN5bjRCNEYtRUp1YllIMUI4NmE5T3o4Rlhwd1dlVEg4RmpJYTg5QjRIY3dBbnR6OWhNYUpBaGJpLTcyd095NWZya1JvS1ZzeHFYdUl1d1lBMXZjTDlNemNfYURVcGs1eDRGam1vVlZqUGFzVWNxdE1kQ3N0eHkzeEFkY2c?oc=5",
+      "text": "Remscheid: Bürgerinitiative Lennep zu Outlet-Verkehrsplänen  Radio RSG",
+      "date": "Fri, 27 Nov 2026 11:17:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Schwindel und Übelkeit: Einige Nutzer haben mit Apples OLED-MacBook ein Problem",
@@ -688,13 +695,6 @@
       "category": "Welt"
     },
     {
-      "title": "Erfolg im vorletzten Test: DHB-Frauen gegen Frankreich schon in EM-Form",
-      "uri": "https://www.sportschau.de/handball/frauen-em/dhb-frauen-gegen-frankreich-schon-in-em-form,spielbericht-test-dhb-frauen-frankreich-100.html",
-      "text": "Stabile Abwehr und effizienter Angriff: Deutschlands Handballerinnen haben bei ihrem vorletzten EM-Test gegen Frankreich berechtigte Hoffnungen auf Edelmetall geweckt.",
-      "date": "Thu, 26 Nov 2026 22:04:08 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wirtschaft vor acht vom 26.11.2026",
       "uri": "https://www.tagesschau.de/video/video-1690646.html",
       "text": "Wirtschaft vor acht vom 26.11.2026",
@@ -777,6 +777,13 @@
       "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
       "date": "Thu, 26 Nov 2026 12:39:55 +0100",
       "category": "Deutschland"
+    },
+    {
+      "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Freitag mit Bremen gegen Gladbach",
+      "uri": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-bremen-gegen-gladbach,livestream-sportschau-am-freitag-182.html",
+      "text": "Am 10. Spieltag trifft Bremen auf Gladbach. Die Highlights in der Sportschau am Freitag. Dazu Zusammenfassungen aus der 2. Bundesliga.",
+      "date": "Thu, 26 Nov 2026 12:28:24 +0100",
+      "category": "Sport"
     },
     {
       "title": "Verkaufsoffene Sonntage in Remscheid und Solingen - Radio RSG",
@@ -1329,13 +1336,6 @@
       "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDBQZ3JtNTNfaTh0Q0NZZ2RxVWJuNEZBSXpZUmthOXZDYTluQVpUM0xmbk1LU0RlaERIaXQwdmR3NnNzUDZnNmwxNThlMldKQVVVS2ZxLXQ1M0M3QmU4cDJCb0l2TlhMaDVhQ3BoZF9rZ09vWXhCd2psb3NCWnFuQmp2ZDUwVmhZTnR1aU1n?oc=5",
       "text": "Remscheider SilberRock  Stadt Remscheid",
       "date": "Tue, 10 Nov 2026 11:55:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Gedore schließt einen Standort in Remscheid - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjZOTmpGT2IySlJqeVBCMFI1aXV2Z3FwM200VTYtRnYtMXZsSFBnZldhM2gzTFRaSXk4Z2MzbXZmWFdMSnpmNnQyV1ZsWWc2NzBERkt3Q1Y5NGlJYXdjclRnamhpeTRwQUVsRE81WGVRM2NsVk5vY2tibkhrSU1xQVdOSEtsdUdfX0pYUw?oc=5",
-      "text": "Gedore schließt einen Standort in Remscheid  Radio RSG",
-      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
       "category": "Remscheid"
     },
     {
