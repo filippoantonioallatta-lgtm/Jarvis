@@ -637,7 +637,63 @@ interruptButton.onclick = async () => {
 
 
             if (text) {
-                finish("Neuer Sprachbefehl: " + text);
+                interruptInfo.textContent = "JARVIS denkt nach...";
+
+
+
+
+const chatResult = await fetch(
+    "https://jarvis-api.filippoantonioallatta.workers.dev/chat",
+    {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            "X-Jarvis-Code": code.trim()
+        },
+        body: JSON.stringify({
+            messages: [
+                {
+                    role: "system",
+                    content: "Du bist JARVIS. Antworte auf Deutsch, kurz und professionell."
+                },
+                {
+                    role: "user",
+                    content: text
+                }
+            ]
+        }),
+        signal: AbortSignal.timeout(45000)
+    }
+);
+
+
+
+
+const chatData = await chatResult.json();
+
+
+
+
+if (!chatResult.ok) {
+    throw new Error(chatData.error || "KI-Anfrage fehlgeschlagen.");
+}
+
+
+
+
+const answer = chatData.choices?.[0]?.message?.content?.trim();
+
+
+
+
+if (!answer) {
+    throw new Error("Keine KI-Antwort erhalten.");
+}
+
+
+
+
+finish("Du: " + text + "\n\nJARVIS: " + answer);
                 return;
             }
 
