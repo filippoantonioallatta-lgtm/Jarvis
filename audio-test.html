@@ -115,6 +115,90 @@ stop.onclick = () => {
     cleanup();
     info.textContent = "Beendet";
 };
+const recordButton = document.createElement("button");
+recordButton.textContent = "Aufnahme starten";
+
+
+
+
+const player = document.createElement("audio");
+player.controls = true;
+
+
+
+
+document.body.append(recordButton, player);
+
+
+
+
+let recorder;
+let audioURL;
+
+
+
+
+recordButton.onclick = () => {
+    if (recorder?.state === "recording") {
+        recorder.stop();
+        return;
+    }
+
+
+
+
+    if (!stream?.getAudioTracks().some(t => t.readyState === "live")) {
+        alert("Bitte zuerst das Mikrofon starten.");
+        return;
+    }
+
+
+
+
+    try {
+        const chunks = [];
+        recorder = new MediaRecorder(stream);
+
+
+
+
+        recorder.ondataavailable = e => {
+            if (e.data.size) chunks.push(e.data);
+        };
+
+
+
+
+        recorder.onstop = () => {
+            if (audioURL) URL.revokeObjectURL(audioURL);
+
+
+
+
+            audioURL = URL.createObjectURL(new Blob(chunks, {
+                type: recorder.mimeType || chunks[0]?.type || ""
+            }));
+
+
+
+
+            player.src = audioURL;
+            recordButton.textContent = "Aufnahme starten";
+        };
+
+
+
+
+        recorder.start();
+        recordButton.textContent = "Aufnahme beenden";
+
+
+
+
+    } catch (e) {
+        alert(e.message);
+    }
+};
 </script>
 
 </body>
