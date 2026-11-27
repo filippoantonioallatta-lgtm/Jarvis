@@ -1,6 +1,76 @@
 {
-  "updated": "2026-11-27T04:51:27.312852+00:00",
+  "updated": "2026-11-27T06:21:28.561946+00:00",
   "articles": [
+    {
+      "title": "Berufsorientierung in Hückeswagen und Remscheid: Montanusschule und Zukunftscampus starten Kooperation - RP Online",
+      "uri": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcVV0VElGZVF2ejh0N0hVRWtEMVVqQ1haWVlsZzViVFRJOVFreVhSLWpOOU1ZdWR0ZlhfSGpiNXBWSF9wazZ3X1kzbTg0MlljSVMtNlFnMWxpaTRvVkxsRWxxREdKWXhVX004TlVTQ2M3eDRsOUYwWW5pRWc1a3NjSTRHdUpEbWh6ZWloXzNUcTZBaFJqZS0zWUtNNHdaZHlId09HeUEyMmx2aDVIU1J2bWxWLTlZV1Y3NVZ0WXVqMG5odGxSMGhWV3RUQktyZ3FJUHc?oc=5",
+      "text": "Berufsorientierung in Hückeswagen und Remscheid: Montanusschule und Zukunftscampus starten Kooperation  RP Online",
+      "date": "Fri, 27 Nov 2026 06:00:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Einen Monat nach Milliardendiebstahl: Binance hebt letzte Restriktionen auf",
+      "uri": "https://www.heise.de/news/Einen-Monat-nach-Milliardendiebstahl-Binance-hebt-letzte-Restriktionen-auf-11539955.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Nachdem Binance 6,3 Milliarden US-Dollar gestohlen wurden, hat das Unternehmen Ein- und Auszahlungen gestoppt. Nun wurden die letzten Beschränkungen aufgehoben.",
+      "date": "2026-11-27T06:50:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Parlamentswahl: Wie Spaniens Volkspartei die Ära Sánchez abwickeln will",
+      "uri": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
+      "text": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von F. Welz.",
+      "date": "Fri, 27 Nov 2026 06:43:42 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Eiskunstlauf in Tokio",
+      "uri": "https://www.sportschau.de/wintersport/eiskunstlauf-in-tokio,livestream-eiskunstlauf-118.html",
+      "text": "Eiskunstlauf in Tokio - mit den Kurzprogrammen der Paare, Frauen und Männer. Daniel Weiss kommentiert.",
+      "date": "Fri, 27 Nov 2026 06:17:39 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Freitag: SAPs massiver Stellenabbau wegen KI, FBI-Falle für Ransomware-Betrüger",
+      "uri": "https://www.heise.de/news/Freitag-SAPs-massiver-Stellenabbau-wegen-KI-FBI-Falle-fuer-Ransomware-Betrueger-11539951.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "KI bedroht 10.000 SAP-Stellen + Betrug an Ransomware-Opfern + Südostasien ohne Nvidias KI-Server + Temu in Europa für Verbraucherschutz + Datenschutz-Podcast",
+      "date": "2026-11-27T06:15:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Auslegungssache 173: Datenschutz-Schnelldurchlauf",
+      "uri": "https://www.heise.de/hintergrund/Auslegungssache-173-Datenschutz-Schnelldurchlauf-11538839.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Ohne Gast, dafür mit voller Themenliste: Der Podcast befasst sich mit Verarbeitungsverzeichnissen, Smart Glasses, IP-Speicherung und dem Ende des Pflicht-DSBs.",
+      "date": "2026-11-27T06:10:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnBRWVVyVDJBY1piRFVqQ3VpSFl5bFVsR2pzZGVydTNWRW9HZjNPeG1fWmJvdFZVTGNhTzhRdTJ4MXU2MnpVNzZXMnl0T3RZNWhha2FPX0JVaGNTdmhCZjdSMEh3NU1nVkRCYnk0Y3ZUM0ZjVDBLYnhMQ0F0YVFqVmg3RnY0NVBDaGxETlUwUWQ0RTZmT0hjRUt3OVdUcEE?oc=5",
+      "text": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land  Radio RSG",
+      "date": "Fri, 27 Nov 2026 05:10:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
+      "uri": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+      "text": "Nach der Wahl zeichnete sich ein sehr knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premier Luxon hat keine Mehrheit mehr. Jetzt spielt eine neue Partei die entscheidende Rolle.",
+      "date": "Fri, 27 Nov 2026 06:09:05 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Polizei ermittelt zu Kellerbrand am Kremenholl - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeG8yN3BLeU9hNV9SczJzRDMtYS1hYnE3aTZYcVVrdmdodFBsR3pVT2VSQnBBVGhvNGk0WWZ1Zm92czRHTUUweFdNTlJnOEYyc0hRQks4aUlBM25TLWZCTzRGckJ0RWFqWGxpaXFCZWJGeExma2FpVnhuZmFiZkphNFJNaGwyZTEzY3ZsX0xrZw?oc=5",
+      "text": "Polizei ermittelt zu Kellerbrand am Kremenholl  Radio RSG",
+      "date": "Fri, 27 Nov 2026 05:08:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "heise+ | Die Odyssee im 4K-Heimkinotest: Die dunkle Seite des IMAX-Erfolgs",
+      "uri": "https://www.heise.de/tests/Die-Odyssee-im-4K-Heimkinotest-Die-dunkle-Seite-des-IMAX-Erfolgs-11500516.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+      "text": "Im Kino war Nolans Odyssee das Ereignis des Jahres. Doch zu Hause offenbaren UHD, Blu-ray und Stream große Probleme bei Kontrast und Schattenzeichnung.",
+      "date": "2026-11-27T06:02:00+01:00",
+      "category": "Technik"
+    },
     {
       "title": "Nvidia stoppt offenbar Lieferungen von KI-Servern an einige Länder Südostasiens",
       "uri": "https://www.heise.de/news/Nvidia-stoppt-offenbar-Lieferungen-von-KI-Servern-an-einige-Laender-Suedostasiens-11539931.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -25,7 +95,7 @@
     {
       "title": "Bosnien und Herzogowina: Dodik hebt Sohn auf den Thron",
       "uri": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
-      "text": "Dodik hatte über 20 Jahre lang die Macht in der serbisch-dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef. Von O. Soos.",
+      "text": "Dodik hatte über 20 Jahre lang die Macht in der serbisch dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten, wegen seiner Separatismuspolitik. Nun macht er seinen Sohn zum Regierungschef. Von O. Soos.",
       "date": "Fri, 27 Nov 2026 02:29:29 +0100",
       "category": "Allgemein"
     },
@@ -151,7 +221,7 @@
     {
       "title": "Davis-Cup: Nach dem Aus ist vor dem Umbruch",
       "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-deuschland-aus-verjuengung,davis-cup-deutschland-ausgeschieden-100.html",
-      "text": "Deutschland zeigte beim Davis Cup in Bologna kein schlechtes Tennis, das Aus gegen Großbritannien ging aber in Ordnung. Künftig wird sich die DHB-Auswahl verjüngen und wohl noch eine Weile auf den großen Coup warten müssen.",
+      "text": "Deutschland zeigte beim Davis Cup in Bologna kein schlechtes Tennis, das Aus gegen Großbritannien ging aber in Ordnung. Künftig wird sich die DTB-Auswahl verjüngen und wohl noch eine Weile auf den großen Coup warten müssen.",
       "date": "Thu, 26 Nov 2026 20:14:36 +0100",
       "category": "Sport"
     },
@@ -423,7 +493,7 @@
     },
     {
       "title": "Nationalspielerin Laura Freigang bis Oktober 2027 gesperrt",
-      "uri": "https://www.sportschau.de/regional/hr/hr-eintracht-frankfurt-laura-freigang-bis-oktober-2027-gesperrt-100.html",
+      "uri": "https://www.sportschau.de/regional/hr/hr-laura-freigang-bis-oktober-2027-gesperrt-eintracht-kapitaenin-verpasst-auch-wm-100.html",
       "text": "Saisonaus für Laura Freigang: Wegen ihrer Meldeversäumnisse im Zusammenhang mit Dopingkontrollen fehlt die Eintracht-Kapitänin lange und verpasst auch die kommende Fußball-WM.",
       "date": "Thu, 26 Nov 2026 14:20:48 +0100",
       "category": "Sport"
@@ -485,13 +555,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Tesla FSD: EU-weite Zulassung verzögert sich weiter",
-      "uri": "https://www.heise.de/news/Tesla-Assisted-Driving-EU-Entscheidung-verschiebt-sich-auf-15-Dezember-11539133.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Die EU-Entscheidung über Teslas Fahrassistenzsystem TAD fällt nicht am 1., sondern frühestens am 15. Dezember. In zwölf Ländern ist FSD bereits erlaubt.",
-      "date": "2026-11-26T13:40:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Mia san Kimmich - Kommentar zum Fall Musiala beim FC Bayern München",
       "uri": "https://www.sportschau.de/fussball/championsleague/mia-san-kimmich,musiala-bayern-kimmich-kommentar-100.html",
       "text": "Was Joshua Kimmich am Mittwochabend getan hat, ist im Profifußball und beim FC Bayern München ein Tabubruch - und letztendlich ein Segen.",
@@ -506,13 +569,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Alter macOS-Bug: Warum die Fenster-Ecken in Tahoe so rund waren",
-      "uri": "https://www.heise.de/news/Alter-macOS-Bug-Warum-die-Fenster-Ecken-in-Tahoe-so-rund-waren-11538321.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "macOS 26 alias Tahoe nervte User anfangs mit einer Merkwürdigkeit: Fenster waren viel runder als zuvor. Nun scheint der Grund dafür aufgetaucht zu sein.",
-      "date": "2026-11-26T12:58:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
       "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
@@ -520,11 +576,11 @@
       "category": "Allgemein"
     },
     {
-      "title": "Google lässt Entwickler für den Traffic der Anwender bezahlen",
-      "uri": "https://www.heise.de/news/Google-laesst-Entwickler-fuer-den-Traffic-der-Anwender-bezahlen-11538829.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Mit einem neuen und undurchsichtigen Kostenmodell erhebt Google Gebühren für die API-Nutzung, auch für jene, die von bereits zahlenden Anwendern anfällt.",
-      "date": "2026-11-26T12:12:00+01:00",
-      "category": "Technik"
+      "title": "Verkaufsoffene Sonntage in Remscheid und Solingen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVmlIZnNJMVM2SmowMDlsSzZsRXlXaXlQTXFOb21MUnR4aVhzSGo3a2dXbzhqdUV6N2NOODZnckFRNk5qMmRfMEQxVUNFNDNmT3dUTVV6ejZ6WXF1RVZRbmhaTklpWE4tS0RUR3VYNkZKakQxSXJOUTdKampLcWlUOWRRaTRJSVVUTElacEcyVUtzTEE?oc=5",
+      "text": "Verkaufsoffene Sonntage in Remscheid und Solingen  Radio RSG",
+      "date": "Thu, 26 Nov 2026 11:12:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Durchsuchungen in Remscheid wegen Anschlagsplan - Radio RSG",
@@ -539,13 +595,6 @@
       "text": "Beim EU-Sondergipfel geht der slowakische Regierungschef Fico auf Konfrontation. Zusammen mit Polen, Ungarn und Tschechien will er die EU-Haushaltspläne blockieren - insbesondere die Ukraine-Hilfen. Innenpolitisch könnte ihm das nutzen. Von M. Allweiss.",
       "date": "Thu, 26 Nov 2026 12:04:32 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Zahlungsverfahren: Bluecode unterstützt Alipay und PayPay, Revolut Blik",
-      "uri": "https://www.heise.de/news/Zahlungsverfahren-Bluecode-unterstuetzt-Alipay-und-PayPay-Revolut-Blik-11537904.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Wer in Asien unterwegs ist, benötigt die bei uns wenig üblichen QR-Zahlverfahren. Bluecode will Brücke sein. Revolut unterstützt unterdessen Blik aus Polen.",
-      "date": "2026-11-26T12:04:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "Remscheid: Verkehrspläne für Outlet - Radio RSG",
@@ -580,7 +629,7 @@
       "uri": "https://www.tagesschau.de/inland/innenpolitik/rente-diskussion-104.html",
       "text": "Überzeugt der neue Vorschlag zur \"Rente mit 63\" aus der Union die SPD? Erste Reaktionen von den Sozialdemokraten deuten nicht auf eine Einigung hin. Die Union fordert dagegen, \"die ausgestreckte Hand zu ergreifen\".",
       "date": "Thu, 26 Nov 2026 11:41:10 +0100",
-      "category": "Allgemein"
+      "category": "Deutschland"
     },
     {
       "title": "Eintracht ist trotz Ebnoutalib-Gerüchten um Ruhe bemüht",
@@ -622,7 +671,7 @@
       "uri": "https://www.tagesschau.de/ausland/europa/ukraine-korruption-118.html",
       "text": "Die Ukraine braucht viel Geld wegen der Schäden durch russische Luftangriffe. Das kommt oft von der EU. Journalisten und Politiker decken Fälle mutmaßlicher Korruption auf - und bewegen damit etwas. Von F. Kellermann.",
       "date": "Thu, 26 Nov 2026 08:53:31 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "Digitaler Führerschein startet ab Mitte Dezember",
@@ -1171,13 +1220,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben - RP Online",
-      "uri": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG83YWJYWG9vTGZhMGo4OEJXeVRscFR6VGlLM2w2VlBVNUhyejRXR2hnRG51OG43eWJnaUhpYkN2Z0JyMUgwTWpfNmpYOUE5UmplZkM5cW91ZXhsOXJNdEEyZHBfbWVzRHFLbjQwbEpvN1dzdHprcTQ4dmRibEdNd3RrS3pxRjZVZndObUUtWUk2X1ZyRDVPOGYyMVJkODNic21feFJWcEhUcXhwUXh3UkNhNkpLb3FtTkoxTw?oc=5",
-      "text": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben  RP Online",
-      "date": "Mon, 23 Nov 2026 13:06:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Falsche Polizisten in Remscheid und Wuppertal - Radio RSG",
       "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdU1vcFVMYjFmUF8taVhidHV1NDZVZ1puZjliYkdncFNUYlY5VlRzOXlnU3FvT0ZtdjVPenJhS3AxTVZWQ2hIdEtJRmpWOENQaFFvQlJPNzRoNks2OG5mQjZhbElWZFA4VDlGX0VMT3Y4UWkxS0hDczZMeDZDM1ZzekJFa0swbGJPcTN1cl93?oc=5",
       "text": "Falsche Polizisten in Remscheid und Wuppertal  Radio RSG",
@@ -1241,13 +1283,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Wiener Schmäh statt Wartezeit: So unterstützt das Remscheider Unternehmen Vaillant SOS Kinderdörfer weltweit - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZUl5TV9MUWhDMFM0QXhUaVhKZE5aYW83NEtNNFhqWTdzMkZlcTJqSVM0NWZ6ajdndkZhMTlDakZJa1N3SE5DdU9kZUVJeFF1ZWV5ZFdna3pMQi11Rk5remhCZEdFeV90Z0JSM2VyaG80RmN4WHRmemk5TWhOVHFBbi15aGgwNmNhRTBQZEdsbElHMlJJNERHeW5Xd01sN1Rlbms1X29LdlUyTFYwVDB5QTQ2UVF3akt0ZHZLc2F5OUx4cjFIRDBCdTcyakZYR3RPLU56NFlRakJkY1JPV3FhYVg5WEdtdml1ZkVpaNIBiAJBVV95cUxOYkpLYU5DNHA2VGp3UGhxcTQ0UlZRTHpxdXRkYURiNmlGNzFwWlFYNmowY3o3R285YTRjVnlVYXdvMWdOVWxSZU9UUHgtVUthQ1NuZ0JIckhSd1FQWW9Hc1pUS3paUGZRa0ZuNkVrMDhNODVLdDJLS19wNEU0X3pTVUw3cDkzaXZ3TFZ0dmMyTC02blhwdV9wXzVUa3VkSWIzLTc5YUdCUWh5dnpUS2doUVI5NHBoUVR3TE1rdDVrdnFNOUhVVnRoampqUzV4S0dXOGl4VFcycXR1WEQyWjdSM255MUE3UkdicF9SdnZzc1h0U19NcHJpR1AxaTBYemRrSUNxVjI2bmg?oc=5",
-      "text": "Wiener Schmäh statt Wartezeit: So unterstützt das Remscheider Unternehmen Vaillant SOS Kinderdörfer weltweit  RGA",
-      "date": "Sat, 21 Nov 2026 15:04:53 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen - RGA",
       "uri": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWx1R0hPWVBHbTdlVUdfMlYxUDZRNklqWnpIVElwTmVFd2JxRG1CLUlrZUtnQm1TUVBxUGxFUHF1QVNWMGNMaGJxdVVqeFREN1VKbXBlZEJfM3hZb2pWSFFyWUhnUHlOWHF6M2pvWTF4SEdPZHVKcnFvYjlzU1VMYWFySTBFc3laTzdaWmxCYVJPODlGaTlIZlJ3ZUNxNWJVenBzcmJZLV9oeWhjbnNSeU9RcDRnbWN5VXZzZkVwbWUwZw?oc=5",
       "text": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen  RGA",
@@ -1281,13 +1316,6 @@
       "text": "Hörst du das Sportschau Update? Dann hilf uns, es besser zu machen. Unsere Umfrage ist anonym und dauert nur ein paar Minuten.",
       "date": "Fri, 20 Nov 2026 09:49:30 +0100",
       "category": "Sport"
-    },
-    {
-      "title": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWm9QYjZkZThlcm5jczFvV1JRZlNqV0pUa2xWV1NNS080b1VjY2oyalFKVmNqdGUzUDRxWl84MmNmaDRQbDZkaGlxMjNpVHYxVkhBQkZBWVdMb3lxMlk5MU9TRXNXczNIeG5RTS1SSkZIc29aWG9obmxxeEVfZVhZSDdPdGItbmExRjhObjAxZDRfTEVTTThjbTI2eTZoRjBtd21qSzRjRlc2WDBUQXJZdTMxSzV2XzlzYmtscEtjcHFqR0NSNHU3VEJKaW8tcUxJbUt5atIB8AFBVV95cUxNMXNtUElibXhyR1A3LXdSU2NQT1F4SmhrcktjTFZuVEgtMWpqX1R4M2VncDRNYTR1ZWhJaUdaejJ5cVg4dTBMdzg0TGMtbmFkSlBVTnhtbzJBYS1rYkVvbGVBR1dJUWNEUGNJWmxJVFh4WmU4THlwb1hVRlJGNGVlU3RZRXJvX3Q1VUhLSnNfSWpZc3h0QnJHS1h1SnRCbk81a25NTklHWDF4UE5vTWhjdEcwdmpna1o0ZElhQzZmTUZfcDd3aE9MVkZwZk9lNTRVRHdkMDZ6X2Fxbmllbjh2Q2lxeG9rNEFOeXdIX0dkYVU?oc=5",
-      "text": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle  RGA",
-      "date": "Fri, 20 Nov 2026 07:11:54 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal - Wuppertaler Rundschau",
@@ -1353,13 +1381,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Eiskunstlauf in Tokio",
-      "uri": "https://www.sportschau.de/wintersport/eiskunstlauf-in-tokio,livestream-eiskunstlauf-118.html",
-      "text": "Eiskunstlauf in Tokio - mit den Kurzprogrammen der Paare, Frauen und Männer. Daniel Weiss kommentiert.",
-      "date": "Mon, 09 Nov 2026 16:07:07 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Tor des Monats Oktober - alle Tore",
       "uri": "https://www.sportschau.de/tor-des-monats/tor-des-monats-oktober-alle-tore,tdm-oktober-2026-100.html",
       "text": "Cole Campbell, Samantha Steuerwald, Lars Kehl, Philipp Harant und Joe Scally sind für das Tor des Monats Oktober nominiert. Alle Tore im Video.",
@@ -1393,13 +1414,6 @@
       "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "date": "Sun, 01 Nov 2026 09:01:01 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Nach Eskalation - Remscheid will durchgreifen - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekE0aEhqMVMyeHY5RV93LUtJSVpUaG5HeTJHOVAwZEpOWF9Cdl9YVmlfbUFqcUdPdUt2Qkp1WTIzN2d6MGxfc3VjSEJFM1lFeHV4cjdaUldIRXdmWlZkVkRVWTRlRThLLXJScUEtaUs3M1BFRnd2N1hSbjl2XzJKdlk5MmTSAYMBQVVfeXFMTnpMX2h2Q2M0WG1oM2FacVVLdzgyXzVZOHFlUGRIVFlqcGxYUnhITU54SURjenpMUVNSODJKaDRuRko5YTN6WF9pQm1vS0hING1zQThqMWZLZVg2TjJJcjZIUnV5VmhVOWFob253U3B4RnJJV1NfeDJRbjl6ZFRnLTVIb2c?oc=5",
-      "text": "Nach Eskalation - Remscheid will durchgreifen  WDR",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
