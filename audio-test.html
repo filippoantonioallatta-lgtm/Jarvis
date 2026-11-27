@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JARVIS Audiotest</title>
+</head>
+<body>
+
+<h1>JARVIS Audiotest</h1>
+
+<button id="start">Mikrofon starten</button>
+<button id="talk" disabled>Teststimme</button>
+<button id="stop" disabled>Beenden</button>
+
+<p id="info">Bereit</p>
+<meter id="level" min="0" max="100" value="0"></meter>
+
+<script>
+const start = document.getElementById("start");
+const talk = document.getElementById("talk");
+const stop = document.getElementById("stop");
+const info = document.getElementById("info");
+const level = document.getElementById("level");
+
+let stream, ctx, frame, source, analyser;
+
+function cleanup() {
+    cancelAnimationFrame(frame);
+    if (stream) stream.getTracks().forEach(t => t.stop());
+    if (ctx) ctx.close().catch(() => {});
+    if (window.speechSynthesis) speechSynthesis.cancel();
+    start.disabled = false;
+    talk.disabled = stop.disabled = true;
+    level.value = 0;
+}
+
+start.onclick = async () => {
+    start.disabled = true;
+
+    try {
+        ctx = new (window.AudioContext || window.webkitAudioContext)();
+        await ctx.resume();
+
+        stream = await navigator.mediaDevices.getUserMedia({
+            audio: {
+                echoCancellation: true,
+                noiseSuppression: true
+            }
+        });
+
+        source = ctx.createMediaStreamSource(stream);
+        analyser = ctx.createAnalyser();
+        source.connect(analyser);
+
+        const samples = new Float32Array(analyser.fftSize);
+
+        function update() {
+            analyser.getFloatTimeDomainData(samples);
+
+            const rms = Math.sqrt(
+                samples.reduce((s, x) => s + x*x, 0) / samples.length
+            );
+
+            level.value = Math.min(100, rms * 500);
+
+            info.textContent =
+                "Mikrofon: " + Math.round(level.value) +
+                " / 100 | Audio: " + ctx.state;
+
+            frame = requestAnimationFrame(update);
+        }
+
+        talk.disabled = stop.disabled = false;
+        update();
+
+    } catch (e) {
+        cleanup();
+        info.textContent = e.name + ": " + e.message;
+    }
+};
+
+talk.onclick = () => {
+    speechSynthesis.cancel();
+
+    const voice = new SpeechSynthesisUtterance(
+        "Dies ist ein Audiotest. Sprich jetzt gleichzeitig mit mir. Ich werde noch einige Sekunden weitersprechen."
+    );
+
+    voice.lang = "de-DE";
+    speechSynthesis.speak(voice);
+};
+
+stop.onclick = () => {
+    cleanup();
+    info.textContent = "Beendet";
+};
+</script>
+
+</body>
+</html>
