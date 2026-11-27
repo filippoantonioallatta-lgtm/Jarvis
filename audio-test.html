@@ -527,6 +527,250 @@ ttsButton.onclick = async () => {
         ttsButton.disabled = false;
     }
 };
+const interruptButton = document.createElement("button");
+interruptButton.textContent = "Neuen Sprachbefehl testen";
+
+
+
+
+const interruptInfo = document.createElement("p");
+document.body.append(interruptButton, interruptInfo);
+
+
+
+
+interruptButton.onclick = async () => {
+    if (!ttsURL || !stream?.getAudioTracks().some(t => t.readyState === "live")) {
+        interruptInfo.textContent = "Bitte Mikrofon starten und Stimme erzeugen.";
+        return;
+    }
+
+
+
+
+    const code = localStorage.getItem("jarvis_access_code") ||
+        prompt("JARVIS-Zugangscode:");
+
+
+
+
+    if (!code) return;
+
+
+
+
+    interruptButton.disabled = true;
+
+
+
+
+    let timer;
+    let recorder;
+    let loudSince = 0;
+    let quietSince = 0;
+    let recordingSince = 0;
+    let chunks = [];
+
+
+
+
+    function finish(message) {
+        clearInterval(timer);
+        ttsPlayer.pause();
+        interruptButton.disabled = false;
+        interruptInfo.textContent = message;
+    }
+
+
+
+
+    async function recognize(blob) {
+        interruptInfo.textContent = "Verarbeite Sprachbefehl...";
+
+
+
+
+        try {
+            const ext = blob.type.includes("webm") ? "webm" :
+                blob.type.includes("ogg") ? "ogg" :
+                blob.type.includes("wav") ? "wav" : "m4a";
+
+
+
+
+            const form = new FormData();
+            form.append("file", blob, "aufnahme." + ext);
+
+
+
+
+            const result = await fetch(
+                "https://jarvis-api.filippoantonioallatta.workers.dev/transcribe",
+                {
+                    method: "POST",
+                    headers: {
+                        "X-Jarvis-Code": code.trim()
+                    },
+                    body: form,
+                    signal: AbortSignal.timeout(45000)
+                }
+            );
+
+
+
+
+            const data = await result.json();
+
+
+
+
+            if (!result.ok) {
+                throw new Error(data.error || "HTTP " + result.status);
+            }
+
+
+
+
+            const text = String(data.text || "").trim();
+
+
+
+
+            if (text) {
+                finish("Neuer Sprachbefehl: " + text);
+                return;
+            }
+
+
+
+
+            await ttsPlayer.play();
+            interruptButton.disabled = false;
+            interruptInfo.textContent = "Keine Sprache erkannt. Wiedergabe läuft weiter.";
+
+
+
+
+        } catch (error) {
+            finish("Fehler: " + error.message);
+        }
+    }
+
+
+
+
+    try {
+        ttsPlayer.currentTime = 0;
+        await ttsPlayer.play();
+
+
+
+
+        interruptInfo.textContent = "Sprich während der Wiedergabe dazwischen.";
+
+
+
+
+        timer = setInterval(() => {
+            const now = performance.now();
+            const loud = level.value >= 15;
+
+
+
+
+            if (recorder?.state === "recording") {
+                quietSince = loud ? 0 : (quietSince || now);
+
+
+
+
+                if ((quietSince && now - quietSince >= 1200) ||
+                    now - recordingSince >= 15000 ||
+                    !stream.getAudioTracks().some(t => t.readyState === "live")) {
+                    clearInterval(timer);
+                    recorder.stop();
+                }
+
+
+
+
+                return;
+            }
+
+
+
+
+            if (ttsPlayer.ended ||
+                !stream.getAudioTracks().some(t => t.readyState === "live")) {
+                finish("Test beendet.");
+                return;
+            }
+
+
+
+
+            loudSince = loud ? (loudSince || now) : 0;
+
+
+
+
+            if (loudSince && now - loudSince >= 150) {
+                try {
+                    recorder = new MediaRecorder(stream);
+
+
+
+
+                    recorder.ondataavailable = e => {
+                        if (e.data.size) chunks.push(e.data);
+                    };
+
+
+
+
+                    recorder.onstop = () => {
+                        if (!chunks.length) {
+                            finish("Keine Aufnahme erhalten.");
+                            return;
+                        }
+
+
+
+
+                        recognize(new Blob(chunks, {
+                            type: recorder.mimeType || chunks[0].type
+                        }));
+                    };
+
+
+
+
+                    ttsPlayer.pause();
+                    recorder.start();
+                    recordingSince = now;
+
+
+
+
+                    interruptInfo.textContent =
+                        "PAUSE – neuer Sprachbefehl wird aufgenommen.";
+
+
+
+
+                } catch (error) {
+                    finish(error.message);
+                }
+            }
+        }, 50);
+
+
+
+
+    } catch (error) {
+        finish(error.message);
+    }
+};
 </script>
 
 </body>
