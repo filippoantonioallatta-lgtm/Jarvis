@@ -595,7 +595,7 @@ const memoryMatch = text.match(
         clearJarvisMemory();
         speak("Mein Langzeitgedächtnis wurde gelöscht.");
         return;
-    }(text) {
+    }
 
         text = text.trim();
 
