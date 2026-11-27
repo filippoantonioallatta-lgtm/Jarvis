@@ -1,19 +1,124 @@
 {
-  "updated": "2026-11-27T15:44:30.997561+00:00",
+  "updated": "2026-11-27T16:52:23.093120+00:00",
   "articles": [
     {
-      "title": "Cyber Monday und Black Friday für macOS: Welche guten Apps günstiger sind",
+      "title": "Live hören: Die Konferenz - 13. Spieltag | Fußball 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/13-spieltag-die-konferenz,audiostream-13-spieltag-die-konferenz-132.html",
+      "text": "2. Bundesliga live - alle Spiele am 27.11.2026 um 18:30 Uhr in der Konferenz.",
+      "date": "Fri, 27 Nov 2026 18:15:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Live hören: 1. FC Heidenheim 1846 gegen 1. FC Nürnberg - 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/1-fc-heidenheim-1846-gegen-1-fc-nuernberg,audiostream-1-fc-heidenheim-1846-gegen-1-fc-nuernberg-102.html",
+      "text": "13. Spieltag: Anpfiff des Spiels ist am 27.11.2026 um 18:30 Uhr. 1. FC Nürnberg spielt in Heidenheim.",
+      "date": "Fri, 27 Nov 2026 18:15:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Live hören: VfL Bochum gegen SV Darmstadt 98 - 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/vfl-bochum-gegen-sv-darmstadt-98,audiostream-vfl-bochum-gegen-sv-darmstadt-98-104.html",
+      "text": "13. Spieltag: Anpfiff des Spiels ist am 27.11.2026 um 18:30 Uhr. SV Darmstadt 98 spielt in Bochum.",
+      "date": "Fri, 27 Nov 2026 18:15:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Tanhheimer überzeugt bei Öberg-Sieg zum Saisonauftakt",
+      "uri": "https://www.sportschau.de/wintersport/biathlon/julia-tannheimer-ueberzeugt-bei-oeberg-sieg,biathlon-kontiolahti-einzel-frauen-100.html",
+      "text": "Julian Tannheimer läuft beim Weltcupauftakt mit einer starken Leistung auf Rang sieben - den Sieg holt die Schwedin Elvira Öberg vor der Finnin Sonja Leinamo.",
+      "date": "Fri, 27 Nov 2026 17:36:34 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Kodak SlideTag: Schlüsselanhänger mit Dia-Optik und Tracking-Funktion",
+      "uri": "https://www.heise.de/news/Kodak-SlideTag-Schluesselanhaenger-mit-Dia-Optik-und-Tracking-Funktion-11541304.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Kodak bringt mit dem SlideTag einen Schlüsselanhänger mit E-Ink-Fotodisplay, der zugleich per Apple- oder Google-Netzwerk geortet werden kann.",
+      "date": "2026-11-27T17:35:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Das plant Arbeitsminister Schweitzer für die Rente",
+      "uri": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+      "text": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann.",
+      "date": "Fri, 27 Nov 2026 17:30:51 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Samsung Display rettet Ams-Osrams Mikro-LED-Werk",
+      "uri": "https://www.heise.de/news/Samsung-Display-rettet-Ams-Osrams-Mikro-LED-Werk-11541296.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Samsung wagt einen neuen Anlauf bei Bildschirmen mit Mikro-LEDs. Zusammen mit Ams-Osram aus Österreich sollen die Kosten sinken.",
+      "date": "2026-11-27T17:28:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Kommentar zu Schweitzers Rentenplänen: Die politische Irrfahrt geht weiter",
+      "uri": "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
+      "text": "Die \"Rente mit 63\" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit in der Koalition wohl ebenso.",
+      "date": "Fri, 27 Nov 2026 17:26:55 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Bundesnetzagentur plant Rumpfnetz für Krisenfälle",
+      "uri": "https://www.heise.de/news/Bundesnetzagentur-plant-Rumpfnetz-fuer-Krisenfaelle-11541262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Die Bundesnetzagentur will schrittweise Standorte identifizieren, über die im Krisen- und Katastrophenfall die Notfallkommunikation gelingen kann.",
+      "date": "2026-11-27T17:22:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Bundesgerichtshof: Balkonkraftwerke gehören zum modernen Wohnen",
+      "uri": "https://www.heise.de/news/Bundesgerichtshof-Balkonkraftwerke-gehoeren-zum-modernen-Wohnen-11541245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Der BGH setzt den Möglichkeiten für Vermieter, den Einbau eines Balkonkraftwerks zu verhindern, klare Grenzen.",
+      "date": "2026-11-27T17:17:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Kontrollen bei Mietwagen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNDZ5dzV2WjlBdTNjaWdUOTdZX0gxdHdUcWVqOFJ5SmpxbjFIV2JFaEwwNzJwWHhIREl5RFlNV2ZaVjdGVmRYNGNDb1g3UEdtZWJtMTloMXRGTXVzaURhTnJFTm1iVXdaR254a3p2aFIyUQ?oc=5",
+      "text": "Kontrollen bei Mietwagen  Radio RSG",
+      "date": "Fri, 27 Nov 2026 16:17:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Skispringen der Männer - DSV-Adler wollen aus der Krise",
+      "uri": "https://www.sportschau.de/wintersport/skispringen/skispringen-der-maenner-qualifikation,livestream-wintersport-skispringen-quali-100.html",
+      "text": "Die Qualifikation für das Skispringen in Ruka. Gelingt den deutschen Springern die Trendwende? Tom Bartels und Sven Hannawald kommentieren.",
+      "date": "Fri, 27 Nov 2026 17:14:17 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Beschlüsse im Bundestag - Stromsteuer sinkt, Zuckersteuer kommt",
+      "uri": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+      "text": "Der Bundestag hat die Senkung der Stromsteuer für ein Jahr und eine Zuckersteuer bei Getränken beschlossen. Außerdem steigt die Abgabe auf hochprozentigen Alkohol. Auch Alkopops könnten teurer werden.",
+      "date": "Fri, 27 Nov 2026 17:09:18 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Abgeortneter für Solingen und Remscheid für Frauen - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUVtNXJqSEp1R0tqTmJQdEd0MklkUDIzWHgxc3dUcDdYS2gyWUhoLWFzeGZzNkVsR29odWNjblZNaEZIazAzVjREZXpBWnVCM3k0b3hWc25HY1M0REkwRDY0RUY0Y3FhUGMzcDJENFpQUHhXRWM5WGdWUlFqNHpNbWNVSFlvWW5SdXl4UEI5UWJLLU9odUlr?oc=5",
+      "text": "Abgeortneter für Solingen und Remscheid für Frauen  Radio RSG",
+      "date": "Fri, 27 Nov 2026 16:09:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Ab 19 Uhr live - Schlusslicht Havelse an der Ostsee zu Gast",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242635/fc-hansa-rostock_tsv-havelse/liveticker",
+      "text": "Hansa Rostock eröffnet den 15. Spieltag in der dritten Liga mit einem Heimspiel gegen den TSV Havelse. Im Nordduell bei der Kogge hat Havelse als Tabellenletzter die Underdog-Rolle.",
+      "date": "Fri, 27 Nov 2026 16:50:18 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Ab 18.30 Uhr live - Nürnberg in Heidenheim, Bochum gegen Darmstadt",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3963/",
+      "text": "In der zweiten Liga steht Heidenheim mit Nürnberg eine schwere Aufgabe ins Haus. Derweil versucht Darmstadt dem Abstiegskampf zu entkommen. Dafür brauchen die Lilien einen Sieg beim VfL.",
+      "date": "Fri, 27 Nov 2026 16:45:34 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "macOS-Apps zum Black Friday und Cyber Monday: Tipps für gute Software",
       "uri": "https://www.heise.de/news/Cyber-Monday-und-Black-Friday-fuer-macOS-Welche-guten-Apps-guenstiger-sind-11538325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Einmal mehr haben bekannte Anbieter von Mac-Anwendungen zu den Shopping-Feierta die Tarife reduziert. Ein Überblick, was sich aktuell lohnt.",
       "date": "2026-11-27T16:31:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Skispringen der Männer - Qualifikation",
-      "uri": "https://www.sportschau.de/wintersport/skispringen/skispringen-der-maenner-qualifikation,livestream-wintersport-skispringen-quali-100.html",
-      "text": "Die Qualifikation für das Skispringen in Ruka. Es kommentiert Tom Bartels.",
-      "date": "Fri, 27 Nov 2026 16:28:20 +0100",
-      "category": "Sport"
     },
     {
       "title": "Hacker brechen angeblich in Cloud-Plattform der US Air Force ein",
@@ -65,10 +170,17 @@
       "category": "Sport"
     },
     {
-      "title": "Livestream: Wintersport mit der Nordischen Kombi und Biathlon",
+      "title": "Livestream: Biathlon mit dem Einzel der Frauen",
       "uri": "https://www.sportschau.de/wintersport/wintersport-im-ersten,livestream-wintersport-im-ersten-114.html",
-      "text": "Der Wintersport im Ersten mit Biathlon - die Frauen steigen mit dem Einzel über 15 Kilometer in die Saison ein.",
+      "text": "Der Wintersport im Ersten mit Biathlon - und den Stimmen sowie der Analyse nach dem Einzel der Frauen.",
       "date": "Fri, 27 Nov 2026 15:56:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Eintracht Braunschweig empfängt VfL Wolfsburg zum \"kleinen\" Derby",
+      "uri": "https://www.sportschau.de/regional/ndr/welches-rollenspiel-zeigt-braunschweig-gegen-wolfsburg,eintracht-446.html",
+      "text": "Gladiatoren & Co: Eintracht-Trainer Lars Kornetka verwandelt seine Mannschaft zur Motivation gern in besondere Charaktere. Offenbar BTSV-Anhänger sorgten vor dem Spiel für einen Eklat.",
+      "date": "Fri, 27 Nov 2026 15:43:28 +0100",
       "category": "Sport"
     },
     {
@@ -112,13 +224,6 @@
       "text": "Die weltweit größten Hersteller von Wafer-Rohlingen schlagen Alarm. Ab 2027 könnten sie die Nachfrage von Chipherstellern nicht vollständig bedienen.",
       "date": "2026-11-27T15:10:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Das plant Arbeitsminister Schweitzer für die Rente",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
-      "text": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann.",
-      "date": "Fri, 27 Nov 2026 15:00:01 +0100",
-      "category": "Allgemein"
     },
     {
       "title": "Pochettino jubelt am \"Tag für die Ewigkeit\"",
@@ -191,6 +296,13 @@
       "category": "Technik"
     },
     {
+      "title": "Nach Dopingsperre: Victoria Carl ist zurück",
+      "uri": "https://www.sportschau.de/wintersport/langlauf/victoria-carl-fuer-18-monate-wegen-dopings-gesperrt,victoria-carl-feiert-sieg-nach-dopingsperre-100.html",
+      "text": "Nach 18 Monaten Dopingsperre ist Victoria Carl zurück. Beim FIS-Rennen in Norwegen gewinnt sie und hofft auf die Rückkehr in den Weltcup.",
+      "date": "Fri, 27 Nov 2026 13:51:01 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Diverse Schwachstellen in Apache Tomcat",
       "uri": "https://www.heise.de/news/Diverse-Schwachstellen-in-Apache-Tomcat-11540730.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Aktuelle Versionen von Tomcat beheben neun Schwachstellen, eine weitere muss per Konfigurationsänderung umgangen werden und für eine elfte fehlen noch Updates.",
@@ -240,13 +352,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Jetzt live - Einzel der Frauen in Kontiolahti",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1212/kontiolahti/ma11978507/liveticker-list",
-      "text": "Weltcup-Auftakt für die Biathletinnen: Für Janina Hettich-Walz und Co. startet die Saison mit einem Einzel-Rennen in Kontiolahti.",
-      "date": "Fri, 27 Nov 2026 13:03:26 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "DFB warnt vor wirtschaftlichen Gefahren für die 3. Liga",
       "uri": "https://www.sportschau.de/fussball/amateurfussball/fernsehvertraege-schadenersatz-und-juristische-fragen,regionalliga-reform-190.html",
       "text": "Die Regionalliga-Reform erhitzt weiter die Gemüter: Die Befürworter des Kompassmodells warnen vor den wirtschaftlichen Folgen des alternativen 22/5-Modells für die Vereine der 3. Liga.",
@@ -268,13 +373,6 @@
       "category": "Technik"
     },
     {
-      "title": "Wintereinbruch: Mehr als 400 Unfälle im Süden Bayerns",
-      "uri": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
-      "text": "In Bayern haben Schneefälle für zahlreiche Verkehrsunfälle und Sperrungen von Autobahnen gesorgt. Auch in Sachsen gab es mehrere Unfälle. Die gute Seite des Neuschnees: In Deutschland beginnt die Skisaison.",
-      "date": "Fri, 27 Nov 2026 12:33:25 +0100",
-      "category": "Allgemein"
-    },
-    {
       "title": "Schwindel und Übelkeit: Einige Nutzer haben mit Apples OLED-MacBook ein Problem",
       "uri": "https://www.heise.de/news/Schwindel-und-Uebelkeit-Einige-Nutzer-haben-mit-Apples-OLED-MacBook-ein-Problem-11539819.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Es gibt Menschen, die reagieren auf die Pulsweitenmodulation von OLEDs sensibel. Auch einige Käufer von Apples neuen Notebooks sollen betroffen sein.",
@@ -293,7 +391,7 @@
       "uri": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
       "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
       "date": "Fri, 27 Nov 2026 12:09:55 +0100",
-      "category": "Allgemein"
+      "category": "Deutschland"
     },
     {
       "title": "SAP erwägt offenbar Abbau von Tausenden Stellen",
@@ -387,20 +485,6 @@
       "category": "Technik"
     },
     {
-      "title": "VWN: Lies will eigenen Transporter aus Hannover statt türkischen Ford-Ableger",
-      "uri": "https://www.heise.de/news/Olaf-Lies-will-echten-Bulli-aus-Hannover-statt-von-Ford-aus-der-Tuerkei-11540245.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Lies will einen Bulli, der in Hannover gebaut wird statt Transporter von Ford aus der Türkei. Rüstungsaufträge könnten das Werk zusätzlich auslasten.",
-      "date": "2026-11-27T11:04:00+01:00",
-      "category": "Technik"
-    },
-    {
-      "title": "macOS auf dem iPad: Bei Apple läuft es intern schon",
-      "uri": "https://www.heise.de/news/macOS-auf-dem-iPad-Bei-Apple-laeuft-es-intern-schon-11539647.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Technisch dürfte es ein kleines Problem sein, auf iPads ein echtes macOS auszuführen. Einem Bericht zufolge experimentiert Apple damit.",
-      "date": "2026-11-27T10:59:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Wie Firmen mit Weiterbildung gegen Fachkräftemangel vorbeugen",
       "uri": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/demografie-fachkraefte-weiterbildung-100.html",
       "text": "Der demografische Wandel kommt immer stärker am Arbeitsmarkt an. Auch gezielte Zuwanderung kann den Fachkräftemangel nicht mehr ausgleichen. Viele Firmen setzen daher auf Weiterbildung. Von Axel John.",
@@ -429,13 +513,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Große Gefühle bei Ehrung für Laura Dahlmeier",
-      "uri": "https://www.sportschau.de/regional/br/br-hall-of-fame-grosse-gefuehle-bei-ehrung-fuer-laura-dahlmeier-102.html",
-      "text": "Emotionale Worte für Laura Dahlmeier: Bei ihrer Aufnahme in die Hall of Fame des deutschen Sports erinnerte Vater Andreas Dahlmeier an das viel zu kurze Leben der Ex-Biathletin. \"Laura hat in 30 Jahren mehr erlebt als viele in einem ganzen Leben.\"",
-      "date": "Fri, 27 Nov 2026 10:52:33 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Ausstellung zum Künstler Banksy im Allee-Center - Radio RSG",
       "uri": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGtNaWNSbm9reGxLbFVmc0x0cXJxbUxkT3Y4TURfQmNRa0loNE9pR1dENEQ3MUJHNW45OTRDWEpobTNsOEd6aWxmUS14WGphQVc1Y2xSSF9xVGNCeDFVMFkwRk5mSDU4UDRyLVFoNFFwUmVYQy1HaDBjMEppb0FoQmViblpCMEpNZUlkOGl0dnI4Zw?oc=5",
       "text": "Ausstellung zum Künstler Banksy im Allee-Center  Radio RSG",
@@ -443,32 +520,11 @@
       "category": "Remscheid"
     },
     {
-      "title": "heise+ |  E-Leichtkraftrad LiveWire S4 Honcho im Fahrbericht: Geschaffen für die Stadt",
-      "uri": "https://www.heise.de/tests/E-Leichtkraftrad-LiveWire-S4-Honcho-im-Fahrbericht-Geschaffen-fuer-die-Stadt-11538621.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Harley-Davidsons E-Submarke LiveWire steigt mit der Honcho ins A1-Segment ein. Die Vorstellung in Paris bot die erste Gelegenheit für einen Fahreindruck.",
-      "date": "2026-11-27T10:37:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Shopping: KI-Agenten werden beliebter",
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.html",
       "text": "Das Angebot an digitalen Einkaufshelfern steigt. Experten sehen Wachstumspotenzial. Doch Verbraucherschützer warnen vor Risiken, die Politik vor weiterem Ladensterben in den Städten. Von Heidi Radvilas.",
       "date": "Fri, 27 Nov 2026 10:32:49 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Handball-CL: Gidsel wirft Füchse Berlin zum Sieg gegen Melsungen",
-      "uri": "https://www.sportschau.de/regional/rbb/rbb-handball-cl-gidsel-wirft-fuechse-berlin-zum-sieg-gegen-melsungen-100.html",
-      "text": "Die Füchse Berlin haben im Kampf um das Viertelfinale der Handball-Champions-League einen wichtigen Sieg gefeiert und das Duell mit Melsungen für sich entschieden.",
-      "date": "Fri, 27 Nov 2026 10:30:15 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Post zum Freitag: GTA 6 – Wie KI die Spielregeln der Gaming-Branche verändert",
-      "uri": "https://www.heise.de/meinung/Post-zum-Freitag-GTA-6-Wie-KI-die-Spielregeln-der-Gaming-Branche-veraendert-11539751.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "KI verändert nicht nur die Spieleentwicklung, sondern auch die Machtverhältnisse der Branche. GTA 6 könnte zum Symbol eines grundlegenden Umbruchs werden.",
-      "date": "2026-11-27T10:00:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "Update Wirtschaft vom 27.11.2026",
@@ -632,13 +688,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Davis-Cup: Nach dem Aus ist vor dem Umbruch",
-      "uri": "https://www.sportschau.de/tennis/davis-cup/davis-cup-deuschland-aus-verjuengung,davis-cup-deutschland-ausgeschieden-100.html",
-      "text": "Deutschland zeigte beim Davis Cup in Bologna kein schlechtes Tennis, das Aus gegen Großbritannien ging aber in Ordnung. Künftig wird sich die DTB-Auswahl verjüngen und wohl noch eine Weile auf den großen Coup warten müssen.",
-      "date": "Thu, 26 Nov 2026 20:14:36 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Spanier Hernández de Cos soll Nachfolger von EZB-Chefin Lagarde werden",
       "uri": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
       "text": "EZB-Chefin Lagarde hatte angekündigt, ihren Posten im Februar aufzugeben. Nun ist die Nachfolge geklärt: Die EU-Spitzen einigten sich auf den Spanier Hernández de Cos. Ein Deutscher ist als Chefvolkswirt vorgesehen.",
@@ -651,13 +700,6 @@
       "text": "Die Beschäftigten in der Metall- und Elektroindustrie sollen in zwei Stufen insgesamt 4,3 Prozent mehr Lohn erhalten. Darauf haben sich Arbeitgeber und IG Metall geeinigt. Der Pilotabschluss ermöglicht aber auch Ausnahmen.",
       "date": "Thu, 26 Nov 2026 17:43:33 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Davis Cup: Deutschland scheidet im Viertelfinale aus",
-      "uri": "https://www.sportschau.de/tennis/davis-cup/trotz-zverev-deutscher-titeltraum-platzt-im-viertelfinale,davis-cup-viertelfinale-100.html",
-      "text": "Das deutsche Team träumte vom ersten Davis-Cup-Titel seit 33 Jahren. In der Theorie standen die Chancen so gut wie lange nicht. In der Praxis ist die Auswahl um Alexander Zverev bereits im Viertelfinale an Großbritannien gescheitert.",
-      "date": "Thu, 26 Nov 2026 17:19:14 +0100",
-      "category": "Sport"
     },
     {
       "title": "Wofür steht der designierte EZB-Präsident Pablo Hernández de Cos?",
@@ -681,18 +723,18 @@
       "category": "Wirtschaft"
     },
     {
+      "title": "Vor englischer Woche für den FCK: \"Alles dreht sich um Kiel\"",
+      "uri": "https://www.sportschau.de/regional/swr/swr-vor-englischer-woche-fuer-den-fck-alles-dreht-sich-um-kiel-100.html",
+      "text": "Bevor Anfang Dezember das Pokalduell mit dem SC Freiburg ansteht kreisen die Gedanken beim 1. FC Kaiserslautern nur um das Spiel gegen Holstein Kiel - zumindest laut Trainer Torsten Lieberknecht.",
+      "date": "Thu, 26 Nov 2026 15:13:17 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Schiffsunglück vor Ibiza: Tanker mit 7.000 Tonnen Diesel gekentert",
       "uri": "https://www.tagesschau.de/ausland/europa/tanker-ibiza-100.html",
       "text": "Wegen möglicher Umweltgefahren aktivierten die spanischen Behörden einen Notfallplan: Vor der Küste Ibizas ist ein Tanker mit 7.000 Tonnen Diesel gekentert. Bei dem Unglück kam ein Seemann ums Leben.",
       "date": "Thu, 26 Nov 2026 14:51:28 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "Bekommt die Bundesliga einen Überraschungsmeister?",
-      "uri": "https://www.sportschau.de/bekommt-die-bundesliga-einen-ueberraschungsmeister,bundesliga-update-spieltag-11-100.html",
-      "text": "Aktuell ist das Meisterrennen der Bundesliga so spannend wie lange nicht mehr. An der Tabellenspitze ist es richtig eng. Ein anderer Meister als Bayern München scheint nicht mehr unrealistisch.",
-      "date": "Thu, 26 Nov 2026 14:39:17 +0100",
-      "category": "Sport"
     },
     {
       "title": "Erzbistum Köln: Rekordschmerzensgeld für Missbrauchsopfer",
@@ -709,24 +751,10 @@
       "category": "Wirtschaft"
     },
     {
-      "title": "Nationalspielerin Laura Freigang bis Oktober 2027 gesperrt",
-      "uri": "https://www.sportschau.de/regional/hr/hr-laura-freigang-bis-oktober-2027-gesperrt-eintracht-kapitaenin-verpasst-auch-wm-100.html",
-      "text": "Saisonaus für Laura Freigang: Wegen ihrer Meldeversäumnisse im Zusammenhang mit Dopingkontrollen fehlt die Eintracht-Kapitänin lange und verpasst auch die kommende Fußball-WM.",
-      "date": "Thu, 26 Nov 2026 14:20:48 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Agit Kabayel kämpft vor 48.000 Zuschauern um Anerkennung",
       "uri": "https://www.sportschau.de/regional/wdr/wdr-agit-kabayel-kaempft-vor-48-000-fans-um-anerkennung-100.html",
       "text": "Vor dem Schwergewichts-Kampf am Samstag spricht Kabayel über fehlende Anerkennung und seine Rolle als Repräsentant Deutschlands.",
       "date": "Thu, 26 Nov 2026 14:14:00 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Mia san Kimmich - Kommentar zum Fall Musiala beim FC Bayern München",
-      "uri": "https://www.sportschau.de/fussball/championsleague/mia-san-kimmich,musiala-bayern-kimmich-kommentar-100.html",
-      "text": "Was Joshua Kimmich am Mittwochabend getan hat, ist im Profifußball und beim FC Bayern München ein Tabubruch - und letztendlich ein Segen.",
-      "date": "Thu, 26 Nov 2026 13:18:19 +0100",
       "category": "Sport"
     },
     {
@@ -982,13 +1010,6 @@
       "category": "Wirtschaft"
     },
     {
-      "title": "Kirmes in Lüttringhausen kommt im Sommer 2027 zurück - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWZGYm5TZjlDTWduYXh3UWNRTF9xdTlGcU5FZ2RjSFJZRnVIV1RpUmFYdWF1aU1RX3YzZ3ZoX3haT0k3QjJUdDRhQnotMDNsR3lQM2pkOUFESkl6MXZPdE9vRWpXUzlETC0wQ2YzS0JNZ0t0dXJWYkdsbzRLbE9kb3lOTktrT2s4YUZlYTE2dVhoTU9PMEZBaG5n?oc=5",
-      "text": "Kirmes in Lüttringhausen kommt im Sommer 2027 zurück  Radio RSG",
-      "date": "Wed, 25 Nov 2026 11:44:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Viele offene Fragen bei Chipkonzern Nvidia",
       "uri": "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
       "text": "Jensen Huang steht wieder an der Spitze von Nvidia - und die Tech-Welt scheint wieder in Ordnung. Aber das kurzlebige Ausscheiden des Mitgründers hat Fragen aufgeworfen - und viele davon bleiben erst mal offen. Von Antje Sieb.",
@@ -1031,13 +1052,6 @@
       "category": "Welt"
     },
     {
-      "title": "„Wir müssen Dinge möglich machen“ - PressReader",
-      "uri": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc2Q2TF9sUWQ4TE5XWXdoOExpc2NNODJoTDcwUFdMLUxJMkttU00yamdENnJ1YkFvaEVwZWIwa2IwaDViU0dEZkdjNWlUcEpiOHFoZnM4eVpiOFJKWENNS2lDWm9SWTFlYWlPMjFaZld4UlZPdW1SamFjOEtjMzRiS1htalRldUJHLUhLaW81X3FPS2UwSTMydmZsb1NzOHd3eWc?oc=5",
-      "text": "„Wir müssen Dinge möglich machen“  PressReader",
-      "date": "Wed, 25 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Hindenburgstraße in Remscheid: So schön war das Lichterfest – viele Fotos - RGA",
       "uri": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVdpRHpfVExXZUVvMnBzdG5QQ2FYRmpWajZPVUpYUVEyNTFaa19uUV9VNnBQNlBXc0h4am9RSmhqbFdiTk05SWxyOWVqcTY4eC1rMTYzMkpJbEZZYi1UTl8tbFJDZkNVaDhyek5GdHpZLUl6ZmNjNlN6ZDR6UkQxZkdoX3RYU2wtMmRLOUFEU2o1d2RVRkFQNlNQOGgyQWNUS3E5X1Y3NFRVdjlWRHJqQ2hSZ3V2eHJjbVZkZ09IWnJDclVwN3dJZW9xSjFQSHp5aDRzQlFJNA?oc=5",
       "text": "Hindenburgstraße in Remscheid: So schön war das Lichterfest – viele Fotos  RGA",
@@ -1057,20 +1071,6 @@
       "text": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
       "date": "Wed, 25 Nov 2026 07:11:51 +0100",
       "category": "Deutschland"
-    },
-    {
-      "title": "BHC verpasst vorzeitigen Play-off-Einzug - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRXM1p0Z1JDcWdvRUNIZG5RTlFqRXktaFg2Z0J1LVZoX1hhVm5udWt2NDJRY3ZnOXRnbkZ2cVJ1YzBMTUpkNzlOQUpybEF6aHNSbVUzdjFZZnhCVEJ0bktCZ25xc0Utc1czd3cxdDJaZnYzSm1Nc1JzWmNGWlhScUdVNjd5amc?oc=5",
-      "text": "BHC verpasst vorzeitigen Play-off-Einzug  Radio RSG",
-      "date": "Wed, 25 Nov 2026 06:01:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Hackenberg wieder warm - Hasenberg weiter mit Problemen - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ1RLSVQzLVUyYzdweV9lejY1aWdwbS1Fb1JnSEgxeXUzb0lSZEJ1enZQeFlpMVA4S2x0eVlBZW1MX2U2Rm55TkdNS2s0Uzl5Tkc1bXM1LURDakpSa19ROVhIYmhDSlYycWQyaXNLc0o5djQ4YjJ1TUNjQkFGYkliR2VaZDZmOXYwZG1RWG1rZTZiZFNSSXlmVQ?oc=5",
-      "text": "Hackenberg wieder warm - Hasenberg weiter mit Problemen  Radio RSG",
-      "date": "Wed, 25 Nov 2026 05:49:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet - Radio RSG",
@@ -1129,13 +1129,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "Müssen Geflüchtete bei Taliban-Diplomaten vorsprechen?",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-gefluechtete-taliban-100.html",
-      "text": "Seit 2024 gibt es Sammelabschiebungen nach Afghanistan und Absprachen mit den Taliban. Taliban-Vertreter sind in Konsulaten in Deutschland aktiv. Dort müssen Geflüchtete vorsprechen, auf Anordnung deutscher Behörden. Ist das zulässig? Von Max Bauer.",
-      "date": "Tue, 24 Nov 2026 16:18:02 +0100",
-      "category": "Deutschland"
-    },
-    {
       "title": "Drei Supermonde in Folge: Was macht einen Mond super?",
       "uri": "https://www.tagesschau.de/wissen/weltraum/drei-supermonde-hintereinander-100.html",
       "text": "Heute geht es los: Bei drei Vollmonden - im November, Dezember und Januar - wird der Mond der Erde besonders nahe sein. Das macht sie zu sogenannten Supermonden. Was genau steckt dahinter? Von Heike Westram.",
@@ -1147,6 +1140,13 @@
       "uri": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHRRam5WS3c1aTZDVUVVa1JqY3paQ1E4a2ZGQXRoRzlwNHZGVFBjX2M4VHl2Y3NTWjZTX1ZWZDFDUWZYNkRLZVJjaHpFX2tKOTB3U0U1RVFnUlY0M0dVVG93Zl85aDk2MUsxZm0yUjJuYzBLa2EyWmZLQ0otUmozNk9Fa2Z0Y0FySUFQYnJkQy1MRGJrRGdWVnVtaWdCRzA?oc=5",
       "text": "Kreispokal Remscheid/Solingen: Diese Überraschungen sind möglich  FuPa ⚽️",
       "date": "Tue, 24 Nov 2026 08:00:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit - Stadt Remscheid",
+      "uri": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0s1Y2w1LVZFRnFxcHN4dER4V0lDU1lsV0xGNzE2Y0RtNFhFUFNkdUlJdE1qLU9pMGJVd3RLa0lTNHZ4eEV6RS10VTdkdTVxc2JFSDJiN2JHV2J5MDVmVTNkOHhKVGstRHRDWnNrR1RjUTNXZEw0WG1MWmNzSTRNWlQxRnBZc0JWdm5UdmR2NTFyNjIwb2tYeGFLUQ?oc=5",
+      "text": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit  Stadt Remscheid",
+      "date": "Tue, 24 Nov 2026 07:25:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1169,13 +1169,6 @@
       "text": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke.",
       "date": "Tue, 24 Nov 2026 01:53:40 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "Frostwarnung für die Stadt Remscheid, die Stadt Solingen und weitere Gebiete - tixio - Nachrichten",
-      "uri": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUp3T3JQQkxiZm9NZllwZk1SMm1JZHlpS2pmZnlMVC00Zm5vVEtjMlZjMkZwTzVaWU41RWt2YzdUUGc2OVpOVmVPT1l2RzlpWnZiOXkzaEV1bjE3NlhLaUtiZ3BjM3VkT2s5cUl1VHRaTWdFc1gyTmY3elZqN2lQNkR5aXB5N01WT3ZuZml4a19kQnh6ejNJZi1SYW5QWnNCdFROQ1hrNEJGQzdudlBkbk5B?oc=5",
-      "text": "Frostwarnung für die Stadt Remscheid, die Stadt Solingen und weitere Gebiete  tixio - Nachrichten",
-      "date": "Mon, 23 Nov 2026 23:54:20 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
@@ -1227,13 +1220,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "FW-RS: Balkonbrand in der Rosenhügeler Straße - eine Person aus angrenzender Wohnung gerettet - Presseportal",
-      "uri": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GX3ZWSjlQYWxSVTRkT3FPVFF4NDRTVGd3WTZ1bFFNb3NxNzBkaTRUOGJtOTFUZHI4cnFhZE14VDVvZTBPU0hIQ2E3ZXBwWFE3ZThWMk5BaFV4cHZYa1oxS0VhM0d3UQ?oc=5",
-      "text": "FW-RS: Balkonbrand in der Rosenhügeler Straße - eine Person aus angrenzender Wohnung gerettet  Presseportal",
-      "date": "Mon, 23 Nov 2026 09:49:50 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Verbraucherschützer warnen zur Black Week vor Betrugsmaschen",
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
       "text": "Rabatte von 50, 60 oder sogar 70 Prozent: Rund um den Black Friday lockt der Handel mit vermeintlichen Schnäppchen. Die Branche erwartet Rekordumsätze. Doch Verbraucherschützer warnen auch vor Preisfallen und Betrügern. Von Jens Eberl.",
@@ -1269,10 +1255,10 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWx1R0hPWVBHbTdlVUdfMlYxUDZRNklqWnpIVElwTmVFd2JxRG1CLUlrZUtnQm1TUVBxUGxFUHF1QVNWMGNMaGJxdVVqeFREN1VKbXBlZEJfM3hZb2pWSFFyWUhnUHlOWHF6M2pvWTF4SEdPZHVKcnFvYjlzU1VMYWFySTBFc3laTzdaWmxCYVJPODlGaTlIZlJ3ZUNxNWJVenBzcmJZLV9oeWhjbnNSeU9RcDRnbWN5VXZzZkVwbWUwZw?oc=5",
-      "text": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen  RGA",
-      "date": "Sat, 21 Nov 2026 11:47:12 GMT",
+      "title": "Weihnachtsbasar der JVA Remscheid - Justiz NRW",
+      "uri": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNzczUWJPdjdNWGUzSm54c2xyaWhDMVFGX3kxQVB2N0Y0NUtLZDJYeG1qNGVjVWdhLVlMbF9kaDkxa1FWdDJWZzUzOWduQXZESU5VVUhn?oc=5",
+      "text": "Weihnachtsbasar der JVA Remscheid  Justiz NRW",
+      "date": "Sat, 21 Nov 2026 08:00:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1290,24 +1276,10 @@
       "category": "Sport"
     },
     {
-      "title": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWm9QYjZkZThlcm5jczFvV1JRZlNqV0pUa2xWV1NNS080b1VjY2oyalFKVmNqdGUzUDRxWl84MmNmaDRQbDZkaGlxMjNpVHYxVkhBQkZBWVdMb3lxMlk5MU9TRXNXczNIeG5RTS1SSkZIc29aWG9obmxxeEVfZVhZSDdPdGItbmExRjhObjAxZDRfTEVTTThjbTI2eTZoRjBtd21qSzRjRlc2WDBUQXJZdTMxSzV2XzlzYmtscEtjcHFqR0NSNHU3VEJKaW8tcUxJbUt5atIB8AFBVV95cUxNMXNtUElibXhyR1A3LXdSU2NQT1F4SmhrcktjTFZuVEgtMWpqX1R4M2VncDRNYTR1ZWhJaUdaejJ5cVg4dTBMdzg0TGMtbmFkSlBVTnhtbzJBYS1rYkVvbGVBR1dJUWNEUGNJWmxJVFh4WmU4THlwb1hVRlJGNGVlU3RZRXJvX3Q1VUhLSnNfSWpZc3h0QnJHS1h1SnRCbk81a25NTklHWDF4UE5vTWhjdEcwdmpna1o0ZElhQzZmTUZfcDd3aE9MVkZwZk9lNTRVRHdkMDZ6X2Fxbmllbjh2Q2lxeG9rNEFOeXdIX0dkYVU?oc=5",
-      "text": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle  RGA",
-      "date": "Fri, 20 Nov 2026 07:11:54 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal - Wuppertaler Rundschau",
       "uri": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFJoYjJmeDFydnhSWEN0cDRJQndTUnBhbnNvd3cwdFVoY1l0ajNHTTJTQzY5UmVLbUxDUWFFM0JVZ0dlenVLRFZfQ214VXlkem5Fd2t6NV9feTVWM0Q2OEVJNGxEa3c4WHhzd0oyNHBfc2JyVFBTYm95ZmwwaEtDMGx3MFM4TTdYaXdERHVEbTgyb1NpME5BNTVSeTJnYWRudkJPaXVfNkRZS0dWWFdnamlWRGFGMTdNeUdmakhxVTNaUF9xYkR0TA?oc=5",
       "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
       "date": "Thu, 19 Nov 2026 15:55:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Polizei durchsucht Gebäude in Remscheid und Solingen - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFVmbzdNYm05OWlhcnQ3Ym5WU1JibjljQWdZSm11alVhOXdVeFhJaU9nM0hfa2sxZFhUZE5NenlvRGowY2ZUQ3MwekMyRzlyRC1YYnoyNDlRczRsdWIyUXQxZVlrUkZ0ZHFoQ0t0Xy1FVVphcnBYdkNmcmxpLURyVloxbWRoVU1URUFuaXF0WHRzRVRzTDB1VA?oc=5",
-      "text": "Polizei durchsucht Gebäude in Remscheid und Solingen  Radio RSG",
-      "date": "Thu, 19 Nov 2026 09:48:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1339,6 +1311,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid - FuPa ⚽️",
+      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWROTVBUNXpMckd4VWFKVE8tX1ZJMTlDX01ncHg5WHFMNmxmWEY4eDVQdHRyTUdPMWNvZWpmWWRvYVIydHo0SzNrZ2I3emRXTU1ReTY3V1ZaZkhWUmpldU5TcGhzSE5PdG14aEtYWElGZ2UtZ0lQSUpVcWhxRDZ5QzJuMlR4c1daZUxBbzJJZ2JCVVFKTVZ2QU9aQko?oc=5",
+      "text": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid  FuPa ⚽️",
+      "date": "Tue, 17 Nov 2026 11:13:23 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html",
       "text": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
@@ -1353,18 +1332,25 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Tor des Monats Oktober - alle Tore",
-      "uri": "https://www.sportschau.de/tor-des-monats/tor-des-monats-oktober-alle-tore,tdm-oktober-2026-100.html",
-      "text": "Cole Campbell, Samantha Steuerwald, Lars Kehl, Philipp Harant und Joe Scally sind für das Tor des Monats Oktober nominiert. Alle Tore im Video.",
-      "date": "Fri, 06 Nov 2026 15:00:28 +0100",
-      "category": "Sport"
+      "title": "Remscheider SilberRock - Stadt Remscheid",
+      "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDBQZ3JtNTNfaTh0Q0NZZ2RxVWJuNEZBSXpZUmthOXZDYTluQVpUM0xmbk1LU0RlaERIaXQwdmR3NnNzUDZnNmwxNThlMldKQVVVS2ZxLXQ1M0M3QmU4cDJCb0l2TlhMaDVhQ3BoZF9rZ09vWXhCd2psb3NCWnFuQmp2ZDUwVmhZTnR1aU1n?oc=5",
+      "text": "Remscheider SilberRock  Stadt Remscheid",
+      "date": "Tue, 10 Nov 2026 11:55:00 GMT",
+      "category": "Remscheid"
     },
     {
-      "title": "Tor des Monats - hier abstimmen!",
-      "uri": "https://www1.sportschau.de/tdm/tdm",
-      "text": "Und? Haben Sie sich entschieden? Dann stimmen Sie jetzt hier für Ihr Tor.",
-      "date": "Fri, 06 Nov 2026 15:00:22 +0100",
-      "category": "Sport"
+      "title": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam - Deutscher Judo-Bund",
+      "uri": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5iMmFHbVV6ZVIza1V5VVFFYlhBQVdWZWZGV0cwZnFwWmVIakoxcDFYRGJaYkNxR3pxSE81dnBrcGFfeTVsbFFPQU5qWEZXNTdwUmxNS3F5UFhSTU5RdllPcE4xR2JuREFheWhFS0toNjEtNU5kZ25Ddy1aczF2M3dxc2ZwTWtlRXV2UjhnTm94QkZxT3B0Rm1Bbk1nSDY0?oc=5",
+      "text": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam  Deutscher Judo-Bund",
+      "date": "Thu, 05 Nov 2026 19:51:55 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Studie sieht Solingen und Remscheid wenig zukunftsfähig - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEhrRUFkNV9SMV9KZmRpTDl2R3VhOFA4RWxfMlQ0UnNTeE9MSm5zZlpMNFNtMDVmTVh4Z2lDUVlVakwtUXVsUi1xYU9kRk05UF9YODJPb3NVTk9uakJuanlER2VCcHZuLVZaLXZBR1UwNXR1NW83azdzQVh6a0ZpSDN4MmZuaVRnaWt2dF9GbHAxM21ZS3VUaTRaUE0?oc=5",
+      "text": "Studie sieht Solingen und Remscheid wenig zukunftsfähig  Radio RSG",
+      "date": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
@@ -1379,6 +1365,13 @@
       "text": "Bekannt wurde die RNA-Medizin vor allem während der Corona-Pandemie - durch die mRNA-Impfstoffe. Künftig könnten solche Therapien auch bei Herz-Kreislauf-Erkrankungen, seltenen Krankheiten oder Krebs zum Einsatz kommen.",
       "date": "Wed, 04 Nov 2026 14:21:52 +0100",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "\"Heizungshammer\" oder Vorteil? Wärmepumpe im 122 Jahre alten Haus - WDR",
+      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREpYWDlXTjZ3U0pRN2R1SHplVV9ZX0VtUzNCaWVjTWdNd0k1V01KWllreFRVcHplZWh3TkJQX3pUS1UtVUFibUd1R0JDbERPdmtLS0UtRElxOUhXU18zeW5UWlhhdUhMTEpOSmQ4T0FoeFhYSWhIQ3k2aWVJOXBjOFkxX2M2bjdlb1U2aE5TbFdyVl8z?oc=5",
+      "text": "\"Heizungshammer\" oder Vorteil? Wärmepumpe im 122 Jahre alten Haus  WDR",
+      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
@@ -1407,6 +1400,13 @@
       "text": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai. Sie werden für Entdeckungen ausgezeichnet, die etwa bei der Herstellung von Arzneimitteln entscheidend seien.",
       "date": "Wed, 07 Oct 2026 13:52:14 +0200",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Hansa Rostock gegen TSV Havelse",
+      "uri": "https://www.sportschau.de/regional/ndr/hansa-rostock-gegen-tsv-havelse,audiostream-hansa-rostock-tsv-havelse-106.html",
+      "text": "Am 15. Spieltag empfängt Hansa Rostock den TSV Havelse. NDR 1 Radio MV überträgt das Spiel in einer Audio-Vollreportage.",
+      "date": "Wed, 07 Oct 2026 12:49:19 +0200",
+      "category": "Sport"
     },
     {
       "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
