@@ -126,7 +126,27 @@ try {
                 }
             };
 
-            speechSynthesis.speak(voice);
+            const oscillator = ctx.createOscillator();
+const gain = ctx.createGain();
+
+
+
+
+oscillator.type = "sine";
+oscillator.frequency.value = 440;
+gain.gain.value = 0.05;
+
+
+
+
+oscillator.connect(gain);
+gain.connect(ctx.destination);
+
+
+
+
+oscillator.start();
+oscillator.stop(ctx.currentTime + 8);
 
         } catch (_) {}
     }
