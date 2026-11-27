@@ -199,6 +199,100 @@ recordButton.onclick = () => {
         alert(e.message);
     }
 };
+const transcribeButton = document.createElement("button");
+transcribeButton.textContent = "Aufnahme in Text umwandeln";
+
+
+
+
+const transcript = document.createElement("p");
+document.body.append(transcribeButton, transcript);
+
+
+
+
+transcribeButton.onclick = async () => {
+    if (!audioURL) {
+        transcript.textContent = "Bitte zuerst eine Aufnahme erstellen.";
+        return;
+    }
+
+
+
+
+    const code = localStorage.getItem("jarvis_access_code") ||
+        prompt("Bitte JARVIS-Zugangscode eingeben.");
+
+
+
+
+    if (!code) return;
+
+
+
+
+    transcribeButton.disabled = true;
+    transcript.textContent = "Spracherkennung läuft...";
+
+
+
+
+    try {
+        const blob = await (await fetch(audioURL)).blob();
+
+
+
+
+        const extension = blob.type.includes("webm") ? "webm" :
+            blob.type.includes("ogg") ? "ogg" :
+            blob.type.includes("wav") ? "wav" : "m4a";
+
+
+
+
+        const form = new FormData();
+        form.append("file", blob, "aufnahme." + extension);
+
+
+
+
+        const result = await fetch(
+            "https://jarvis-api.filippoantonioallatta.workers.dev/transcribe",
+            {
+                method: "POST",
+                headers: {
+                    "X-Jarvis-Code": code.trim()
+                },
+                body: form
+            }
+        );
+
+
+
+
+        const data = await result.json();
+
+
+
+
+        if (!result.ok) {
+            throw new Error("HTTP " + result.status + ": " + (data.error || "Unbekannter Fehler"));
+        }
+
+
+
+
+        transcript.textContent = data.text || "Keine Sprache erkannt.";
+
+
+
+
+    } catch (error) {
+        transcript.textContent = "Fehler: " + error.message;
+    } finally {
+        transcribeButton.disabled = false;
+    }
+};
 </script>
 
 </body>
