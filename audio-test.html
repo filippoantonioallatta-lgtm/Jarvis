@@ -320,6 +320,7 @@ function endPauseTest() {
 
 
 pauseTest.onclick = async () => {
+    const player = ttsPlayer;
     if (pauseTimer !== null) {
         endPauseTest();
         player.pause();
@@ -329,7 +330,7 @@ pauseTest.onclick = async () => {
 
 
 
-    if (!audioURL || !stream?.getAudioTracks().some(t => t.readyState === "live")) {
+    if (!ttsURL || !stream?.getAudioTracks().some(t => t.readyState === "live")) {
         pauseInfo.textContent = "Mikrofon und Aufnahme erforderlich.";
         return;
     }
