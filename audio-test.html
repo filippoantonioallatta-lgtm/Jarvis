@@ -693,7 +693,71 @@ if (!answer) {
 
 
 
+const voiceResult = await fetch(
+    "https://jarvis-api.filippoantonioallatta.workers.dev/tts",
+    {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            "X-Jarvis-Code": code.trim()
+        },
+        body: JSON.stringify({
+            text: answer.slice(0, 2000)
+        }),
+        signal: AbortSignal.timeout(45000)
+    }
+);
+
+
+
+
+const voiceData = await voiceResult.json();
+
+
+
+
+if (!voiceResult.ok || !voiceData.audio) {
+    throw new Error(voiceData.error || "Keine Sprachausgabe erhalten.");
+}
+
+
+
+
+const bytes = Uint8Array.from(
+    atob(voiceData.audio), c => c.charCodeAt(0)
+);
+
+
+
+
+const blob = new Blob([bytes], {
+    type: voiceData.mimeType || "audio/wav"
+});
+
+
+
+
 finish("Du: " + text + "\n\nJARVIS: " + answer);
+
+
+
+
+if (ttsURL) URL.revokeObjectURL(ttsURL);
+
+
+
+
+ttsURL = URL.createObjectURL(blob);
+ttsPlayer.src = ttsURL;
+
+
+
+
+try {
+    await ttsPlayer.play();
+} catch (_) {
+    interruptInfo.textContent += "\nBitte Wiedergabe antippen.";
+}
                 return;
             }
 
