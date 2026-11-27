@@ -563,7 +563,8 @@ try {
     }
 
     async function processCommand(text) {
-    const memoryMatch = text.trim().match(
+    text = String(text ?? command.value ?? "").trim();
+const memoryMatch = text.match(
         /^(?:jarvis[,\s]+)?merk(?:e)? dir[,:\s]+(.+)$/i
     );
 
