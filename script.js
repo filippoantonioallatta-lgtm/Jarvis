@@ -7,6 +7,26 @@
     const mic = document.getElementById("mic");
     const send = document.getElementById("send");
 const API_SERVER = "https://jarvis-api.filippoantonioallatta.workers.dev";
+function getJarvisMemory() {
+    return JSON.parse(
+        localStorage.getItem("jarvis_memory") || "[]"
+    );
+}
+
+function addJarvisMemory(text) {
+    const memory = getJarvisMemory();
+    memory.push(text);
+
+    localStorage.setItem(
+        "jarvis_memory",
+        JSON.stringify(memory)
+    );
+}
+
+function clearJarvisMemory() {
+    localStorage.removeItem("jarvis_memory");
+}
+
 let jarvisCode = localStorage.getItem("jarvis_access_code") || "";
 
 function getJarvisCode() {
@@ -429,6 +449,8 @@ try {
 
                                 content:
                                     "Du bist JARVIS, " +
+"Berücksichtige folgende gespeicherte Nutzerinformationen: " +
+JSON.stringify(getJarvisMemory()) + ". " +
                                     "ein intelligenter persönlicher Assistent. " +
                                     "Antworte auf Deutsch, " +
                                     "professionell und präzise. Verwende keine Markdown-Tabellen, Sternchen oder Formatierungszeichen. Antworte in natürlichen, gut vorlesbaren Absätzen. " +
@@ -541,6 +563,38 @@ try {
     }
 
     async function processCommand(text) {
+    const memoryMatch = text.trim().match(
+        /^(?:jarvis[,\s]+)?merk(?:e)? dir[,:\s]+(.+)$/i
+    );
+
+
+
+
+    if (memoryMatch) {
+        addJarvisMemory(memoryMatch[1]);
+        speak("Ich habe mir das dauerhaft gemerkt.");
+        return;
+    }
+
+
+
+
+    if (/^(?:jarvis[,\s]+)?was weißt du über mich[?]?$/i.test(text.trim())) {
+        const memory = getJarvisMemory();
+        speak(memory.length
+            ? "Ich habe mir Folgendes gemerkt: " + memory.join(". ")
+            : "Mein Langzeitgedächtnis ist noch leer.");
+        return;
+    }
+
+
+
+
+    if (/^(?:jarvis[,\s]+)?lösche dein gedächtnis[.!]?$/i.test(text.trim())) {
+        clearJarvisMemory();
+        speak("Mein Langzeitgedächtnis wurde gelöscht.");
+        return;
+    }(text) {
 
         text = text.trim();
 
