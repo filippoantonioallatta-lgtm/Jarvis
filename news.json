@@ -1,6 +1,83 @@
 {
-  "updated": "2026-11-27T14:28:53.329203+00:00",
+  "updated": "2026-11-27T15:44:30.997561+00:00",
   "articles": [
+    {
+      "title": "Cyber Monday und Black Friday für macOS: Welche guten Apps günstiger sind",
+      "uri": "https://www.heise.de/news/Cyber-Monday-und-Black-Friday-fuer-macOS-Welche-guten-Apps-guenstiger-sind-11538325.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Einmal mehr haben bekannte Anbieter von Mac-Anwendungen zu den Shopping-Feierta die Tarife reduziert. Ein Überblick, was sich aktuell lohnt.",
+      "date": "2026-11-27T16:31:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Skispringen der Männer - Qualifikation",
+      "uri": "https://www.sportschau.de/wintersport/skispringen/skispringen-der-maenner-qualifikation,livestream-wintersport-skispringen-quali-100.html",
+      "text": "Die Qualifikation für das Skispringen in Ruka. Es kommentiert Tom Bartels.",
+      "date": "Fri, 27 Nov 2026 16:28:20 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Hacker brechen angeblich in Cloud-Plattform der US Air Force ein",
+      "uri": "https://www.heise.de/news/Hacker-brechen-angeblich-in-Cloud-Plattform-der-US-Air-Force-ein-11541212.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Laut Reuters sollen Angreifer in die Cloud-Plattform Cloud One der US Air Force eingedrungen sein. Updates sind blockiert, der Umfang des Einbruchs ist unklar.",
+      "date": "2026-11-27T16:26:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Helge Schneider sagt Tschüss - vielleicht",
+      "uri": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
+      "text": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem.",
+      "date": "Fri, 27 Nov 2026 16:23:02 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
+      "uri": "https://www.sportschau.de/regional/br/br-naechster-rueckschlag-fuer-die-bayern-musiala-faellt-verletzt-aus-102.html",
+      "text": "Jamal Musiala hat einen weiteren Rückschlag kassiert. Der deutsche Nationalspieler hat sich einen Muskelfaserriss zugezogen und wird dem FC Bayern München somit im Auswärtsspiel beim Hamburger SV am Samstag fehlen.",
+      "date": "Fri, 27 Nov 2026 16:10:44 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Schiffsunglück vor Ibiza: Gefahr für Umwelt gering",
+      "uri": "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
+      "text": "Der Öltanker \"Med Emre\" treibt kieloben im Mittelmeer vor Ibiza. Eine größere Gefahr für die Umwelt geht von ihm nach ersten Erkenntnissen aber wohl nicht aus. Inzwischen wird die Abschleppung des Schiffs geplant.",
+      "date": "Fri, 27 Nov 2026 16:03:21 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Europas IT-Ausgaben: Server werden teurer, mehr Geld fließt in KI-Agenten",
+      "uri": "https://www.heise.de/news/Prognose-Europas-IT-Ausgaben-knacken-Marke-von-1-5-Billionen-US-Dollar-11541182.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Laut jüngster Prognose von Gartner steigen Europas IT-Ausgaben 2027 um knapp zehn Prozent. Das Geschäft mit RZ-Equipment bleibt wachstumsstärkstes Segment.",
+      "date": "2026-11-27T16:02:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "VZMore IX9 Max im Test: Mini-PC mit starker Intel-Arc-Grafik, aber Lüfterbrummen",
+      "uri": "https://www.heise.de/bestenlisten/testbericht/vzmore-ix9-max-im-test-mini-pc-mit-starker-intel-arc-grafik-aber-luefterbrummen/tbyzkf4?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Der Mini-PC VZMore IX9 Max punktet mit zweimal USB4, Wifi 7 und zwei 2,5-Gigabit-LAN-Ports. Auch preislich ist er überraschend gut aufgestellt.",
+      "date": "2026-11-27T16:00:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Keisinger gewinnt Skeleton-Weltcup in Altenberg",
+      "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
+      "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
+      "date": "Fri, 27 Nov 2026 15:59:05 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Livestream: Wintersport mit der Nordischen Kombi und Biathlon",
+      "uri": "https://www.sportschau.de/wintersport/wintersport-im-ersten,livestream-wintersport-im-ersten-114.html",
+      "text": "Der Wintersport im Ersten mit Biathlon - die Frauen steigen mit dem Einzel über 15 Kilometer in die Saison ein.",
+      "date": "Fri, 27 Nov 2026 15:56:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "AI-Supply-Chain: Günstige Inferenzangebote greifen Secrets ab",
+      "uri": "https://www.heise.de/news/AI-Supply-Chain-Guenstige-Inferenzangebote-greifen-Secrets-ab-11540914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Über KI-Router-Dienste, die an kostengünstige Inferenz-Engines weiterleiten, wurden Promptinhalte abgefischt. Modellanbieter MiniMax ignorierte ZDR-Flags.",
+      "date": "2026-11-27T15:19:00+01:00",
+      "category": "Technik"
+    },
     {
       "title": "Zentralrat der Juden reagiert scharf auf Kritik von AfD-Chefin Weidel",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
@@ -30,18 +107,11 @@
       "category": "Allgemein"
     },
     {
-      "title": "Silizium-Wafer werden knapp",
+      "title": "Wafer-Mangel droht: Neue Werke „wirtschaftlich nicht tragfähig“",
       "uri": "https://www.heise.de/news/Silizium-Wafer-werden-knapp-11541071.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Die weltweit größten Hersteller von Wafer-Rohlingen schlagen Alarm. Ab 2027 könnten sie die Nachfrage von Chipherstellern nicht vollständig bedienen.",
       "date": "2026-11-27T15:10:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Livestream: Wintersport im Ersten",
-      "uri": "https://www.sportschau.de/wintersport/wintersport-im-ersten,livestream-wintersport-im-ersten-114.html",
-      "text": "Der Wintersport im Ersten unter anderem mit Skeleton, Biathlon und der Nordischen Kombination.",
-      "date": "Fri, 27 Nov 2026 15:03:54 +0100",
-      "category": "Sport"
     },
     {
       "title": "Das plant Arbeitsminister Schweitzer für die Rente",
@@ -49,13 +119,6 @@
       "text": "Seit Monaten ringt die Koalition um einen Kompromiss bei der Rente. Arbeitsminister Schweitzer hat nun einen ersten Entwurf vorgelegt. Einer der Punkte: Die \"Rente mit 63\" soll im Kern bestehen bleiben. Von Jan-Peter Bartels und Tim Aßmann.",
       "date": "Fri, 27 Nov 2026 15:00:01 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "heise+ | Relevanz durch Größe: Wie Fairphone Lieferketten nachhaltiger machen will",
-      "uri": "https://www.heise.de/hintergrund/Relevanz-durch-Groesse-Wie-Fairphone-Lieferketten-nachhaltiger-machen-will-11507874.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Fairphone expandiert in die USA. Im Interview spricht der Unternehmenschef Raymond van Eck über Right-to-Repair, ethische Lieferketten und GrapheneOS.",
-      "date": "2026-11-27T15:00:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "Pochettino jubelt am \"Tag für die Ewigkeit\"",
@@ -77,13 +140,6 @@
       "text": "Der Bundestag hat den Haushalt für 2027 beschlossen. Dabei gibt es deutliche Verschiebungen: mehr Geld für Verteidigung und Soziales, weniger für Gesundheit und Entwicklung. Wer profitiert, wer verliert?",
       "date": "Fri, 27 Nov 2026 14:55:11 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Deutscher Doppelsieg im Monobob - Durchwachsener Langlauf",
-      "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
-      "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
-      "date": "Fri, 27 Nov 2026 14:54:48 +0100",
-      "category": "Sport"
     },
     {
       "title": "Chinesische E-Auto-Produktion in der EU: Geely plant mit neuer Plattform",
@@ -114,17 +170,10 @@
       "category": "Allgemein"
     },
     {
-      "title": "Was die Neubesetzung der EZB-Spitze bedeutet",
+      "title": "Kommentar: Hernández de Cos - ein EZB-Chef im Sinne Frankreichs",
       "uri": "https://www.tagesschau.de/wirtschaft/finanzen/neuer-ezb-chef-de-cos-geldpolitik-100.html",
-      "text": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos gilt als pragmatische Taube. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch.",
+      "text": "Der neue EZB-Rat steht fest - eingefädelt durch Emmanuel Macron. Der künftige EZB-Präsident Pablo Hernández de Cos steht eher für eine lockere Geldpolitik. In Zeiten hoher Inflation sind Konflikte programmiert. Von Klaus-Rainer Jackisch.",
       "date": "Fri, 27 Nov 2026 14:20:03 +0100",
-      "category": "Allgemein"
-    },
-    {
-      "title": "Helge Schneider sagt Tschüss - vielleicht",
-      "uri": "https://www.tagesschau.de/kultur/helge-schneider-abschiedstournee-100.html",
-      "text": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem.",
-      "date": "Fri, 27 Nov 2026 14:18:57 +0100",
       "category": "Allgemein"
     },
     {
@@ -135,25 +184,11 @@
       "category": "Allgemein"
     },
     {
-      "title": "Malinin bricht Weltrekord im Kurzprogramm",
-      "uri": "https://www.sportschau.de/wintersport/eiskunstlauf/malinin-bricht-weltrekord-im-kurzprogramm,malinin-weltrekord-100.html",
-      "text": "Eiskunstlauf-Superstar Ilia Malinin hat beim Grand Prix in Tokio den Weltrekord im Kurzprogramm gebrochen.",
-      "date": "Fri, 27 Nov 2026 14:02:28 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "heise-Angebot: iX-Workshop: Windows Server absichern und härten",
       "uri": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11532303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
       "date": "2026-11-27T14:00:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Nach Dopingsperre: Victoria Carl ist zurück",
-      "uri": "https://www.sportschau.de/wintersport/langlauf/victoria-carl-fuer-18-monate-wegen-dopings-gesperrt,victoria-carl-feiert-sieg-nach-dopingsperre-100.html",
-      "text": "Nach 18 Monaten Dopingsperre ist Victoria Carl zurück. Beim FIS-Rennen in Norwegen gewinnt sie und hofft auf die Rückkehr in den Weltcup.",
-      "date": "Fri, 27 Nov 2026 13:51:01 +0100",
-      "category": "Sport"
     },
     {
       "title": "Diverse Schwachstellen in Apache Tomcat",
@@ -173,13 +208,6 @@
       "title": "Heißluftfritteusen schon ab 43 Euro: Die besten Airfryer-Deals zum Black Friday",
       "uri": "https://www.heise.de/bestenlisten/deals/heissluftfritteusen-schon-ab-43-euro-die-besten-airfryer-deals-zum-black-friday/y08jcex?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Ob kompakte Airfryer oder Modelle mit zwei Garkörben: Wir zeigen, welche Heißluftfritteusen in der Black Week wirklich günstiger sind.",
-      "date": "2026-11-27T13:30:00+01:00",
-      "category": "Technik"
-    },
-    {
-      "title": "heise+ | Vorsicht, Kunde: Check24 verkauft Mietwagenschutz als Versicherung",
-      "uri": "https://www.heise.de/ratgeber/Vorsicht-Kunde-Check24-verkauft-Mietwagenschutz-als-Versicherung-11417077.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Check24 hakte den Schutz ohne Selbstbeteiligung unter „Versicherungsschutz“ ab. Nach einem Unfall wartete ein Kunde zehn Monate auf sein Geld.",
       "date": "2026-11-27T13:30:00+01:00",
       "category": "Technik"
     },
@@ -210,6 +238,13 @@
       "text": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
       "date": "Fri, 27 Nov 2026 13:09:57 +0100",
       "category": "Allgemein"
+    },
+    {
+      "title": "Jetzt live - Einzel der Frauen in Kontiolahti",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1212/kontiolahti/ma11978507/liveticker-list",
+      "text": "Weltcup-Auftakt für die Biathletinnen: Für Janina Hettich-Walz und Co. startet die Saison mit einem Einzel-Rennen in Kontiolahti.",
+      "date": "Fri, 27 Nov 2026 13:03:26 +0100",
+      "category": "Sport"
     },
     {
       "title": "DFB warnt vor wirtschaftlichen Gefahren für die 3. Liga",
@@ -282,13 +317,6 @@
       "category": "Technik"
     },
     {
-      "title": "heise+ | Vahiny: Selbstheilende GUI-Tests für die Softwareentwicklung",
-      "uri": "https://www.heise.de/hintergrund/Vahiny-Selbstheilende-GUI-Tests-fuer-die-Softwareentwicklung-11536376.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Automatisierte Tests sparen Zeit, bis kleine Änderungen an der Oberfläche sie stören. Vahiny zeigt, wie sich solche Tests während der Ausführung stabilisieren.",
-      "date": "2026-11-27T12:00:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "heise-Angebot: IT-Psychologie im Change-Management – wie Technologie Verhalten prägt",
       "uri": "https://www.heise.de/news/IT-Psychologie-im-Change-Management-wie-Technologie-Verhalten-praegt-11530860.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "KI-Einführung, Security und Technostress bringen klassisches Change-Management an Grenzen. Ab dem 11.02.27 lernen Teilnehmende im Classroom, damit umzugehen.",
@@ -343,6 +371,13 @@
       "text": "Aktuell ist die Erde mehr als 2 Grad Celsius wärmer als in der zweiten Hälfte des 19. Jahrhunderts. Das war jetzt erstmals sieben Tage am Stück der Fall.",
       "date": "2026-11-27T11:33:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost - tixio - Nachrichten",
+      "uri": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR094UDF1SG15NklyazExNjJaeW42QVFsTHp2T0JmTmVkWjA5dF92c09ZNUp6eTA5NHp2T1VYUFZURmFlTVNUaUoyVnpoNW1mUjFWR1NXTGF4dG9YYmdXUVpwUk81emZtbmpKb2NqMUF4TGtlUHQ0YnNQOEJhSjQyX2MyYnFZc1kxckxMTjMwN2RUMjhTRWxPSTBHSGtlalV6b2hlT1lXUGNxTE5FdFJHcU9EZVVaeDFDYnhPMEo5RUxXX0k?oc=5",
+      "text": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost  tixio - Nachrichten",
+      "date": "Fri, 27 Nov 2026 10:31:22 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "SAP bleibt Vertragspartner: Databricks-Funktionen wandern in Business Data Cloud",
@@ -422,25 +457,11 @@
       "category": "Allgemein"
     },
     {
-      "title": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost - tixio - Nachrichten",
-      "uri": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR094UDF1SG15NklyazExNjJaeW42QVFsTHp2T0JmTmVkWjA5dF92c09ZNUp6eTA5NHp2T1VYUFZURmFlTVNUaUoyVnpoNW1mUjFWR1NXTGF4dG9YYmdXUVpwUk81emZtbmpKb2NqMUF4TGtlUHQ0YnNQOEJhSjQyX2MyYnFZc1kxckxMTjMwN2RUMjhTRWxPSTBHSGtlalV6b2hlT1lXUGNxTE5FdFJHcU9EZVVaeDFDYnhPMEo5RUxXX0k?oc=5",
-      "text": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost  tixio - Nachrichten",
-      "date": "Fri, 27 Nov 2026 09:30:55 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Handball-CL: Gidsel wirft Füchse Berlin zum Sieg gegen Melsungen",
       "uri": "https://www.sportschau.de/regional/rbb/rbb-handball-cl-gidsel-wirft-fuechse-berlin-zum-sieg-gegen-melsungen-100.html",
       "text": "Die Füchse Berlin haben im Kampf um das Viertelfinale der Handball-Champions-League einen wichtigen Sieg gefeiert und das Duell mit Melsungen für sich entschieden.",
       "date": "Fri, 27 Nov 2026 10:30:15 +0100",
       "category": "Sport"
-    },
-    {
-      "title": "heise+ | FIDO2-Sicherheitsschlüssel: So funktioniert das Login ohne Cloudbindung",
-      "uri": "https://www.heise.de/ratgeber/FIDO2-Sicherheitsschluessel-So-funktioniert-das-Login-ohne-Cloudbindung-11489832.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
-      "text": "Apple, Google und Passwortmanager verwalten Passkeys bequem, aber anbietergebunden. Wir zeigen, wie Sie mit eigenen USB-Token mehr Unabhängigkeit gewinnen.",
-      "date": "2026-11-27T10:30:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "Post zum Freitag: GTA 6 – Wie KI die Spielregeln der Gaming-Branche verändert",
@@ -455,13 +476,6 @@
       "text": "Update Wirtschaft vom 27.11.2026",
       "date": "Fri, 27 Nov 2026 09:54:06 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Microsoft schickt Telnet und MTP über Bluetooth aufs Abstellgleis",
-      "uri": "https://www.heise.de/news/Microsoft-schickt-Telnet-und-MTP-ueber-Bluetooth-aufs-Abstellgleis-11540069.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Microsoft erklärt Windows-Funktionen für veraltet: Media Transfer Protocol (MTP) über Bluetooth und Telnet müssen dran glauben.",
-      "date": "2026-11-27T09:54:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "Parteitag in Dresden: Wie hält es das BSW mit der AfD?",
@@ -604,13 +618,6 @@
       "category": "Sport"
     },
     {
-      "title": "U21 mit Losglück - Duell mit den Niederlanden",
-      "uri": "https://www.sportschau.de/fussball/u21/u21-mit-losglueck-duell-mit-niederlanden,auslosung-u21-em-albanien-serbien-100.html",
-      "text": "Die deutsche U21-Nationalmannschaft geht den Topteams bei der EM im Sommer 2027 in Gruppe D zunächst aus dem Weg und trifft auf Norwegen, Belgien sowie die Niederlande.",
-      "date": "Thu, 26 Nov 2026 20:38:45 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wirtschaft vor acht vom 26.11.2026",
       "uri": "https://www.tagesschau.de/video/video-1690646.html",
       "text": "Wirtschaft vor acht vom 26.11.2026",
@@ -622,7 +629,7 @@
       "uri": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
       "text": "Angesichts der globalen Bedrohungslage gewinnt der Weltraum beim Thema Verteidigung an Bedeutung. Eine neue Technologie aus Deutschland soll den schnellen Transport von Waffen aus dem Orbit auf die Erde ermöglichen. Von U. Gradwohl und L.Wager.",
       "date": "Thu, 26 Nov 2026 20:15:35 +0100",
-      "category": "Allgemein"
+      "category": "Wissenschaft"
     },
     {
       "title": "Davis-Cup: Nach dem Aus ist vor dem Umbruch",
@@ -660,10 +667,10 @@
       "category": "Wirtschaft"
     },
     {
-      "title": "Ist Recht im Sport eine Frage des Geldes?",
-      "uri": "https://www.sportschau.de/investigativ/ist-recht-im-sport-eine-frage-des-geldes,fall-anna-bader-100.html",
-      "text": "Der Fall Anna Bader zeigt, wie schwer es Anti-Doping-Organisationen fällt, bei Athleten positive Dopingproben von Kontaminationen zu unterscheiden.",
-      "date": "Thu, 26 Nov 2026 16:38:57 +0100",
+      "title": "Bundesliga: Tabellenführung wird für Borussia Dortmund zur Kopfsache",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-tabellenfuehrung-wird-fuer-den-bvb-zur-kopfsache-100.html",
+      "text": "Die Bayern-Krise ist die Chance für Borussia Dortmund. Doch die Tabellenführung wird für den BVB zur mentalen Herausforderung.",
+      "date": "Thu, 26 Nov 2026 16:53:16 +0100",
       "category": "Sport"
     },
     {
@@ -709,7 +716,7 @@
       "category": "Sport"
     },
     {
-      "title": "Agit Kabayel kämpft vor 48.000 um Anerkennung",
+      "title": "Agit Kabayel kämpft vor 48.000 Zuschauern um Anerkennung",
       "uri": "https://www.sportschau.de/regional/wdr/wdr-agit-kabayel-kaempft-vor-48-000-fans-um-anerkennung-100.html",
       "text": "Vor dem Schwergewichts-Kampf am Samstag spricht Kabayel über fehlende Anerkennung und seine Rolle als Repräsentant Deutschlands.",
       "date": "Thu, 26 Nov 2026 14:14:00 +0100",
@@ -1115,13 +1122,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft - RP Online",
-      "uri": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkRpOEdjSGY2NEl6TmtIeTFnX1diWlR3R2JITzJhakFYN3VFNkQ4UTgzSjB0dS1walJDS2N5NjBpcVQ0UlNlUDZZOGwtcUljX1ZuTk9ZaVJHWXc2ZWZ0NFZDdl9CZFJvREdwU0ZzVWdkLWhveGthRGEyazJUakVicDBDYkE2bG5TVWI2UFprVUtUV2ZzcGFKa0JFT0xKbHpJTEQxbF9Ic2swSkd5OEZvSWNDOA?oc=5",
-      "text": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft  RP Online",
-      "date": "Tue, 24 Nov 2026 16:59:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Bilanz des Spendenrats: Deutsche spenden wieder mehr",
       "uri": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
       "text": "Die Deutschen spenden wieder mehr, doch die Zahl der Spender geht zurück. Das geht aus der Bilanz des Spendenrats hervor. Besonders eine Altersgruppe gibt auffällig viel - und eine andere auffällig wenig.",
@@ -1227,6 +1227,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "FW-RS: Balkonbrand in der Rosenhügeler Straße - eine Person aus angrenzender Wohnung gerettet - Presseportal",
+      "uri": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GX3ZWSjlQYWxSVTRkT3FPVFF4NDRTVGd3WTZ1bFFNb3NxNzBkaTRUOGJtOTFUZHI4cnFhZE14VDVvZTBPU0hIQ2E3ZXBwWFE3ZThWMk5BaFV4cHZYa1oxS0VhM0d3UQ?oc=5",
+      "text": "FW-RS: Balkonbrand in der Rosenhügeler Straße - eine Person aus angrenzender Wohnung gerettet  Presseportal",
+      "date": "Mon, 23 Nov 2026 09:49:50 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Verbraucherschützer warnen zur Black Week vor Betrugsmaschen",
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
       "text": "Rabatte von 50, 60 oder sogar 70 Prozent: Rund um den Black Friday lockt der Handel mit vermeintlichen Schnäppchen. Die Branche erwartet Rekordumsätze. Doch Verbraucherschützer warnen auch vor Preisfallen und Betrügern. Von Jens Eberl.",
@@ -1262,10 +1269,10 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Sport am Wochenende - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyVmZ2VmZWSTI1S0lfT3dKWTlRMFllY2lERXVQU0RkREt5clFINDZTdEdwTTJlVzJ2WW1oRDZlUWhZVWd0Y3NsUmMwVkxBbkY0YWpaTl9mVS02WDZQQWFzY2p6Wm9lMDY0UFU4?oc=5",
-      "text": "Sport am Wochenende  Radio RSG",
-      "date": "Fri, 20 Nov 2026 16:27:00 GMT",
+      "title": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen - RGA",
+      "uri": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWx1R0hPWVBHbTdlVUdfMlYxUDZRNklqWnpIVElwTmVFd2JxRG1CLUlrZUtnQm1TUVBxUGxFUHF1QVNWMGNMaGJxdVVqeFREN1VKbXBlZEJfM3hZb2pWSFFyWUhnUHlOWHF6M2pvWTF4SEdPZHVKcnFvYjlzU1VMYWFySTBFc3laTzdaWmxCYVJPODlGaTlIZlJ3ZUNxNWJVenBzcmJZLV9oeWhjbnNSeU9RcDRnbWN5VXZzZkVwbWUwZw?oc=5",
+      "text": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen  RGA",
+      "date": "Sat, 21 Nov 2026 11:47:12 GMT",
       "category": "Remscheid"
     },
     {
