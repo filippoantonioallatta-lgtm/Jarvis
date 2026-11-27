@@ -740,7 +740,127 @@ localStorage.removeItem("jarvis_history");
         }
     });
 
-    mic.addEventListener("click", () => {
+        let conversationMode = false;
+    let listenTimer = null;
+
+
+
+
+    function scheduleListening() {
+        clearTimeout(listenTimer);
+        if (conversationMode) {
+            listenTimer = setTimeout(startListening, 500);
+        }
+    }
+
+
+
+
+    function stopConversation() {
+        conversationMode = false;
+        clearTimeout(listenTimer);
+        mic.setAttribute("aria-pressed", "false");
+        if (recognition) recognition.abort();
+    }
+
+
+
+
+    function startListening() {
+        if (!conversationMode || recognition) return;
+        if (busy || speechSynthesis.speaking || speechSynthesis.pending) {
+            scheduleListening();
+            return;
+        }
+
+
+
+
+        const Recognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+        if (!Recognition) {
+            stopConversation();
+            speak("Spracherkennung nicht verfügbar.");
+            return;
+        }
+
+
+
+
+        try {
+            const session = new Recognition();
+            recognition = session;
+            session.lang = "de-DE";
+            session.continuous = false;
+            session.interimResults = false;
+
+
+
+
+            session.onstart = () => {
+                status.textContent = "SYSTEM LISTENING";
+            };
+
+
+
+
+            session.onresult = async event => {
+                if (!conversationMode) return;
+                const text = event.results[0][0].transcript;
+                try {
+                    await processCommand(text);
+                } catch (error) {
+                    speak("Fehler: " + error.message);
+                }
+            };
+
+
+
+
+            session.onerror = event => {
+                if (!conversationMode || event.error === "no-speech") return;
+                stopConversation();
+                status.textContent = "MICROPHONE ERROR";
+                response.textContent = "Mikrofonfehler: " + event.error;
+            };
+
+
+
+
+            session.onend = () => {
+                if (recognition !== session) return;
+                recognition = null;
+                if (conversationMode) scheduleListening();
+                if (!busy && !speechSynthesis.speaking && !speechSynthesis.pending && conversationMode) {
+                    status.textContent = "SYSTEM ONLINE";
+                }
+            };
+
+
+
+
+            session.start();
+        } catch (error) {
+            recognition = null;
+            stopConversation();
+            speak("Mikrofonfehler: " + error.message);
+        }
+    }
+
+
+
+
+    mic.addEventListener("click", () => {
+        if (conversationMode) {
+            stopConversation();
+            if (!busy && !speechSynthesis.speaking) {
+                status.textContent = "SYSTEM ONLINE";
+            }
+            return;
+        }
+        conversationMode = true;
+        mic.setAttribute("aria-pressed", "true");
+        startListening();
+    });
 
         if (busy) return;
 
