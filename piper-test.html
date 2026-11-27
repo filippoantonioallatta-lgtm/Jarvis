@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>JARVIS Piper Test</title>
+</head>
+<body>
+
+<h1>JARVIS – Lokale Stimme</h1>
+
+<textarea id="text" rows="5" cols="35">Guten Tag. Ich bin JARVIS. Meine neue Stimme ist einsatzbereit.</textarea>
+
+<p>
+    <button id="generate">Stimme erzeugen</button>
+</p>
+
+<p id="info">Bereit</p>
+
+<audio id="player" controls></audio>
+
+<script type="module">
+
+const button = document.getElementById("generate");
+const info = document.getElementById("info");
+const player = document.getElementById("player");
+
+let tts;
+let audioURL;
+
+button.onclick = async () => {
+    button.disabled = true;
+
+    try {
+        info.textContent = "Sprachbibliothek wird geladen...";
+
+        tts ??= await import("https://cdn.jsdelivr.net/npm/@diffusionstudio/vits-web@1.0.3/dist/vits-web.js");
+
+        info.textContent = "Stimme wird erzeugt...";
+
+        const wav = await tts.predict({
+            text: document.getElementById("text").value.trim(),
+            voiceId: "de_DE-thorsten_emotional-medium"
+        }, p => {
+            if (p.total > 0) {
+                info.textContent = "Modell wird geladen: " +
+                    Math.round(100 * p.loaded / p.total) + "%";
+            }
+        });
+
+        if (audioURL) URL.revokeObjectURL(audioURL);
+
+        audioURL = URL.createObjectURL(wav);
+        player.src = audioURL;
+
+        info.textContent = "Stimme bereit. Druecke auf Wiedergabe.";
+
+    } catch (error) {
+        info.textContent = "Fehler: " + error.message;
+    } finally {
+        button.disabled = false;
+    }
+};
+
+</script>
+</body>
+</html>
