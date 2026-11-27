@@ -293,6 +293,132 @@ transcribeButton.onclick = async () => {
         transcribeButton.disabled = false;
     }
 };
+const pauseTest = document.createElement("button");
+pauseTest.textContent = "Unterbrechung testen";
+
+
+
+
+const pauseInfo = document.createElement("p");
+document.body.append(pauseTest, pauseInfo);
+
+
+
+
+let pauseTimer = null;
+
+
+
+
+function endPauseTest() {
+    clearInterval(pauseTimer);
+    pauseTimer = null;
+    pauseTest.textContent = "Unterbrechung testen";
+}
+
+
+
+
+pauseTest.onclick = async () => {
+    if (pauseTimer !== null) {
+        endPauseTest();
+        player.pause();
+        return;
+    }
+
+
+
+
+    if (!audioURL || !stream?.getAudioTracks().some(t => t.readyState === "live")) {
+        pauseInfo.textContent = "Mikrofon und Aufnahme erforderlich.";
+        return;
+    }
+
+
+
+
+    let paused = false;
+    let loudSince = null;
+    let quietSince = null;
+
+
+
+
+    try {
+        player.currentTime = 0;
+        await player.play();
+    } catch (error) {
+        pauseInfo.textContent = error.message;
+        return;
+    }
+
+
+
+
+    pauseTest.textContent = "Test beenden";
+
+
+
+
+    pauseTimer = setInterval(() => {
+        if (player.ended || !stream.getAudioTracks().some(t => t.readyState === "live")) {
+            endPauseTest();
+            player.pause();
+            return;
+        }
+
+
+
+
+        const now = performance.now();
+        const loud = level.value >= 15;
+
+
+
+
+        if (loud) {
+            quietSince = null;
+
+
+
+
+            if (loudSince === null) loudSince = now;
+
+
+
+
+            if (!paused && !player.paused && now - loudSince >= 150) {
+                player.pause();
+                paused = true;
+                pauseInfo.textContent = "PAUSE – ich höre zu";
+            }
+        } else {
+            loudSince = null;
+
+
+
+
+            if (quietSince === null) quietSince = now;
+
+
+
+
+            if (paused && now - quietSince >= 1200) {
+                paused = false;
+
+
+
+
+                player.play().then(() => {
+                    pauseInfo.textContent = "Wiedergabe läuft weiter";
+                }).catch(error => {
+                    endPauseTest();
+                    pauseInfo.textContent = error.message;
+                });
+            }
+        }
+    }, 50);
+};
 </script>
 
 </body>
