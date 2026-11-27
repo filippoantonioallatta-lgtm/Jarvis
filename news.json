@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T18:07:41.776076+00:00",
+  "updated": "2026-11-27T19:20:03.758881+00:00",
   "articles": [
     {
       "title": "Live hören: Werder Bremen gegen Borussia Mönchengladbach - Bundesliga",
@@ -7,6 +7,27 @@
       "text": "11. Spieltag: Anpfiff des Spiels ist am 27.11.2026 um 20:30 Uhr. Borussia Mönchengladbach spielt in Bremen.",
       "date": "Fri, 27 Nov 2026 20:15:00 +0100",
       "category": "Sport"
+    },
+    {
+      "title": "Top 10: Das beste Heizkörperthermostat im Test – ohne Cloud ab 30 Euro",
+      "uri": "https://www.heise.de/bestenlisten/testsieger/top-10-das-beste-heizkoerperthermostat-im-test-ohne-cloud-ab-30-euro/1e43f3r?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
+      "date": "2026-11-27T20:00:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Als Vincent Kompany die Raute trug",
+      "uri": "https://www.sportschau.de/video/als-vincent-kompany-die-raute-trug,video-vincent-kompany-100.html",
+      "text": "Vincent Kompany wird zum bis dahin teuersten Transfer der Vereinsgeschichte des HSV. Als er 2008 zu Manchester City wechselt, hinterlässt er bei den Rothosen einen bleibenden Eindruck.",
+      "date": "Fri, 27 Nov 2026 19:14:15 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "c't 3003 baut Fernseher mit KI-Agent um: Tizen wird zu „Apple TV“",
+      "uri": "https://www.heise.de/news/c-t-3003-baut-Fernseher-mit-KI-Agent-um-Tizen-wird-zu-Apple-TV-11541121.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Schnell und einfach: Wir haben mit einem KI-Agenten die komplette Bedienoberfläche eines Samsung-TVs umgebaut – und Werbung und Tracker entfernt.",
+      "date": "2026-11-27T19:02:00+01:00",
+      "category": "Technik"
     },
     {
       "title": "Strom und Gas: Deutschland zwischen Energiewende und Preisschocks",
@@ -93,13 +114,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Ab 20 Uhr live - Bergischer HC empfängt Schwergewicht Kiel",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma12190804/bergischer-hc_thw-kiel/liveticker",
-      "text": "In der Handball-Bundesliga ist Kiel beim Bergischen HC zu Gast. Der Rekordmeister zieht die Massen in die Halle, die Partie ist ausverkauft.",
-      "date": "Fri, 27 Nov 2026 17:25:01 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Bundesnetzagentur plant Rumpfnetz für Krisenfälle",
       "uri": "https://www.heise.de/news/Bundesnetzagentur-plant-Rumpfnetz-fuer-Krisenfaelle-11541262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Die Bundesnetzagentur will schrittweise Standorte identifizieren, über die im Krisen- und Katastrophenfall die Notfallkommunikation gelingen kann.",
@@ -142,14 +156,14 @@
       "category": "Sport"
     },
     {
-      "title": "Jetzt live - Schlusslicht Havelse an der Ostsee zu Gast",
+      "title": "Jetzt live - Hansa Rostock führt gegen Havelse",
       "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242635/fc-hansa-rostock_tsv-havelse/liveticker",
       "text": "Hansa Rostock eröffnet den 15. Spieltag in der dritten Liga mit einem Heimspiel gegen den TSV Havelse. Im Nordduell bei der Kogge hat Havelse als Tabellenletzter die Underdog-Rolle.",
       "date": "Fri, 27 Nov 2026 16:50:18 +0100",
       "category": "Sport"
     },
     {
-      "title": "Jetzt live - Heidenheim führt gegen den Club, keine Tore in Bochum",
+      "title": "Jetzt live - Bochum trifft, Nürnberg droht die nächste Niederlage",
       "uri": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3963/",
       "text": "In der zweiten Liga steht Heidenheim mit Nürnberg eine schwere Aufgabe ins Haus. Derweil versucht Darmstadt dem Abstiegskampf zu entkommen - dafür brauchen die Lilien einen Sieg beim VfL.",
       "date": "Fri, 27 Nov 2026 16:45:34 +0100",
@@ -492,20 +506,6 @@
       "category": "Technik"
     },
     {
-      "title": "RealVNC: Kritisches Leck ermöglicht Codeschmuggel",
-      "uri": "https://www.heise.de/news/RealVNC-Sicherheitsleck-ermoeglicht-Schadcode-Schmuggel-ohne-Anmeldung-11540429.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "In der Fernwartungssoftware RealVNC klafft eine kritische Sicherheitslücke. Angreifer aus dem Netz können Schadcode einschleusen.",
-      "date": "2026-11-27T11:43:00+01:00",
-      "category": "Technik"
-    },
-    {
-      "title": "Kritische Lücke in Linux’ NFS-Server",
-      "uri": "https://www.heise.de/news/Kritische-Luecke-in-Linux-NFS-Server-11540361.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Angreifer können über den NFS-Server im Kernel das System kompromittieren. Anwender sollten Patches einspielen oder den NFS-Server temporär einhegen.",
-      "date": "2026-11-27T11:39:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost - tixio - Nachrichten",
       "uri": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR094UDF1SG15NklyazExNjJaeW42QVFsTHp2T0JmTmVkWjA5dF92c09ZNUp6eTA5NHp2T1VYUFZURmFlTVNUaUoyVnpoNW1mUjFWR1NXTGF4dG9YYmdXUVpwUk81emZtbmpKb2NqMUF4TGtlUHQ0YnNQOEJhSjQyX2MyYnFZc1kxckxMTjMwN2RUMjhTRWxPSTBHSGtlalV6b2hlT1lXUGNxTE5FdFJHcU9EZVVaeDFDYnhPMEo5RUxXX0k?oc=5",
       "text": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost  tixio - Nachrichten",
@@ -674,13 +674,6 @@
       "category": "Welt"
     },
     {
-      "title": "Erfolg im vorletzten Test: DHB-Frauen gegen Frankreich schon in EM-Form",
-      "uri": "https://www.sportschau.de/handball/frauen-em/dhb-frauen-gegen-frankreich-schon-in-em-form,spielbericht-test-dhb-frauen-frankreich-100.html",
-      "text": "Stabile Abwehr und effizienter Angriff: Deutschlands Handballerinnen haben bei ihrem vorletzten EM-Test gegen Frankreich berechtigte Hoffnungen auf Edelmetall geweckt.",
-      "date": "Thu, 26 Nov 2026 22:04:08 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wirtschaft vor acht vom 26.11.2026",
       "uri": "https://www.tagesschau.de/video/video-1690646.html",
       "text": "Wirtschaft vor acht vom 26.11.2026",
@@ -763,6 +756,13 @@
       "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
       "date": "Thu, 26 Nov 2026 12:39:55 +0100",
       "category": "Deutschland"
+    },
+    {
+      "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Freitag mit Bremen gegen Gladbach",
+      "uri": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-bremen-gegen-gladbach,livestream-sportschau-am-freitag-182.html",
+      "text": "Am 10. Spieltag trifft Bremen auf Gladbach. Die Highlights in der Sportschau am Freitag. Dazu Zusammenfassungen aus der 2. Bundesliga.",
+      "date": "Thu, 26 Nov 2026 12:28:24 +0100",
+      "category": "Sport"
     },
     {
       "title": "Verkaufsoffene Sonntage in Remscheid und Solingen - Radio RSG",
@@ -989,13 +989,6 @@
       "category": "Sport"
     },
     {
-      "title": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdXBxdEh5VEZuVExLRzl0TVJSWVpYa19rWnBxdzB2Wnc4ZkhQbllVUTBOdnZmYjViek5WQURxdmVXV0h2UTFhaWk4bmk3TktyVGVJYkYxQ24yb21hX1JYRVQ3RlBpdFVleTNlakUwWHJhd012anNqQkR1Y1dVNVh4SF9oNWZGT0lZbDVDdHhhbGdSekNfeGJ4Rm12UFA4d0dTa2x2cWx6dms2czh3c2NIR19YekRCZG4wd2tCZlZuNnBfLXJyU3hUVnhQa3RsYzg1TFNQeXk1SUxKRGt6anRwbkUyY3Vvb2MyTWxQYU8zbGcxOXp2YnpJ0gGTAkFVX3lxTFBFeFVROWxUSkJaT002dl9ZdUJvSHNzckt0RTJmWU1fY1E2STdTYXZEdmdoYkc1b3l6V05aUEVqbFQ2bk9sSVJucmhTYS1JOFA1b0xHWHhXd0xaMFgydmIzRUpWRUNLSHhaZ0RvWEVDU2I1aDlJSGxGVURXWEE5cVk0R0tvdlNMQ2h1eWlqc2ZldkpiaUFPNXpCVEdyXzBUaXFuS0lyemhYVTFSVjI0MWo4LWJqOE90UnJfSGZNaGJnWnBBWktzVmRhckhvVGhTc1luN1YwOVU5SEZldnpidWlSb2lXdGQxVjRJSTRIUlhEazl0eWZ1dTRfNEI3eEhnUmZYV0JoRDJETE0ydy1MSmNzY04w?oc=5",
-      "text": "Remscheid: Wenige Besucher beim Lichterfest Hindenburgstraße: Organisatoren suchen nach Gründen  RGA",
-      "date": "Wed, 25 Nov 2026 12:04:36 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
       "text": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert.",
@@ -1064,13 +1057,6 @@
       "text": "Deutschland und vier weitere EU-Staaten wollen abgelehnte Asylbewerber nach Ruanda abschieben. 11KM analysiert, wohin sich die europäische Migrationspolitik gerade entwickelt.",
       "date": "Wed, 25 Nov 2026 07:11:51 +0100",
       "category": "Deutschland"
-    },
-    {
-      "title": "BHC verpasst vorzeitigen Play-off-Einzug - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRXM1p0Z1JDcWdvRUNIZG5RTlFqRXktaFg2Z0J1LVZoX1hhVm5udWt2NDJRY3ZnOXRnbkZ2cVJ1YzBMTUpkNzlOQUpybEF6aHNSbVUzdjFZZnhCVEJ0bktCZ25xc0Utc1czd3cxdDJaZnYzSm1Nc1JzWmNGWlhScUdVNjd5amc?oc=5",
-      "text": "BHC verpasst vorzeitigen Play-off-Einzug  Radio RSG",
-      "date": "Wed, 25 Nov 2026 06:01:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet - Radio RSG",
@@ -1304,6 +1290,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid - FuPa ⚽️",
+      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWROTVBUNXpMckd4VWFKVE8tX1ZJMTlDX01ncHg5WHFMNmxmWEY4eDVQdHRyTUdPMWNvZWpmWWRvYVIydHo0SzNrZ2I3emRXTU1ReTY3V1ZaZkhWUmpldU5TcGhzSE5PdG14aEtYWElGZ2UtZ0lQSUpVcWhxRDZ5QzJuMlR4c1daZUxBbzJJZ2JCVVFKTVZ2QU9aQko?oc=5",
+      "text": "Kader noch nicht fertig: So läuft der Umbruch des FC Remscheid  FuPa ⚽️",
+      "date": "Tue, 17 Nov 2026 11:13:23 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "WHO warnt vor wachsenden Antibiotika-Resistenzen",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/who-antibiotika-resistenzen-100.html",
       "text": "Die Experten der WHO warnen vor einem gefährlichen Trend: Immer mehr Medikamente verlieren aufgrund von Resistenzen ihre Wirkkraft. Zudem sieht die Weltgesundheitsorganisation Nachholbedarf beim Infektionsschutz.",
@@ -1329,6 +1322,13 @@
       "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDBQZ3JtNTNfaTh0Q0NZZ2RxVWJuNEZBSXpZUmthOXZDYTluQVpUM0xmbk1LU0RlaERIaXQwdmR3NnNzUDZnNmwxNThlMldKQVVVS2ZxLXQ1M0M3QmU4cDJCb0l2TlhMaDVhQ3BoZF9rZ09vWXhCd2psb3NCWnFuQmp2ZDUwVmhZTnR1aU1n?oc=5",
       "text": "Remscheider SilberRock  Stadt Remscheid",
       "date": "Tue, 10 Nov 2026 11:55:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Gedore schließt einen Standort in Remscheid - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjZOTmpGT2IySlJqeVBCMFI1aXV2Z3FwM200VTYtRnYtMXZsSFBnZldhM2gzTFRaSXk4Z2MzbXZmWFdMSnpmNnQyV1ZsWWc2NzBERkt3Q1Y5NGlJYXdjclRnamhpeTRwQUVsRE81WGVRM2NsVk5vY2tibkhrSU1xQVdOSEtsdUdfX0pYUw?oc=5",
+      "text": "Gedore schließt einen Standort in Remscheid  Radio RSG",
+      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
       "category": "Remscheid"
     },
     {
