@@ -1,11 +1,32 @@
 {
-  "updated": "2026-11-27T21:41:01.257573+00:00",
+  "updated": "2026-11-27T22:41:28.194503+00:00",
   "articles": [
     {
-      "title": "Gladbach und Bremen mit spektakulärem Remis",
+      "title": "Gummersbach setzt seine Siegesserie gegen Erlangen fort",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-gummersbach-setzt-seine-siegesserie-gegen-erlangen-fort-100.html",
+      "text": "Der VfL Gummersbach hat in der Handball-Bundesliga seinen sechsten Sieg in Serie gefeiert.",
+      "date": "Fri, 27 Nov 2026 23:39:43 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen",
       "uri": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
-      "text": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Spiel. Gladbach verspielt eine Zwei-Tore-Führung.",
-      "date": "Fri, 27 Nov 2026 22:38:46 +0100",
+      "text": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+      "date": "Fri, 27 Nov 2026 23:37:07 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
+      "uri": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+      "text": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
+      "date": "Fri, 27 Nov 2026 23:10:29 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Eisbären siegen deutlich in Augsburg",
+      "uri": "https://www.sportschau.de/regional/rbb/rbb-eishockey-eisbaeren-siegen-deutlich-in-augsburg-100.html",
+      "text": "Die Eisbären Berlin haben gegen Augsburger Panther in der DEL den vierten Sieg in Folge geholt und ihre Tabellenführung ausgebaut.",
+      "date": "Fri, 27 Nov 2026 22:46:29 +0100",
       "category": "Sport"
     },
     {
@@ -27,6 +48,13 @@
       "uri": "https://www.sportschau.de/regional/ndr/thw-kiel-arbeitet-sich-gegen-bergischen-hc-zum-sieg,thw-kiel-596.html",
       "text": "Der THW Kiel hat in der Handball-Bundesliga einen glanzlosen, aber wichtigen Sieg gegen den Bergischen HC gefeiert.",
       "date": "Fri, 27 Nov 2026 22:00:52 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Kölner Haie erzwingen Sieg gegen Straubing in der Overtime",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-koelner-haie-erzwingen-sieg-gegen-straubing-in-der-overtime-100.html",
+      "text": "Trotz eines zweimaligen Rückstands haben sich die Kölner Haie noch zu einem Sieg gegen die Straubing Tigers gearbeitet.",
+      "date": "Fri, 27 Nov 2026 22:00:00 +0100",
       "category": "Sport"
     },
     {
@@ -147,13 +175,6 @@
       "text": "Die \"Rente mit 63\" ist eine Umverteilung von unten nach oben, meint Dagmar Pepping. Arbeitsminister Schweitzer hätte ihr ein Ende setzen müssen. Stattdessen geht die Irrfahrt weiter - und der Streit in der Koalition wohl ebenso.",
       "date": "Fri, 27 Nov 2026 17:26:55 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Kölner Haie schlagen Straubing Tigers in der Overtime",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189754/koelner-haie_straubing-tigers/liveticker",
-      "text": "Die Kölner Haie haben in der DEL gegen die Straubing Tigers gewonnen. Patrick Russell traf in der Overtime zum Kölner Sieg.",
-      "date": "Fri, 27 Nov 2026 17:26:34 +0100",
-      "category": "Sport"
     },
     {
       "title": "Bundesnetzagentur plant Rumpfnetz für Krisenfälle",
@@ -322,6 +343,13 @@
       "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
       "date": "Fri, 27 Nov 2026 14:44:03 +0100",
       "category": "Allgemein"
+    },
+    {
+      "title": "Tages-Update am Freitag",
+      "uri": "https://www.sportschau.de/podcasts/sportschau-update/tages-update-am-freitag,audio-tages-update-am-freitag-244.html",
+      "text": "Deutscher Doppelsieg im Monobob, aber durchwachsene Ergebnisse im Langlauf +++ Hase und Volodin sichern sich mit sechs Punkten Vorsprung den ersten Platz im Eiskunstlauf +++ Bitteres Davis-Cup-Aus: Deutschland scheitert mit Zverev im Viertelfinale an Großbritannien.",
+      "date": "Fri, 27 Nov 2026 14:42:17 +0100",
+      "category": "Sport"
     },
     {
       "title": "GrapheneOS: Proof of Concept für RCS-Messenger ohne Google Messages",
@@ -678,7 +706,7 @@
       "uri": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
       "text": "Milorad Dodik war über mehr als 20 Jahre der mächtige Mann in der serbisch dominierten Republika Srpska. 2025 musste er nach internationalem Druck zurücktreten. Nun macht er seinen Sohn zum Regierungschef. Von Oliver Soos.",
       "date": "Fri, 27 Nov 2026 02:29:29 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "Merz verkündet vorzeitiges Ende des EU-Sondergipfels",
@@ -763,13 +791,6 @@
       "text": "Mieter haben einen Anspruch darauf, Solaranlagen an ihren Balkonen anzubringen. Vermieter können das nur in Ausnahmefällen verbieten. Dass die Hürden dafür hoch sind, hat der Bundesgerichtshof jetzt klargestellt. Von Antonetta Stephany.",
       "date": "Thu, 26 Nov 2026 14:29:47 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Agit Kabayel kämpft vor 48.000 Zuschauern um Anerkennung",
-      "uri": "https://www.sportschau.de/regional/wdr/wdr-agit-kabayel-kaempft-vor-48-000-fans-um-anerkennung-100.html",
-      "text": "Vor dem Schwergewichts-Kampf am Samstag spricht Kabayel über fehlende Anerkennung und seine Rolle als Repräsentant Deutschlands.",
-      "date": "Thu, 26 Nov 2026 14:14:00 +0100",
-      "category": "Sport"
     },
     {
       "title": "Zwei Mitglieder von früherer AfD-Jugend dürfen Waffen weiter besitzen",
@@ -1003,13 +1024,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "\"Im Ring wie Ali\" - Schwergewichts-Hoffnung Odiase träumt von WM",
-      "uri": "https://www.sportschau.de/boxen/im-ring-wie-ali-schwergewichts-hoffnung-odiase-traeumt-von-wm,vorschau-rust-odiase-perez-spomer-colmenares-100.html",
-      "text": "Mit Joshua und Usyk im Sparring - und nun zu Hause zur Titelverteidigung. Die deutsche Schwergewichtshoffnung Odiase will den nächsten Schritt zum WM-Kampf machen. Die Sportschau überträgt den Kampfabend am Freitag.",
-      "date": "Wed, 25 Nov 2026 14:05:00 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Euro-Schwäche: Was der \"KI-Dollar\" für Firmen und Sparer bedeutet",
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
       "text": "Der Euro ist zum Dollar auf den tiefsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom. Welche Folgen hat das für Unternehmen, Verbraucher und Anleger? Von Angela Göpfert.",
@@ -1115,13 +1129,6 @@
       "category": "Welt"
     },
     {
-      "title": "Berliner Linke schließt Emde aus Fraktion aus",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
-      "text": "Wochenlang diskutierten Grüne, SPD und Linke in Berlin über die Personalie Emde. Die Abgeordnete steht wegen ihrer Positionen zu Israel in der Kritik. Nun hat die Fraktion mit der nötigen Mehrheit für ihren Ausschluss gestimmt.",
-      "date": "Tue, 24 Nov 2026 19:47:32 +0100",
-      "category": "Deutschland"
-    },
-    {
       "title": "Polizei vermutet Destabilisierung als Ziel der Drohmails gegen Schulen",
       "uri": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
       "text": "Die per Mail verschickten Bombendrohungen haben am Montag deutlich mehr Schulen erreicht als zunächst angenommen. Die Polizei vermutet eine gezielte Aktion zur Verunsicherung.",
@@ -1192,6 +1199,13 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "KoBiZ | Nikolaustreff am 4. Dezember - Stadt Remscheid",
+      "uri": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOEU3U3VJRVpGcEFlalE5YzdwaWZ2czVBeXlsU0hZcDBaRXhGOFVnSjgxM3l5OFk3QVl5V2ZKMDZrU3dUeEtxZmdlNExCMjN0bElldDl3VmFtbUd6YXJTZnlZaDAzZnJveC0wOUZUakw2Y3dybko3M2JXOGozUjhNSkxSdDZ1TGp3N2c?oc=5",
+      "text": "KoBiZ | Nikolaustreff am 4. Dezember  Stadt Remscheid",
+      "date": "Mon, 23 Nov 2026 14:07:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben - RP Online",
       "uri": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTG83YWJYWG9vTGZhMGo4OEJXeVRscFR6VGlLM2w2VlBVNUhyejRXR2hnRG51OG43eWJnaUhpYkN2Z0JyMUgwTWpfNmpYOUE5UmplZkM5cW91ZXhsOXJNdEEyZHBfbWVzRHFLbjQwbEpvN1dzdHprcTQ4dmRibEdNd3RrS3pxRjZVZndObUUtWUk2X1ZyRDVPOGYyMVJkODNic21feFJWcEhUcXhwUXh3UkNhNkpLb3FtTkoxTw?oc=5",
       "text": "Korruptionsprozess in Wuppertal: Top-Manager von Vaillant soll Schmiergeld aus China kassiert haben  RP Online",
@@ -1204,13 +1218,6 @@
       "text": "Falsche Polizisten in Remscheid und Wuppertal  Radio RSG",
       "date": "Mon, 23 Nov 2026 11:18:00 GMT",
       "category": "Remscheid"
-    },
-    {
-      "title": "Box-Abend mit Odiase gegen Perez",
-      "uri": "https://www.sportschau.de/boxen/box-abend-mit-odiase-gegen-perez,livestream-box-abend-rust-100.html",
-      "text": "Im Europapark Rust kämpft Emanuel Odiase aus Heidelberg gegen Mike Perez aus Cuba um die IBF-Europameisterschaftskrone im Schwergewicht.",
-      "date": "Mon, 23 Nov 2026 11:53:45 +0100",
-      "category": "Sport"
     },
     {
       "title": "Schaltsekunde abgeschafft - kommt dafür die Schaltstunde?",
@@ -1379,13 +1386,6 @@
       "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "date": "Sun, 01 Nov 2026 09:01:01 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Wuppertal: Großer Waffenfund in Remscheid – sechseinhalb Jahre Haft - Spiegel",
-      "uri": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPY0hyeTN1OERiX1FzSmcxQVVYNU94SFFwUHM2X01qeUkzNnk2MkRJM3MxbmxSZ2RIbXVFaHNXNFRQYjJaN1RBcHRBZXBOdTNUSjdybDdGT04tV0FvazJJU2RhNmQ0UmJJMWY3dmJOUVNHb29YM3dGRmE4ZGxGUDI3M1BlQjlTS2hDRC1LVmdjYjVnd1Y3ZkJVQVZhSHpaaFdIalhkcjVOY3JDR0NMNHYzZFh2bjRFQ2pXQkhxVG5VMkNtZ09PWEFTX0lDbG9DTFc5dlpnYkIxdHdOb2s?oc=5",
-      "text": "Wuppertal: Großer Waffenfund in Remscheid – sechseinhalb Jahre Haft  Spiegel",
-      "date": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
