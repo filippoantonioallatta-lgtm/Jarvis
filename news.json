@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-27T19:20:03.758881+00:00",
+  "updated": "2026-11-27T20:39:16.309350+00:00",
   "articles": [
+    {
+      "title": "Deutsche Basketballer lösen WM-Ticket nach Sieg in Lettland",
+      "uri": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballer-machen-wm-endrunde-perfekt,wm-qualifikation-lettland-dbb-100.html",
+      "text": "Die deutschen Basketballer haben sich mit einem knappen Sieg in Lettland vorzeitig für die Weltmeisterschaft 2027 in Katar qualifiziert.",
+      "date": "Fri, 27 Nov 2026 21:35:49 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live - Mit vollem Risiko: Dinkci erzielt Ausgleich für Werder",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193945/werder-bremen_borussia-moenchengladbach/liveticker",
+      "text": "Mönchengladbach sucht nach Perspektive in der Bundesliga. Ausgerechnet Werder Bremen, das Team der Stunde, ist Fohlen-Gegner am Freitagabend.",
+      "date": "Fri, 27 Nov 2026 21:34:02 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Hansa Rostock atmet erleichtert durch - 2:0-Sieg gegen Havelse",
+      "uri": "https://www.sportschau.de/regional/ndr/Dritte-Liga-Hansa-Rostock-Havelse,hansa-1048.html",
+      "text": "Den Mecklenburgern ist im Drittliga-Nordduell gegen Havelse der erhoffte sportliche Befreiungsschlag gelungen. Nicht mit dabei war allerdings der Cheftrainer.",
+      "date": "Fri, 27 Nov 2026 21:05:24 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
+      "uri": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
+      "text": "Der Rentenentwurf von Arbeitsminister Schweitzer stößt auf ein geteiltes Echo. DGB-Chefin Fahimi kritisierte steigende Abschläge für Frührentner, lobte aber den Erhalt der \"Rente mit 63\". Aus der Union kommt deutlicher Widerstand.",
+      "date": "Fri, 27 Nov 2026 20:45:49 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Arbeitssieg im Ruhrstadion: Bochum feiert Heimsieg gegen Darmstadt",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/bochum-feiert-heimsieg-gegen-darmstadt,spielbericht-vfl-bochum-sv-darmstadt-110.html",
+      "text": "Der VfL Bochum hat sich mit einer Energieleistung einen Sieg gegen Darmstadt 98 herausgespielt.",
+      "date": "Fri, 27 Nov 2026 20:38:43 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "2. Bundesliga: Heidenheim beendet Krise gegen Nürnberg",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/heidenheim-zieht-sich-gegen-nuernberg-selbst-aus-der-krise,spielbericht-heidenheim-nuernberg-100.html",
+      "text": "Der 1. FC Heidenheim hat nach sieben sieglosen Spielen in der 2. Bundesliga mal wieder drei Punkte geholt. Gegen den Tabellenzweiten aus Nürnberg zogen sich die Heidenheimer an den eigenen Haaren aus der Krise.",
+      "date": "Fri, 27 Nov 2026 20:26:15 +0100",
+      "category": "Sport"
+    },
     {
       "title": "Live hören: Werder Bremen gegen Borussia Mönchengladbach - Bundesliga",
       "uri": "https://www.sportschau.de/fussball/bundesliga/werder-bremen-gegen-borussia-moenchengladbach,audiostream-werder-bremen-gegen-borussia-moenchengladbach-106.html",
@@ -37,39 +79,11 @@
       "category": "Technik"
     },
     {
-      "title": "Jetzt live - Deutsche Basketballer mit einem Sieg bei der WM",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/basketball/fiba-wm-quali/ma12339190/lettland_deutschland/liveticker",
-      "text": "Die deutschen Basketballer benötigen noch einen Sieg, um sich für die WM zu qualifizieren. Heute steht für den Titelverteidiger die Partie in Lettland an.",
-      "date": "Fri, 27 Nov 2026 18:38:09 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Marktbericht: Schnäppchenjagd an der Börse",
       "uri": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
       "text": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
       "date": "Fri, 27 Nov 2026 18:30:38 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Live hören: Die Konferenz - 13. Spieltag | Fußball 2. Bundesliga",
-      "uri": "https://www.sportschau.de/fussball/bundesliga2/13-spieltag-die-konferenz,audiostream-13-spieltag-die-konferenz-132.html",
-      "text": "2. Bundesliga live - alle Spiele am 27.11.2026 um 18:30 Uhr in der Konferenz.",
-      "date": "Fri, 27 Nov 2026 18:15:00 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Live hören: 1. FC Heidenheim 1846 gegen 1. FC Nürnberg - 2. Bundesliga",
-      "uri": "https://www.sportschau.de/fussball/bundesliga2/1-fc-heidenheim-1846-gegen-1-fc-nuernberg,audiostream-1-fc-heidenheim-1846-gegen-1-fc-nuernberg-102.html",
-      "text": "13. Spieltag: Anpfiff des Spiels ist am 27.11.2026 um 18:30 Uhr. 1. FC Nürnberg spielt in Heidenheim.",
-      "date": "Fri, 27 Nov 2026 18:15:00 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Live hören: VfL Bochum gegen SV Darmstadt 98 - 2. Bundesliga",
-      "uri": "https://www.sportschau.de/fussball/bundesliga2/vfl-bochum-gegen-sv-darmstadt-98,audiostream-vfl-bochum-gegen-sv-darmstadt-98-104.html",
-      "text": "13. Spieltag: Anpfiff des Spiels ist am 27.11.2026 um 18:30 Uhr. SV Darmstadt 98 spielt in Bochum.",
-      "date": "Fri, 27 Nov 2026 18:15:00 +0100",
-      "category": "Sport"
     },
     {
       "title": "Julia Tannheimer stark bei Sieg von Elvira Öberg",
@@ -114,6 +128,20 @@
       "category": "Allgemein"
     },
     {
+      "title": "Jetzt live - Kölner Haie empfangen die Straubing Tigers",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/eishockey/deutschland-del/ma12189754/koelner-haie_straubing-tigers/liveticker",
+      "text": "Es ist nicht die Saison der Kölner Haie. 14 Punkte Rückstand sind es schon auf die Eisbären auf Platz eins. Am Freitagabend sind die Straubing Tigers in der Domstadt zu Gast.",
+      "date": "Fri, 27 Nov 2026 17:26:34 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live - Bergischer HC empfängt Schwergewicht Kiel",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/handball/deutschland-hbl/ma12190804/bergischer-hc_thw-kiel/liveticker",
+      "text": "In der Handball-Bundesliga ist Kiel beim Bergischen HC zu Gast. Der Rekordmeister zieht die Massen in die Halle, die Partie ist ausverkauft.",
+      "date": "Fri, 27 Nov 2026 17:25:01 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Bundesnetzagentur plant Rumpfnetz für Krisenfälle",
       "uri": "https://www.heise.de/news/Bundesnetzagentur-plant-Rumpfnetz-fuer-Krisenfaelle-11541262.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Die Bundesnetzagentur will schrittweise Standorte identifizieren, über die im Krisen- und Katastrophenfall die Notfallkommunikation gelingen kann.",
@@ -147,27 +175,6 @@
       "text": "Abgeortneter für Solingen und Remscheid für Frauen  Radio RSG",
       "date": "Fri, 27 Nov 2026 16:09:00 GMT",
       "category": "Remscheid"
-    },
-    {
-      "title": "Ab 20.30 Uhr live - Favorit Bremen trifft auf Gladbach",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-bundesliga/ma12193945/werder-bremen_borussia-moenchengladbach/liveticker",
-      "text": "Mönchengladbach sucht nach Perspektive in der Bundesliga. Ausgerechnet Werder Bremen, das Team der Stunde, ist Fohlen-Gegner am Freitagabend.",
-      "date": "Fri, 27 Nov 2026 16:51:46 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Jetzt live - Hansa Rostock führt gegen Havelse",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242635/fc-hansa-rostock_tsv-havelse/liveticker",
-      "text": "Hansa Rostock eröffnet den 15. Spieltag in der dritten Liga mit einem Heimspiel gegen den TSV Havelse. Im Nordduell bei der Kogge hat Havelse als Tabellenletzter die Underdog-Rolle.",
-      "date": "Fri, 27 Nov 2026 16:50:18 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Jetzt live - Bochum trifft, Nürnberg droht die nächste Niederlage",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3963/",
-      "text": "In der zweiten Liga steht Heidenheim mit Nürnberg eine schwere Aufgabe ins Haus. Derweil versucht Darmstadt dem Abstiegskampf zu entkommen - dafür brauchen die Lilien einen Sieg beim VfL.",
-      "date": "Fri, 27 Nov 2026 16:45:34 +0100",
-      "category": "Sport"
     },
     {
       "title": "macOS-Apps zum Black Friday und Cyber Monday: Tipps für gute Software",
@@ -223,6 +230,13 @@
       "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
       "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
       "date": "Fri, 27 Nov 2026 15:59:05 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Eintracht Braunschweig empfängt VfL Wolfsburg zum \"kleinen\" Derby",
+      "uri": "https://www.sportschau.de/regional/ndr/welches-rollenspiel-zeigt-braunschweig-gegen-wolfsburg,eintracht-446.html",
+      "text": "Vorhang auf für das \"kleine\" Niedersachsenderby: Am Sonntag empfängt Eintracht Braunschweig in der 2. Bundesliga den VfL Wolfsburg.",
+      "date": "Fri, 27 Nov 2026 15:43:28 +0100",
       "category": "Sport"
     },
     {
@@ -301,6 +315,13 @@
       "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
       "date": "Fri, 27 Nov 2026 14:44:03 +0100",
       "category": "Allgemein"
+    },
+    {
+      "title": "Tages-Update am Freitag",
+      "uri": "https://www.sportschau.de/podcasts/sportschau-update/tages-update-am-freitag,audio-tages-update-am-freitag-244.html",
+      "text": "Deutscher Doppelsieg im Monobob, aber durchwachsene Ergebnisse im Langlauf +++ Hase und Volodin sichern sich mit sechs Punkten Vorsprung den ersten Platz im Eiskunstlauf +++ Bitteres Davis-Cup-Aus: Deutschland scheitert mit Zverev im Viertelfinale an Großbritannien.",
+      "date": "Fri, 27 Nov 2026 14:42:17 +0100",
+      "category": "Sport"
     },
     {
       "title": "GrapheneOS: Proof of Concept für RCS-Messenger ohne Google Messages",
@@ -583,13 +604,6 @@
       "category": "Sport"
     },
     {
-      "title": "Werder Bremen: Aus Fragezeichen formt Thioune Ausrufezeichen",
-      "uri": "https://www.sportschau.de/regional/rb/rb-werder-in-der-analyse-warum-stehen-die-bremer-so-gut-da-100.html",
-      "text": "Die Bremer galten zu Saisonbeginn als Abstiegskandidat, mischen aktuell aber die Bundesliga auf. Nach Startschwierigkeiten drückt Coach Daniel Thioune Werder seinen Stempel auf.",
-      "date": "Fri, 27 Nov 2026 08:56:00 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
       "uri": "https://www.tagesschau.de/wirtschaft/technologie/ki-urheberrecht-verguetung-100.html",
       "text": "KI-Anbieter sollen nach dem Willen der Bundesregierung künftig für die Erzeugung von Inhalten zahlen. Und zwar dann, wenn ihre Modelle Inhalte produzieren, die mit von Menschen geschaffenen Werken konkurrieren.",
@@ -664,7 +678,7 @@
       "uri": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
       "text": "Die Vorstellungen unter den 27 Staats- und Regierungschefs lagen weit auseinander. So weit, dass sie laut Merz den zweiten angesetzten Tag des Gipfels ausfallen lassen. Es geht um viele Milliarden für den EU-Haushalt.",
       "date": "Fri, 27 Nov 2026 01:02:22 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "Merz fordert weitere Kürzungen der EU-Finanzen",
@@ -672,6 +686,13 @@
       "text": "Um mehr als 200 Milliarden Euro ist der EU-Haushaltsentwurf bereits gekürzt worden. Dem Kanzler reicht das aber noch nicht. Außerdem verknüpft Merz die schwierigen Verhandlungen weiterhin mit der Unterstützung für die Ukraine.",
       "date": "Thu, 26 Nov 2026 22:37:41 +0100",
       "category": "Welt"
+    },
+    {
+      "title": "Erfolg im vorletzten Test: DHB-Frauen gegen Frankreich schon in EM-Form",
+      "uri": "https://www.sportschau.de/handball/frauen-em/dhb-frauen-gegen-frankreich-schon-in-em-form,spielbericht-test-dhb-frauen-frankreich-100.html",
+      "text": "Stabile Abwehr und effizienter Angriff: Deutschlands Handballerinnen haben bei ihrem vorletzten EM-Test gegen Frankreich berechtigte Hoffnungen auf Edelmetall geweckt.",
+      "date": "Thu, 26 Nov 2026 22:04:08 +0100",
+      "category": "Sport"
     },
     {
       "title": "Wirtschaft vor acht vom 26.11.2026",
@@ -756,13 +777,6 @@
       "text": "Eine Organisation unter Extremismusverdacht - das reicht nicht, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Das hat das Bundesverwaltungsgericht entschieden. Geklagt hatten AfD-Politiker. Bei einem \"Reichsbürger\" sieht es anders aus.",
       "date": "Thu, 26 Nov 2026 12:39:55 +0100",
       "category": "Deutschland"
-    },
-    {
-      "title": "Livestream - Bundesliga-Highlights: Die Sportschau am Freitag mit Bremen gegen Gladbach",
-      "uri": "https://www.sportschau.de/fussball/die-sportschau-am-freitag-mit-bremen-gegen-gladbach,livestream-sportschau-am-freitag-182.html",
-      "text": "Am 10. Spieltag trifft Bremen auf Gladbach. Die Highlights in der Sportschau am Freitag. Dazu Zusammenfassungen aus der 2. Bundesliga.",
-      "date": "Thu, 26 Nov 2026 12:28:24 +0100",
-      "category": "Sport"
     },
     {
       "title": "Verkaufsoffene Sonntage in Remscheid und Solingen - Radio RSG",
@@ -1108,13 +1122,6 @@
       "category": "Deutschland"
     },
     {
-      "title": "Bilanz des Spendenrats: Deutsche spenden wieder mehr",
-      "uri": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
-      "text": "Die Deutschen spenden wieder mehr, doch die Zahl der Spender geht zurück. Das geht aus der Bilanz des Spendenrats hervor. Besonders eine Altersgruppe gibt auffällig viel - und eine andere auffällig wenig.",
-      "date": "Tue, 24 Nov 2026 16:42:18 +0100",
-      "category": "Deutschland"
-    },
-    {
       "title": "Drei Supermonde in Folge: Was macht einen Mond super?",
       "uri": "https://www.tagesschau.de/wissen/weltraum/drei-supermonde-hintereinander-100.html",
       "text": "Heute geht es los: Bei drei Vollmonden - im November, Dezember und Januar - wird der Mond der Erde besonders nahe sein. Das macht sie zu sogenannten Supermonden. Was genau steckt dahinter? Von Heike Westram.",
@@ -1400,13 +1407,6 @@
       "text": "Der Nobelpreis für Chemie geht an den 1930 geborenen Franzosen Henri B. Kagan und den Japaner Kenso Soai. Sie werden für Entdeckungen ausgezeichnet, die etwa bei der Herstellung von Arzneimitteln entscheidend seien.",
       "date": "Wed, 07 Oct 2026 13:52:14 +0200",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Hansa Rostock gegen TSV Havelse",
-      "uri": "https://www.sportschau.de/regional/ndr/hansa-rostock-gegen-tsv-havelse,audiostream-hansa-rostock-tsv-havelse-106.html",
-      "text": "Am 15. Spieltag empfängt Hansa Rostock den TSV Havelse. NDR 1 Radio MV überträgt das Spiel in einer Audio-Vollreportage.",
-      "date": "Wed, 07 Oct 2026 12:49:19 +0200",
-      "category": "Sport"
     },
     {
       "title": "Nobelpreisträger Hegemann in den tagesthemen: \"Ich bin natürlich überwältigt\"",
