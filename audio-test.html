@@ -891,6 +891,376 @@ try {
         finish(error.message);
     }
 };
+{
+    const conversationButton = document.createElement("button");
+    const conversationInfo = document.createElement("p");
+    conversationButton.textContent = "Gespräch starten";
+    document.body.append(conversationButton, conversationInfo);
+
+
+
+
+    let active = null;
+
+
+
+
+    function stopSession(s, message) {
+        if (active !== s) return;
+        active = null;
+        clearInterval(s.timer);
+        s.controller.abort();
+        if (s.recorder?.state === "recording") s.recorder.stop();
+        ttsPlayer.pause();
+        conversationButton.textContent = "Gespräch starten";
+        conversationInfo.textContent = message;
+    }
+
+
+
+
+    conversationButton.onclick = () => {
+        if (active) return stopSession(active, "Gespräch beendet.");
+
+
+
+
+        const live = () => stream?.getAudioTracks().some(t => t.readyState === "live");
+
+
+
+
+        if (!live()) {
+            conversationInfo.textContent = "Bitte Mikrofon starten.";
+            return;
+        }
+
+
+
+
+        const code = (localStorage.getItem("jarvis_access_code") || prompt("JARVIS-Zugangscode:") || "").trim();
+        if (!code) return;
+
+
+
+
+        ttsPlayer.pause();
+
+
+
+
+        const s = {
+            controller: new AbortController(),
+            processing: false,
+            loud: 0,
+            quiet: 0,
+            started: 0,
+            lastAnswer: "",
+            history: []
+        };
+
+
+
+
+        active = s;
+        conversationButton.textContent = "Gespräch beenden";
+        conversationInfo.textContent = "Ich höre zu.";
+
+
+
+
+        async function api(path, body) {
+            const headers = { "X-Jarvis-Code": code };
+
+
+
+
+            if (!(body instanceof FormData)) {
+                headers["Content-Type"] = "application/json";
+                body = JSON.stringify(body);
+            }
+
+
+
+
+            const r = await fetch(
+                "https://jarvis-api.filippoantonioallatta.workers.dev" + path,
+                {
+                    method: "POST",
+                    headers,
+                    body,
+                    signal: s.controller.signal
+                }
+            );
+
+
+
+
+            const data = await r.json();
+            if (!r.ok) throw new Error(data.error || "HTTP " + r.status);
+            return data;
+        }
+
+
+
+
+        async function handle(blob, interrupted) {
+            if (active !== s) return;
+
+
+
+
+            try {
+                if (!blob.size) throw new Error("Aufnahme leer.");
+
+
+
+
+                const ext = blob.type.includes("webm") ? "webm" :
+                    blob.type.includes("ogg") ? "ogg" :
+                    blob.type.includes("wav") ? "wav" : "m4a";
+
+
+
+
+                const form = new FormData();
+                form.append("file", blob, "aufnahme." + ext);
+
+
+
+
+                conversationInfo.textContent = "Erkenne Sprache...";
+
+
+
+
+                const data = await api("/transcribe", form);
+                if (active !== s) return;
+
+
+
+
+                const text = String(data.text || "").trim();
+                const norm = x => x.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, " ").trim();
+                const heard = norm(text);
+
+
+
+
+                if (!heard || (interrupted && (" " + norm(s.lastAnswer) + " ").includes(" " + heard + " "))) {
+                    if (interrupted) await ttsPlayer.play();
+                    if (active === s) conversationInfo.textContent = "Ich höre zu.";
+                    return;
+                }
+
+
+
+
+                conversationInfo.textContent = "Du: " + text + " | JARVIS denkt nach...";
+
+
+
+
+                const chat = await api("/chat", {
+                    messages: [
+                        {
+                            role: "system",
+                            content: "Du bist JARVIS. Antworte auf Deutsch, kurz und professionell."
+                        },
+                        ...s.history.slice(-6),
+                        { role: "user", content: text }
+                    ]
+                });
+
+
+
+
+                if (active !== s) return;
+
+
+
+
+                const answer = chat.choices?.[0]?.message?.content?.trim();
+                if (!answer) throw new Error("Keine KI-Antwort.");
+
+
+
+
+                const voice = await api("/tts", {
+                    text: answer.slice(0, 2000)
+                });
+
+
+
+
+                if (active !== s) return;
+                if (!voice.audio) throw new Error("Keine Audiodaten.");
+
+
+
+
+                const bytes = Uint8Array.from(
+                    atob(voice.audio), c => c.charCodeAt(0)
+                );
+
+
+
+
+                if (ttsURL) URL.revokeObjectURL(ttsURL);
+
+
+
+
+                ttsURL = URL.createObjectURL(new Blob([bytes], {
+                    type: voice.mimeType || "audio/wav"
+                }));
+
+
+
+
+                ttsPlayer.src = ttsURL;
+                s.lastAnswer = answer.slice(0, 2000);
+
+
+
+
+                s.history = [
+                    ...s.history,
+                    { role: "user", content: text },
+                    { role: "assistant", content: answer }
+                ].slice(-6);
+
+
+
+
+                conversationInfo.textContent =
+                    "Du: " + text + " | JARVIS: " + answer;
+
+
+
+
+                await ttsPlayer.play();
+
+
+
+
+            } catch (e) {
+                stopSession(s, "Fehler: " + e.message);
+            } finally {
+                s.processing = false;
+                s.loud = s.quiet = 0;
+            }
+        }
+
+
+
+
+        s.timer = setInterval(() => {
+            if (!live()) return stopSession(s, "Mikrofon beendet.");
+
+
+
+
+            const now = performance.now();
+            const loud = level.value >= 15;
+
+
+
+
+            if (s.recorder?.state === "recording") {
+                s.quiet = loud ? 0 : (s.quiet || now);
+
+
+
+
+                if ((s.quiet && now - s.quiet >= 1200) ||
+                    now - s.started >= 15000) {
+                    s.recorder.stop();
+                }
+
+
+
+
+                return;
+            }
+
+
+
+
+            if (s.processing) return;
+
+
+
+
+            s.loud = loud ? (s.loud || now) : 0;
+
+
+
+
+            if (!s.loud || now - s.loud < 150) return;
+
+
+
+
+            try {
+                const interrupted = !ttsPlayer.paused && !ttsPlayer.ended;
+                const chunks = [];
+                const rec = new MediaRecorder(stream);
+
+
+
+
+                s.recorder = rec;
+                s.processing = true;
+
+
+
+
+                rec.ondataavailable = e => {
+                    if (e.data.size) chunks.push(e.data);
+                };
+
+
+
+
+                rec.onstop = () => handle(
+                    new Blob(chunks, {
+                        type: rec.mimeType || chunks[0]?.type || ""
+                    }),
+                    interrupted
+                );
+
+
+
+
+                rec.onerror = () => stopSession(s, "Aufnahmefehler.");
+
+
+
+
+                ttsPlayer.pause();
+                rec.start();
+
+
+
+
+                s.started = now;
+                s.quiet = 0;
+
+
+
+
+                conversationInfo.textContent = "Ich höre zu...";
+
+
+
+
+            } catch (e) {
+                stopSession(s, "Fehler: " + e.message);
+            }
+        }, 50);
+    };
+}
 </script>
 
 </body>
