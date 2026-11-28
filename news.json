@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-28T05:42:05.573412+00:00",
+  "updated": "2026-11-28T06:45:37.672652+00:00",
   "articles": [
+    {
+      "title": "Die Sieg-Kür von Minerva Hase und Nikita Volodin",
+      "uri": "https://www.sportschau.de/wintersport/eiskunstlauf/die-kuer-von-minerva-hase-und-nikita-volodin,eiskunstlauf-tokio-hase-volodin-kuer-100.html",
+      "text": "Das deutsche Paar Minerva Hase/Nikita Volodin zeigt beim Grand Prix in Tokio erneut eine starke Leistung. Die Kür im Re-Live.",
+      "date": "Sat, 28 Nov 2026 07:30:29 +0100",
+      "category": "Sport"
+    },
     {
       "title": "Jellyfin und KDE Plasma Bigscreen statt teurer Streaming-Abos | c’t uplink",
       "uri": "https://www.heise.de/news/Jellyfin-und-KDE-Plasma-Bigscreen-statt-teurer-Streaming-Abos-c-t-uplink-11540760.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
@@ -177,6 +184,13 @@
       "category": "Technik"
     },
     {
+      "title": "Vier deutsche Springer überstehen die Qualifikation",
+      "uri": "https://www.sportschau.de/wintersport/skispringen/vier-deutsche-springer-ueberstehen-die-qualifikation,skispringen-maenner-qualifikation-ruka-100.html",
+      "text": "Vier DSV-Skispringer haben sich für den Einzelwettbewerb beim Weltcup in Ruka qualifiziert. Bester Deutscher war Philipp Raimund. Für zwei DSV-Adler ist allerdings schon Schluss.",
+      "date": "Fri, 27 Nov 2026 18:39:09 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Marktbericht: Schnäppchenjagd an der Börse",
       "uri": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-176.html",
       "text": "Dank starker US-Börsen am Black Friday kann auch der DAX seine Erholung fortsetzen. Nach einer tiefroten Vorwoche geht er am Ende versöhnlich ins Wochenende. Vor allem Technologie-Werte steigen.",
@@ -310,13 +324,6 @@
       "category": "Technik"
     },
     {
-      "title": "Keisinger gewinnt Skeleton-Weltcup in Altenberg",
-      "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
-      "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
-      "date": "Fri, 27 Nov 2026 15:59:05 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "So läuft der Wintersport am Wochenende in der Sportschau",
       "uri": "https://www.sportschau.de/wintersport/so-laeuft-der-wintersport-am-wochenende-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html",
       "text": "Das erste große Wintersport-Wochenende steht an. Nach den Skirennfahrern und den Skispringern steigen auch die Biathleten, Langläufer und Kombinierer ins Weltcup-Geschehen ein.",
@@ -447,13 +454,6 @@
       "uri": "https://www.ardmediathek.de/video/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvMTcwNmEzN2ItODc5NC00NzJiLTlkMWMtNmYxZTQ1YWNhMjY3",
       "text": "Sven Hannawald schafft den Sprung an die Weltspitze. Olympia-Silber in Nagano, WM-Titel in Ramsau. Skispringen erlebt einen beispiellosen Boom. Doch der wachsende Druck hinterlässt Spuren. Ausgerechnet sein engster Freund wird zum größten Konkurrenten.",
       "date": "Fri, 27 Nov 2026 14:04:43 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Malinin bricht Weltrekord im Kurzprogramm",
-      "uri": "https://www.sportschau.de/wintersport/eiskunstlauf/malinin-bricht-weltrekord-im-kurzprogramm,malinin-weltrekord-100.html",
-      "text": "Eiskunstlauf-Superstar Ilia Malinin hat beim Grand Prix in Tokio den Weltrekord im Kurzprogramm gebrochen.",
-      "date": "Fri, 27 Nov 2026 14:02:28 +0100",
       "category": "Sport"
     },
     {
@@ -1108,6 +1108,13 @@
       "category": "Deutschland"
     },
     {
+      "title": "BHC verpasst vorzeitigen Play-off-Einzug - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRXM1p0Z1JDcWdvRUNIZG5RTlFqRXktaFg2Z0J1LVZoX1hhVm5udWt2NDJRY3ZnOXRnbkZ2cVJ1YzBMTUpkNzlOQUpybEF6aHNSbVUzdjFZZnhCVEJ0bktCZ25xc0Utc1czd3cxdDJaZnYzSm1Nc1JzWmNGWlhScUdVNjd5amc?oc=5",
+      "text": "BHC verpasst vorzeitigen Play-off-Einzug  Radio RSG",
+      "date": "Wed, 25 Nov 2026 06:01:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet - Radio RSG",
       "uri": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS2VQem5IMTV0bGFjek14R2l3dDFJOGdid0ZPU3pWcTVsbDdLWGVuazJSQ3ItcUdMeFlOUlE1RE41dFgzcEswTWNVUlVPNFRqVVBrZ3BiYmdZTVZmV2V0b2FMMWoyWGJmTzRMckRBQWVzUkdKemROX0Rhd0VPeGVESmZ2WW9OcHNXek1Gc09vWjVzT3RMR0tCVUFCM3VaX0EwRlE?oc=5",
       "text": "Jeder sechste Erwachsene in Remscheid &Solingen überschuldet  Radio RSG",
@@ -1318,9 +1325,9 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Grand Prix in Tokio - die Kür der Paare",
+      "title": "Grand Prix in Tokio - die Kür",
       "uri": "https://www.sportschau.de/wintersport/einzelkueren-und-die-kuer-der-paare,livestream-wintersport-eiskunstlauf-100.html",
-      "text": "Die Kür der Paare beim Grand Prix in Tokio - mit Nikita Volodin und Minerva Hase. Es kommentiert Daniel Weiss.",
+      "text": "Das deutsche Paar Hase/Volodin hat den Grand Prix in Tokio überlegen gewonnen. In Kürze folgt die Kür der Frauen. Es kommentiert Daniel Weiss.",
       "date": "Thu, 12 Nov 2026 10:38:14 +0100",
       "category": "Sport"
     },
@@ -1428,13 +1435,6 @@
       "text": "Tagesaktuelle Nachrichten zu Medizin, Gesundheit und Corona. Neue Studien, Experten-Meinungen und Hintergründe zu aktuellen Wissens-Themen.",
       "date": "Fri, 11 Sep 2026 11:08:28 +0200",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Drogen, Müll und Schlägereien in der City: Jetzt greift Remscheid durch - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2c4WWRiZUUxdFU0cFBHNHlFRFJXb2pjVzR5YWhjX2tlc0Jod3Y0R2hVdGNyWmN6SG1GZ1BiUGl4U1k3cU0xU3AtYk9ydEhqbE9zeFgxd2FuVkczTThweHJ0Z1hKUHl2elFwRzh5U20xbDFKN280MlNZZEdPOHNSVTFfX2lTaVNPdVFqN3JFbGtZWGJXZnlMNA?oc=5",
-      "text": "Drogen, Müll und Schlägereien in der City: Jetzt greift Remscheid durch  WDR",
-      "date": "Wed, 09 Sep 2026 07:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Uwe Janssens, Deutsche Vereinigung für Intensiv- und Notfallmedizin, zu Investitionen in den Hitzeschutz",
