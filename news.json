@@ -1,18 +1,67 @@
 {
-  "updated": "2026-11-28T11:07:58.301970+00:00",
+  "updated": "2026-11-28T12:04:37.422795+00:00",
   "articles": [
     {
-      "title": "Rodeln: Deutsche Männer-Doppelsitzer straucheln zum Auftakt",
+      "title": "Langlauf: Victoria Carl bei Comeback weiter in guter Form",
       "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
       "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
-      "date": "Sat, 28 Nov 2026 12:01:00 +0100",
+      "date": "Sat, 28 Nov 2026 12:48:06 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Live hören: Die Konferenz - 13. Spieltag | Fußball 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/13-spieltag-die-konferenz,audiostream-13-spieltag-die-konferenz-134.html",
+      "text": "2. Bundesliga live - alle Spiele am 28.11.2026 um 13:00 Uhr in der Konferenz.",
+      "date": "Sat, 28 Nov 2026 12:40:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Live hören: Hertha BSC gegen Karlsruher SC - 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/hertha-bsc-gegen-karlsruher-sc,audiostream-hertha-bsc-gegen-karlsruher-sc-106.html",
+      "text": "13. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 13:00 Uhr. Karlsruher SC spielt in Berlin.",
+      "date": "Sat, 28 Nov 2026 12:40:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Live hören: Holstein Kiel gegen 1. FC Kaiserslautern - 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/holstein-kiel-gegen-1-fc-kaiserslautern,audiostream-holstein-kiel-gegen-1-fc-kaiserslautern-106.html",
+      "text": "13. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 13:00 Uhr. 1. FC Kaiserslautern spielt in Kiel.",
+      "date": "Sat, 28 Nov 2026 12:40:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Live hören: Dynamo Dresden gegen FC St. Pauli - 2. Bundesliga",
+      "uri": "https://www.sportschau.de/fussball/bundesliga2/dynamo-dresden-gegen-fc-st-pauli,audiostream-dynamo-dresden-gegen-fc-st-pauli-100.html",
+      "text": "13. Spieltag: Anpfiff des Spiels ist am 28.11.2026 um 13:00 Uhr. FC St. Pauli spielt in Dresden.",
+      "date": "Sat, 28 Nov 2026 12:40:00 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Skeleton: Kreher führt historischen Vierfach-Erfolg an",
+      "uri": "https://www.sportschau.de/wintersport/skeleton/debuetsiegerin-kreher-fuehrt-deutschen-vierfach-erfolg-in-altenberg-an,skeleton-frauen-altenberg-102.html",
+      "text": "Nach den Männern brillieren auch die deutschen Skeleton-Frauen beim Heimweltcup in Altenberg: Susanne Kreher führt einen deutschen Vierfacherfolg an - und kann über ihren ersten Weltcupsieg im Einzel jubeln.",
+      "date": "Sat, 28 Nov 2026 12:39:28 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Ab 14 Uhr live - Düsseldorf, Mannheim und Alemannia im Einsatz",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/se122607/2026-2027/ro322644/spieltag/md15/spiele-und-ergebnisse",
+      "text": "Der Samstagnachmittag hat in der 3. Liga spannende Duelle zu bieten: Münster empfängt Verl, Würzburg trifft auf Düsseldorf und Aachen spielt in Saarbrücken um Zählbares.",
+      "date": "Sat, 28 Nov 2026 12:14:33 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Gladbach-Coach Blessin wechselt den Sieg aus",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-gladbach-coach-blessin-wechselt-den-sieg-aus-100.html",
+      "text": "Bundesligist Borussia Mönchengladbach gibt in Bremen den sicheren Sieg aus der Hand - auch aufgrund unglücklicher Wechsel.",
+      "date": "Sat, 28 Nov 2026 12:09:17 +0100",
       "category": "Sport"
     },
     {
       "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
       "uri": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
       "text": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
-      "date": "Sat, 28 Nov 2026 11:52:36 +0100",
+      "date": "Sat, 28 Nov 2026 12:07:26 +0100",
       "category": "Allgemein"
     },
     {
@@ -30,7 +79,7 @@
       "category": "Technik"
     },
     {
-      "title": "Ab 13 Uhr live - Freundschaftsduell in Berlin, Dynamo gegen St. Pauli",
+      "title": "Jetzt live - Freundschaftsduell in Berlin, Dynamo gegen St. Pauli",
       "uri": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3966/",
       "text": "Während Dresden den ungeliebten FC St. Pauli empfängt, wird bei Hertha BSC die Freundschaft mit Karlsruhe gefeiert. Außerdem steht das Heim-Debüt von Mitch Kniat in Kiel an.",
       "date": "Sat, 28 Nov 2026 11:34:02 +0100",
@@ -100,20 +149,6 @@
       "category": "Technik"
     },
     {
-      "title": "Wie ein Skispringer zur Legende wurde - und fast daran zerbrach",
-      "uri": "https://www.sportschau.de/regional/swr/swr-being-sven-hannawald-wie-ein-skispringer-zur-legende-wurde-und-fast-daran-zerbrach-100.html",
-      "text": "Die ARD-Dokuserie \"Being Sven Hannawald\" begleitet den früheren Skispringer auf seinem Weg an die Weltspitze und schließlich in eine Klinik, die ihn wieder zurück ins Leben holt.",
-      "date": "Sat, 28 Nov 2026 09:44:07 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
-      "uri": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
-      "text": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
-      "date": "Sat, 28 Nov 2026 09:21:27 +0100",
-      "category": "Allgemein"
-    },
-    {
       "title": "So einfach kann man schlüssellose Autos mit Keyless Go knacken",
       "uri": "https://www.tagesschau.de/wirtschaft/digitales/keyless-cars-sicherheitsluecke-100.html",
       "text": "Autos, die ohne Schlüssel starten, haben eine Sicherheitslücke. Für Halter stellt sich die Frage: Wenn das Auto geklaut wird, zahlt jemand für den Schaden? Von H. Beckmann und L.-M. Hiltscher.",
@@ -140,6 +175,13 @@
       "text": "Sieben Fotografien, sieben Wege, Raum zu inszenieren: Die Bilder der Woche zeigen,  wie Perspektive und Komposition unterschiedliche Bildwirkungen erzeugen.",
       "date": "2026-11-28T08:00:00+01:00",
       "category": "Technik"
+    },
+    {
+      "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
+      "uri": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
+      "text": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
+      "date": "Sat, 28 Nov 2026 07:41:00 +0100",
+      "category": "Allgemein"
     },
     {
       "title": "Jellyfin und KDE Plasma Bigscreen statt teurer Streaming-Abos | c’t uplink",
@@ -188,13 +230,6 @@
       "uri": "https://www.sportschau.de/regional/wdr/wdr-gummersbach-setzt-seine-siegesserie-gegen-erlangen-fort-100.html",
       "text": "Der VfL Gummersbach hat in der Handball-Bundesliga den sechsten Sieg in Serie gefeiert.",
       "date": "Fri, 27 Nov 2026 23:39:43 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Natürlich Füllkrug - Mönchengladbach verspielt Sieg in Bremen",
-      "uri": "https://www.sportschau.de/fussball/bundesliga/natuerlich-fuellkrug-gladbach-verspielt-sieg-in-bremen,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
-      "text": "Werder Bremen und Borussia Mönchengladbach liefern sich in der Fußball-Bundesliga ein rasantes und hoch emotionales Spiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
-      "date": "Fri, 27 Nov 2026 23:37:07 +0100",
       "category": "Sport"
     },
     {
@@ -259,13 +294,6 @@
       "text": "Smarte Heizkörperthermostate senken die Heizkosten und steigern den Komfort. Fast alle Modelle laufen ohne Cloud und sind zum Black Friday besonders günstig.",
       "date": "2026-11-27T20:00:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Hertha und die Wahrheit hinter den 15 Eigengewächsen",
-      "uri": "https://www.sportschau.de/regional/rbb/rbb-hertha-die-wahrheit-hinter-den-15-eigengewaechsen-100.html",
-      "text": "Mit 15 Kader-Spielern aus der eigenen Akademie stellt Hertha BSC den Bestwert der 2. Bundesliga. Der Blick in die Einsatzstatistik nach den ersten 14 Pflichtspielen zeigt jedoch: Die Last auf dem Rasen verteilt sich auf erstaunlich wenige Schultern.",
-      "date": "Fri, 27 Nov 2026 19:40:09 +0100",
-      "category": "Sport"
     },
     {
       "title": "Als Vincent Kompany die Raute trug",
@@ -520,20 +548,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Being Sven Hannawald: Wenn der größte Triumph zur Last wird (E03)",
-      "uri": "https://www.ardmediathek.de/video/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvYmM0MmM5MjAtOWNkYy00YjM0LTljZGItYjVjNTFlODQ4NWEz",
-      "text": "Sven Hannawald schreibt Sportgeschichte: Vier Siege bei der Vierschanzentournee, ein Land im Jubel. Doch der Ruhm wird zur Belastung. Hannawald erkrankt an einer schweren Depression. Es dauert Jahre, bis er dorthin zurückkehren kann, wo alles begann.",
-      "date": "Fri, 27 Nov 2026 14:10:53 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Being Sven Hannawald: Freunde und Rivalen (E02)",
-      "uri": "https://www.ardmediathek.de/video/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvMTcwNmEzN2ItODc5NC00NzJiLTlkMWMtNmYxZTQ1YWNhMjY3",
-      "text": "Sven Hannawald schafft den Sprung an die Weltspitze. Olympia-Silber in Nagano, WM-Titel in Ramsau. Skispringen erlebt einen beispiellosen Boom. Doch der wachsende Druck hinterlässt Spuren. Ausgerechnet sein engster Freund wird zum größten Konkurrenten.",
-      "date": "Fri, 27 Nov 2026 14:04:43 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "heise-Angebot: iX-Workshop: Windows Server absichern und härten",
       "uri": "https://www.heise.de/news/iX-Workshop-Windows-Server-absichern-und-haerten-11532303.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
@@ -581,13 +595,6 @@
       "text": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
       "date": "Fri, 27 Nov 2026 13:09:57 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "DFB warnt vor wirtschaftlichen Gefahren für die 3. Liga",
-      "uri": "https://www.sportschau.de/fussball/amateurfussball/fernsehvertraege-schadenersatz-und-juristische-fragen,regionalliga-reform-190.html",
-      "text": "Die Regionalliga-Reform erhitzt weiter die Gemüter: Die Befürworter des Kompassmodells warnen vor den wirtschaftlichen Folgen des alternativen 22/5-Modells für die Vereine der 3. Liga.",
-      "date": "Fri, 27 Nov 2026 13:01:50 +0100",
-      "category": "Sport"
     },
     {
       "title": "Remscheid: Bürgerinitiative Lennep zu Outlet-Verkehrsplänen - Radio RSG",
@@ -639,13 +646,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Being Sven Hannawald: Der Traum vom Fliegen (E01)",
-      "uri": "https://www.ardmediathek.de/video/Y3JpZDovL3Nwb3J0c2NoYXUuZGUvNWI5ODZmMDYtNGMxZC00YTQ4LWE4MDAtOWIwNGE3NGVmNjcw",
-      "text": "Ein Junge aus dem Erzgebirge träumt vom ganz großen Triumph: dem Sieg bei der Vierschanzentournee. Nach dem Mauerfall zieht er allein in ein Skiinternat im Schwarzwald. Seine Karriere nimmt Fahrt auf, doch der Weg an die Weltspitze ist steinig.",
-      "date": "Fri, 27 Nov 2026 11:28:23 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wie Firmen mit Weiterbildung gegen Fachkräftemangel vorbeugen",
       "uri": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/demografie-fachkraefte-weiterbildung-100.html",
       "text": "Der demografische Wandel kommt immer stärker am Arbeitsmarkt an. Auch gezielte Zuwanderung kann den Fachkräftemangel nicht mehr ausgleichen. Viele Firmen setzen daher auf Weiterbildung. Von Axel John.",
@@ -658,6 +658,13 @@
       "text": "Für die deutsche Wirtschaft sah es zuletzt wieder etwas besser aus. Doch die übliche Belebung des Arbeitsmarktes im Herbst ist größtenteils ausgeblieben. Auch im November ging die Zahl der Arbeitslosen nur leicht zurück.",
       "date": "Fri, 27 Nov 2026 10:57:19 +0100",
       "category": "Wirtschaft"
+    },
+    {
+      "title": "Ausstellung zum Künstler Banksy im Allee-Center - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdGtNaWNSbm9reGxLbFVmc0x0cXJxbUxkT3Y4TURfQmNRa0loNE9pR1dENEQ3MUJHNW45OTRDWEpobTNsOEd6aWxmUS14WGphQVc1Y2xSSF9xVGNCeDFVMFkwRk5mSDU4UDRyLVFoNFFwUmVYQy1HaDBjMEppb0FoQmViblpCMEpNZUlkOGl0dnI4Zw?oc=5",
+      "text": "Ausstellung zum Künstler Banksy im Allee-Center  Radio RSG",
+      "date": "Fri, 27 Nov 2026 09:38:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Shopping: KI-Agenten werden beliebter",
@@ -686,13 +693,6 @@
       "text": "Beschäftigte der Textilbranche in Bangladesch fordern eine deutliche Verbesserung ihrer Lebens- und Arbeitsbedingungen. Inzwischen gibt es eine erste Einigung. Doch wie viel bleibt den Menschen zum Leben? Von Severine Naeve.",
       "date": "Fri, 27 Nov 2026 08:59:40 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "\"Machen ernst\" - Fanszenen protestieren für Kompassmodell",
-      "uri": "https://www.sportschau.de/fussball/fanszenen-kuendigen-proteste-fuer-kompassmodell-an,regionalliga-fans-proteste-100.html",
-      "text": "Beim DFB-Bundestag wackelt die Mehrheit für das Kompassmodell bei der Regionalliga-Reform - zahlreiche Fanszenen kündigen deshalb Proteste in den Stadien an.",
-      "date": "Fri, 27 Nov 2026 08:59:01 +0100",
-      "category": "Sport"
     },
     {
       "title": "Bundesregierung will KI-Anbieter zur Kasse bitten",
@@ -728,6 +728,13 @@
       "text": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von F. Welz.",
       "date": "Fri, 27 Nov 2026 06:43:42 +0100",
       "category": "Welt"
+    },
+    {
+      "title": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnBRWVVyVDJBY1piRFVqQ3VpSFl5bFVsR2pzZGVydTNWRW9HZjNPeG1fWmJvdFZVTGNhTzhRdTJ4MXU2MnpVNzZXMnl0T3RZNWhha2FPX0JVaGNTdmhCZjdSMEh3NU1nVkRCYnk0Y3ZUM0ZjVDBLYnhMQ0F0YVFqVmg3RnY0NVBDaGxETlUwUWQ0RTZmT0hjRUt3OVdUcEE?oc=5",
+      "text": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land  Radio RSG",
+      "date": "Fri, 27 Nov 2026 05:10:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Polizei ermittelt zu Kellerbrand am Kremenholl - Radio RSG",
@@ -1136,16 +1143,23 @@
       "category": "Welt"
     },
     {
+      "title": "Ex-Vaillant Manager bestreitet alles - WDR",
+      "uri": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOd1FEN2pjVm95ZmltWEx3Y1h1bTJTRHVQamJ0YWtENGptRUpqeUpLSkdSbXhJUi1neDY1bWxta2pZSDVQSnhxd240WTE3ZlZWdWVPeG5DTGRyQ0VjRTJ5ZzVkQ0p0T19PMGZYRGFTUHUyWV9USEgyQV9TYVFMRkg1WU41ZVdhWlVmTzZGV1BLZ1h3bjJFb3oxeWtDMEU2cXVXWXVsb043blJFWVRsZWQ1aWdLNDhod9IBtAFBVV95cUxQdlV4UktXQ3RjRkZOMHRSY1NSMkh3NnQ5dVo3UWlGOGN6NzNMN0l2T2ZucS1mNXExX3lRaW44QjZxOGVDZmFKY3IyM28yOWxiUndGTlNJWENrel9tR3IyQVR6bWpIZTI5bUh6cXBHcVpZbFB4VndSb0hBLTJ2a3pkREIyeFEzWFZyaXlDNTJoYjJ2MFVfVUJLQ2E5RXZGRFJaUmlMYXEwRTI4c25BRlNfVGFDQ3k?oc=5",
+      "text": "Ex-Vaillant Manager bestreitet alles  WDR",
+      "date": "Tue, 24 Nov 2026 19:10:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft - RP Online",
+      "uri": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkRpOEdjSGY2NEl6TmtIeTFnX1diWlR3R2JITzJhakFYN3VFNkQ4UTgzSjB0dS1walJDS2N5NjBpcVQ0UlNlUDZZOGwtcUljX1ZuTk9ZaVJHWXc2ZWZ0NFZDdl9CZFJvREdwU0ZzVWdkLWhveGthRGEyazJUakVicDBDYkE2bG5TVWI2UFprVUtUV2ZzcGFKa0JFT0xKbHpJTEQxbF9Ic2swSkd5OEZvSWNDOA?oc=5",
+      "text": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft  RP Online",
+      "date": "Tue, 24 Nov 2026 16:59:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "13.10 Uhr im Live-Ticker: Staffel Single Mixed in Kontiolahti",
       "uri": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1213/kontiolahti/ma11978516/liveticker-list",
       "text": "Erstes Team-Rennen der Biathlon-Saison. Der DSV schickt Marlene Fichtner und Justus Strelow ins Rennen.",
-      "date": "Tue, 24 Nov 2026 16:48:19 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "13.30 Uhr im Live-Ticker: Einzel der Frauen",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/skispringen/co2188/hinzenbach/ma12107005/liveticker-list",
-      "text": "In Hinzenbach haben die DSV-Adlerinnen rund um Selina Freitag die Chance auf die Wiedergutmachung nach dem mauen Saisonstart.",
       "date": "Tue, 24 Nov 2026 16:48:19 +0100",
       "category": "Sport"
     },
@@ -1155,13 +1169,6 @@
       "text": "Heute geht es los: Bei drei Vollmonden - im November, Dezember und Januar - wird der Mond der Erde besonders nahe sein. Das macht sie zu sogenannten Supermonden. Was genau steckt dahinter? Von Heike Westram.",
       "date": "Tue, 24 Nov 2026 13:55:34 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit - Stadt Remscheid",
-      "uri": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa0s1Y2w1LVZFRnFxcHN4dER4V0lDU1lsV0xGNzE2Y0RtNFhFUFNkdUlJdE1qLU9pMGJVd3RLa0lTNHZ4eEV6RS10VTdkdTVxc2JFSDJiN2JHV2J5MDVmVTNkOHhKVGstRHRDWnNrR1RjUTNXZEw0WG1MWmNzSTRNWlQxRnBZc0JWdm5UdmR2NTFyNjIwb2tYeGFLUQ?oc=5",
-      "text": "Wunschbaum | Aktion der Stadt Remscheid startet zur Adventszeit  Stadt Remscheid",
-      "date": "Tue, 24 Nov 2026 07:25:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Zehn Jahre Friedensvertrag: Kolumbien so polarisiert wie lange nicht",
@@ -1176,6 +1183,13 @@
       "text": "Bereits im April hatten Deutschland und die Ukraine vereinbart, militärisch enger zusammenzuarbeiten - etwa beim Drohnenbau. Verteidigungsminister Pistorius wurde nun konkreter. Mit Blick auf mögliche russische Angriffspläne im All mahnte er zur Ruhe.",
       "date": "Tue, 24 Nov 2026 02:46:30 +0100",
       "category": "Welt"
+    },
+    {
+      "title": "Frostwarnung für die Stadt Remscheid, die Stadt Solingen und weitere Gebiete - tixio - Nachrichten",
+      "uri": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRUp3T3JQQkxiZm9NZllwZk1SMm1JZHlpS2pmZnlMVC00Zm5vVEtjMlZjMkZwTzVaWU41RWt2YzdUUGc2OVpOVmVPT1l2RzlpWnZiOXkzaEV1bjE3NlhLaUtiZ3BjM3VkT2s5cUl1VHRaTWdFc1gyTmY3elZqN2lQNkR5aXB5N01WT3ZuZml4a19kQnh6ejNJZi1SYW5QWnNCdFROQ1hrNEJGQzdudlBkbk5B?oc=5",
+      "text": "Frostwarnung für die Stadt Remscheid, die Stadt Solingen und weitere Gebiete  tixio - Nachrichten",
+      "date": "Mon, 23 Nov 2026 23:54:20 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
@@ -1241,18 +1255,18 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Handelsverband hofft auf gutes Weihnachtsgeschäft - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkV6NExCUVU2Z2dZekI2ZEVqR0pvb2lEMmNrc251ZGk4XzRqMm1BOUNYbUxZLWtPLXc4SEhHSGpabTRkS2hNYmVMR1BXOTRpU0c3Wi1BMmdiaENmY29wcEZNWWhwUHRGMmNTQnh5bWcxVmVkQllnby1Mbnh1NnR6ZTZsM1Q1SWJxRWVNQ09oQmVxTVpM?oc=5",
+      "text": "Handelsverband hofft auf gutes Weihnachtsgeschäft  Radio RSG",
+      "date": "Mon, 23 Nov 2026 05:05:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Krieg gegen die Ukraine: Tote nach Angriff auf Mehrfamilienhaus",
       "uri": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
       "text": "Das russische Militär geht weiter unvermindert gegen die Zivilbevölkerung in der Ukraine vor. Mindestens zehn Menschen wurden getötet, als in der Nacht zu Sonntag ein Wohnhaus in der Region Kiew angegriffen wurde.",
       "date": "Mon, 23 Nov 2026 05:43:07 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "DMV: IG Metall streikt im früheren Mannesmann-Werk in Remscheid - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUzJTcWgxVXdBN2lHa19td0NHSjlWdVJqVy0zeTJSVTlQTUFfQ0tCWjRTV1ViY2pvb3I5V0RNX3pwZUVTcTNrb3ZGSHVMMGtvX25XV1ZSZi14MUljcHJKVHJGOU1UWlNLajFpVklGeHNCU3pZcDlDSHExR0ExVmJNb3ZJR1MzR1lGbGlfaTVUcFBsQVJTM2VWQUhSVVo0UGE5MGpxakFwRE92OGhyRWpJNW4ybG1RemxId1dZc3dXWlA2MWdPcC1sVHA2a0zSAegBQVVfeXFMT04td3k0Q3QxWFNlVFE3ZzJ3RUw1c1lHcTZFZkZRT3JTeTVudE12aVZMNXFha1JDME5TR2ZpUVltOU5YQU9iR0U3WFpnNWp5NDFpRTJhbHRYWFVFOVA3RmVxdElsZFZVbXlWLU1PQ0NLODYxelU3R0NZSWZPQVNPeDN4MWw3LURNN00zbGl1dnZPSUZybzl5VjVZZHgtMmp1dHF6angxNDFYUTZmMlZIUFE0cG5TcHViY0YyNnU5MUttb01zNFdMZWVRZjBJOWZocnJjTUR0a3ltdEFMS1kyMUxfWG1makl6LQ?oc=5",
-      "text": "DMV: IG Metall streikt im früheren Mannesmann-Werk in Remscheid  RGA",
-      "date": "Sun, 22 Nov 2026 16:06:17 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Sonde \"BepiColombo\" erreicht Merkur-Umlaufbahn",
@@ -1262,10 +1276,17 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Weihnachtsbasar der JVA Remscheid - Justiz NRW",
-      "uri": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wNzczUWJPdjdNWGUzSm54c2xyaWhDMVFGX3kxQVB2N0Y0NUtLZDJYeG1qNGVjVWdhLVlMbF9kaDkxa1FWdDJWZzUzOWduQXZESU5VVUhn?oc=5",
-      "text": "Weihnachtsbasar der JVA Remscheid  Justiz NRW",
-      "date": "Sat, 21 Nov 2026 08:00:00 GMT",
+      "title": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen - RGA",
+      "uri": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWx1R0hPWVBHbTdlVUdfMlYxUDZRNklqWnpIVElwTmVFd2JxRG1CLUlrZUtnQm1TUVBxUGxFUHF1QVNWMGNMaGJxdVVqeFREN1VKbXBlZEJfM3hZb2pWSFFyWUhnUHlOWHF6M2pvWTF4SEdPZHVKcnFvYjlzU1VMYWFySTBFc3laTzdaWmxCYVJPODlGaTlIZlJ3ZUNxNWJVenBzcmJZLV9oeWhjbnNSeU9RcDRnbWN5VXZzZkVwbWUwZw?oc=5",
+      "text": "Weihnachtsbasar: Wenn plötzlich alle in den Knast wollen  RGA",
+      "date": "Sat, 21 Nov 2026 11:47:12 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Sport am Wochenende - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyVmZ2VmZWSTI1S0lfT3dKWTlRMFllY2lERXVQU0RkREt5clFINDZTdEdwTTJlVzJ2WW1oRDZlUWhZVWd0Y3NsUmMwVkxBbkY0YWpaTl9mVS02WDZQQWFzY2p6Wm9lMDY0UFU4?oc=5",
+      "text": "Sport am Wochenende  Radio RSG",
+      "date": "Fri, 20 Nov 2026 16:27:00 GMT",
       "category": "Remscheid"
     },
     {
@@ -1332,6 +1353,20 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Livestream - 3. Liga: Würzburger Kickers gegen Fortuna Düsseldorf",
+      "uri": "https://www.sportschau.de/fussball/bundesliga3/wuerzburger-kickers-gegen-fortuna-duesseldorf,livestream-3liga-wuerzburg-duesseldorf-100.html",
+      "text": "Am 14. Spieltag der 3. Liga kommt es zum Duell zwischen den Würzburger Kickers und Fortuna Düsseldorf. Das Spiel im Livestream des BR.",
+      "date": "Fri, 13 Nov 2026 11:43:09 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Livestream - 3. Liga: 1. FC Saarbrücken gegen Alemannia Aachen",
+      "uri": "https://www.sportschau.de/fussball/bundesliga3/1-fc-saarbruecken-gegen-alemannia-aachen,livestream-3liga-saarbruecken-aachen-100.html",
+      "text": "Am 14. Spieltag der 3. Liga kommt es zum Duell zwischen dem 1. FC Saarbrücken und Alemannia Aachen. Das Spiel im Livestream des SR.",
+      "date": "Fri, 13 Nov 2026 11:40:48 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Skispringen der Frauen",
       "uri": "https://www.sportschau.de/wintersport/skispringen-der-frauen,livestream-wintersport-skispringen-frauen-100.html",
       "text": "Das Skispringen der Frauen in Hinzenbach. Es kommentiert Philipp Sohmer.",
@@ -1344,41 +1379,6 @@
       "text": "Das deutsche Paar Hase/Volodin hat den Grand Prix in Tokio überlegen gewonnen. Ab 11.30 Uhr läuft die Kür der Männer mit Ilja Malinin. Daniel Weiss kommentiert.",
       "date": "Thu, 12 Nov 2026 10:38:14 +0100",
       "category": "Sport"
-    },
-    {
-      "title": "Stadt Remscheid verpasst Kauf von Schrottimmobilie - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVTJ5U0hYbFJBbFZTVEdmbHRXRW5YUzAzUDduVWtjWFNmTk9Gd1BNZDFFMjg5WHFGRFBYcHVkbDYyaFdqcWJ1ZGo5dHZ2NE5oWXZHVWxFVzFsY191TmVxd1B5R1VMN01QSDZXS0hrQl9pZTRmZjBnT2FRdnRBeWxJOWJlNlE1d0tJNTRvUFVJSjlyWmNv?oc=5",
-      "text": "Stadt Remscheid verpasst Kauf von Schrottimmobilie  Radio RSG",
-      "date": "Wed, 11 Nov 2026 15:43:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Remscheider SilberRock - Stadt Remscheid",
-      "uri": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRDBQZ3JtNTNfaTh0Q0NZZ2RxVWJuNEZBSXpZUmthOXZDYTluQVpUM0xmbk1LU0RlaERIaXQwdmR3NnNzUDZnNmwxNThlMldKQVVVS2ZxLXQ1M0M3QmU4cDJCb0l2TlhMaDVhQ3BoZF9rZ09vWXhCd2psb3NCWnFuQmp2ZDUwVmhZTnR1aU1n?oc=5",
-      "text": "Remscheider SilberRock  Stadt Remscheid",
-      "date": "Tue, 10 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Gedore schließt einen Standort in Remscheid - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjZOTmpGT2IySlJqeVBCMFI1aXV2Z3FwM200VTYtRnYtMXZsSFBnZldhM2gzTFRaSXk4Z2MzbXZmWFdMSnpmNnQyV1ZsWWc2NzBERkt3Q1Y5NGlJYXdjclRnamhpeTRwQUVsRE81WGVRM2NsVk5vY2tibkhrSU1xQVdOSEtsdUdfX0pYUw?oc=5",
-      "text": "Gedore schließt einen Standort in Remscheid  Radio RSG",
-      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam - Deutscher Judo-Bund",
-      "uri": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5iMmFHbVV6ZVIza1V5VVFFYlhBQVdWZWZGV0cwZnFwWmVIakoxcDFYRGJaYkNxR3pxSE81dnBrcGFfeTVsbFFPQU5qWEZXNTdwUmxNS3F5UFhSTU5RdllPcE4xR2JuREFheWhFS0toNjEtNU5kZ25Ddy1aczF2M3dxc2ZwTWtlRXV2UjhnTm94QkZxT3B0Rm1Bbk1nSDY0?oc=5",
-      "text": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam  Deutscher Judo-Bund",
-      "date": "Thu, 05 Nov 2026 19:51:55 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Studie sieht Solingen und Remscheid wenig zukunftsfähig - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEhrRUFkNV9SMV9KZmRpTDl2R3VhOFA4RWxfMlQ0UnNTeE9MSm5zZlpMNFNtMDVmTVh4Z2lDUVlVakwtUXVsUi1xYU9kRk05UF9YODJPb3NVTk9uakJuanlER2VCcHZuLVZaLXZBR1UwNXR1NW83azdzQVh6a0ZpSDN4MmZuaVRnaWt2dF9GbHAxM21ZS3VUaTRaUE0?oc=5",
-      "text": "Studie sieht Solingen und Remscheid wenig zukunftsfähig  Radio RSG",
-      "date": "Thu, 05 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
@@ -1395,18 +1395,18 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "\"Heizungshammer\" oder Vorteil? Wärmepumpe im 122 Jahre alten Haus - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREpYWDlXTjZ3U0pRN2R1SHplVV9ZX0VtUzNCaWVjTWdNd0k1V01KWllreFRVcHplZWh3TkJQX3pUS1UtVUFibUd1R0JDbERPdmtLS0UtRElxOUhXU18zeW5UWlhhdUhMTEpOSmQ4T0FoeFhYSWhIQ3k2aWVJOXBjOFkxX2M2bjdlb1U2aE5TbFdyVl8z?oc=5",
-      "text": "\"Heizungshammer\" oder Vorteil? Wärmepumpe im 122 Jahre alten Haus  WDR",
-      "date": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "uri": "https://www.tagesschau.de/video/video-1675930.html",
       "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "date": "Sun, 01 Nov 2026 09:01:01 +0100",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Nach Eskalation - Remscheid will durchgreifen - WDR",
+      "uri": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekE0aEhqMVMyeHY5RV93LUtJSVpUaG5HeTJHOVAwZEpOWF9Cdl9YVmlfbUFqcUdPdUt2Qkp1WTIzN2d6MGxfc3VjSEJFM1lFeHV4cjdaUldIRXdmWlZkVkRVWTRlRThLLXJScUEtaUs3M1BFRnd2N1hSbjl2XzJKdlk5MmTSAYMBQVVfeXFMTnpMX2h2Q2M0WG1oM2FacVVLdzgyXzVZOHFlUGRIVFlqcGxYUnhITU54SURjenpMUVNSODJKaDRuRko5YTN6WF9pQm1vS0hING1zQThqMWZLZVg2TjJJcjZIUnV5VmhVOWFob253U3B4RnJJV1NfeDJRbjl6ZFRnLTVIb2c?oc=5",
+      "text": "Nach Eskalation - Remscheid will durchgreifen  WDR",
+      "date": "Fri, 23 Oct 2026 07:00:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
