@@ -1,6 +1,48 @@
 {
-  "updated": "2026-11-28T09:10:28.373014+00:00",
+  "updated": "2026-11-28T10:10:39.686958+00:00",
   "articles": [
+    {
+      "title": "Deutsche Skeleton-Frauen brillieren im ersten Lauf beim Heimweltcup in Altenberg",
+      "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
+      "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
+      "date": "Sat, 28 Nov 2026 11:03:12 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Kölner Haie erzwingen Sieg gegen Straubing in der Overtime",
+      "uri": "https://www.sportschau.de/regional/wdr/wdr-koelner-haie-erzwingen-sieg-gegen-straubing-in-der-overtime-100.html",
+      "text": "Trotz zweimaligen Rückstands haben sich die Kölner Haie noch zu einem Sieg gegen die Straubing Tigers gearbeitet.",
+      "date": "Sat, 28 Nov 2026 11:01:19 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Mitarbeiter von Ärzte ohne Grenzen im Gazastreifen getötet",
+      "uri": "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
+      "text": "Israel wirft der Hamas im Gazastreifen immer wieder vor, sich als humanitäre Helfer auszugeben. Nun hat das Militär bei einem Angriff zwei Wachleute von Ärzte ohne Grenzen getötet. Die Hilfsorganisation zeigt sich empört.",
+      "date": "Sat, 28 Nov 2026 10:58:16 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Volksabstimmung: Darf die Schweiz bald einfacher Waffen verkaufen?",
+      "uri": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
+      "text": "Das Schweizer Recht erlaubt den Export von Rüstungsgütern nur unter engen Vorgaben. Das schwäche die Sicherheit des Landes, meint die Regierung. Sie will das ändern - und lässt die Schweizer am Sonntag darüber abstimmen. Von S. Biegger.",
+      "date": "Sat, 28 Nov 2026 10:45:23 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Der SC Freiburg ein Spitzenteam? Nur eine Sache fehlt noch",
+      "uri": "https://www.sportschau.de/regional/swr/swr-der-sc-freiburg-ein-spitzenteam-nur-eine-sache-fehlt-noch-100.html",
+      "text": "Der SC Freiburg hat sich in der Bundesliga oben festgesetzt. Nur in den Top-Spielen setzte es bislang Niederlagen. In der Partie gegen RB Leipzig soll nun der erste Big Win her. Und die Chancen stehen gut.",
+      "date": "Sat, 28 Nov 2026 10:19:38 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "uri": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+      "text": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+      "date": "Sat, 28 Nov 2026 10:14:19 +0100",
+      "category": "Allgemein"
+    },
     {
       "title": "Aufregung um Musiala: Was geht für den HSV gegen abgelenkten FC Bayern?",
       "uri": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Bayern-Muenchen,hsv-2434.html",
@@ -9,10 +51,31 @@
       "category": "Sport"
     },
     {
+      "title": "heise-Angebot: iX-Workshop: IT-Sicherheit: Systeme härten und Angriffe erkennen",
+      "uri": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Systeme-haerten-und-Angriffe-erkennen-11526179.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Üben Sie in einer praxisnahen Laborumgebung, wie Sie Schwachstellen in Ihrer IT-Infrastruktur finden und Ihre Systeme gegen Angriffe effektiv absichern können.",
+      "date": "2026-11-28T10:00:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "NYT verbannt Photoshop, Australien lockert Copyright – Fotonews der Woche 48/26",
+      "uri": "https://www.heise.de/news/NYT-verbannt-Photoshop-Australien-lockert-Copyright-Fotonews-der-Woche-48-26-11541028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "New York Times verbannt Photoshop, australische Fotografen wehren sich gegen KI-freundliche Copyright-Pläne, und die Royal Photographic Society kürt die Besten.",
+      "date": "2026-11-28T10:00:00+01:00",
+      "category": "Technik"
+    },
+    {
       "title": "Wie ein Skispringer zur Legende wurde - und fast daran zerbrach",
       "uri": "https://www.sportschau.de/regional/swr/swr-being-sven-hannawald-wie-ein-skispringer-zur-legende-wurde-und-fast-daran-zerbrach-100.html",
       "text": "Die ARD-Dokuserie \"Being Sven Hannawald\" begleitet den früheren Skispringer auf seinem Weg an die Weltspitze und schließlich in eine Klinik, die ihn wieder zurück ins Leben holt.",
       "date": "Sat, 28 Nov 2026 09:44:07 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live: 10 km Einzel der Männer in Ruka",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/nordische-kombination/co786/ruka/ma12318967/liveticker-list",
+      "text": "Beim Auftakt-Weltcup ist Vinzenz Geiger noch knapp am Podest vorbeigeschrammt. Heute gibt es die nächste Chance.",
+      "date": "Sat, 28 Nov 2026 09:36:46 +0100",
       "category": "Sport"
     },
     {
@@ -63,13 +126,6 @@
       "text": "Wie Ihr mit Jellyfin Eure eigene Mediathek baut und mit Plasma Bigscreen einen DIY-Wohnzimmer-PC – darum geht es diese Woche in c’t uplink.",
       "date": "2026-11-28T06:30:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
-      "uri": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
-      "text": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
-      "date": "Sat, 28 Nov 2026 05:58:25 +0100",
-      "category": "Allgemein"
     },
     {
       "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
@@ -146,13 +202,6 @@
       "uri": "https://www.sportschau.de/regional/ndr/thw-kiel-arbeitet-sich-gegen-bergischen-hc-zum-sieg,thw-kiel-596.html",
       "text": "Der THW Kiel hat in der Handball-Bundesliga einen glanzlosen, aber wichtigen Sieg gegen den Bergischen HC gefeiert.",
       "date": "Fri, 27 Nov 2026 22:00:52 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Kölner Haie erzwingen Sieg gegen Straubing in der Overtime",
-      "uri": "https://www.sportschau.de/regional/wdr/wdr-koelner-haie-erzwingen-sieg-gegen-straubing-in-der-overtime-100.html",
-      "text": "Trotz zweimaligen Rückstands haben sich die Kölner Haie noch zu einem Sieg gegen die Straubing Tigers gearbeitet.",
-      "date": "Fri, 27 Nov 2026 22:00:00 +0100",
       "category": "Sport"
     },
     {
@@ -415,13 +464,6 @@
       "category": "Sport"
     },
     {
-      "title": "Fans von Marseille stürmen Block von Lewski Sofia",
-      "uri": "https://www.sportschau.de/fussball/europaleague/fans-von-marseille-stuermen-block-von-lewski-sofia,om-lewski-100.html",
-      "text": "Fans von Olympique Marseille haben beim Spiel der Europa League den Gästeblock von Lewski Sofia gestürmt. Fünf Anhänger der Bulgaren mussten ins Krankenhaus.",
-      "date": "Fri, 27 Nov 2026 14:59:11 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Wer 2027 im Haushalt mehr Geld bekommt - und wer weniger",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html",
       "text": "Der Bundestag hat den Haushalt für 2027 beschlossen. Dabei gibt es deutliche Verschiebungen: mehr Geld für Verteidigung und Soziales, weniger für Gesundheit und Entwicklung. Wer profitiert, wer verliert?",
@@ -569,13 +611,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Schwindel und Übelkeit: Einige Nutzer haben mit Apples OLED-MacBook ein Problem",
-      "uri": "https://www.heise.de/news/Schwindel-und-Uebelkeit-Einige-Nutzer-haben-mit-Apples-OLED-MacBook-ein-Problem-11539819.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Es gibt Menschen, die reagieren auf die Pulsweitenmodulation von OLEDs sensibel. Auch einige Käufer von Apples neuen Notebooks sollen betroffen sein.",
-      "date": "2026-11-27T12:13:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
       "uri": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
       "text": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
@@ -602,13 +637,6 @@
       "text": "Die Koalition ringt weiter um die Rentenreform. Arbeitsminister Schweitzer ist optimistisch, dass es bald zu einer Einigung kommt. Es lägen gute Vorschläge auf dem Tisch, sagte er im Bundestag. Dort wurde der Etat seines Ministeriums debattiert.",
       "date": "Fri, 27 Nov 2026 12:07:08 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Hat Shein seinen Zenit überschritten? Was die aktuellen Zahlen verraten",
-      "uri": "https://www.heise.de/news/Hat-Shein-seinen-Zenit-ueberschritten-Was-die-aktuellen-Zahlen-verraten-11540528.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Die aktuellen Zahlen zeigen: Shein hat im dritten Quartal über ein Viertel seines Europageschäfts eingebüßt. Ist der China-Boom im E-Commerce vorbei?",
-      "date": "2026-11-27T12:05:00+01:00",
-      "category": "Technik"
     },
     {
       "title": "Frost verzögert Baustelle in Remscheid - Radio RSG",
@@ -671,7 +699,7 @@
       "uri": "https://www.tagesschau.de/wirtschaft/verbraucher/ki-agenten-einkaufen-handel-100.html",
       "text": "Das Angebot an digitalen Einkaufshelfern steigt. Experten sehen Wachstumspotenzial. Doch Verbraucherschützer warnen vor Risiken, die Politik vor weiterem Ladensterben in den Städten. Von Heidi Radvilas.",
       "date": "Fri, 27 Nov 2026 10:32:49 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "Update Wirtschaft vom 27.11.2026",
@@ -685,7 +713,7 @@
       "uri": "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html",
       "text": "Das BSW ringt um den Kurs zur AfD: Die Parteispitze betont Distanz, in Sachsen-Anhalt kommen sich beide Parteien aber recht nahe. Bringt der Parteitag in Dresden einen Richtungsentscheid? Von Maximilian Ulrich.",
       "date": "Fri, 27 Nov 2026 09:22:38 +0100",
-      "category": "Allgemein"
+      "category": "Deutschland"
     },
     {
       "title": "Textilbranche: Einigung auf Mindestlohn-Erhöhung in Bangladesch",
@@ -1045,13 +1073,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "EU-Parlament stimmt neuen Arzneimittelregeln zu",
-      "uri": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html",
-      "text": "Ob Antibiotika oder Fiebersäfte für Kinder: Immer wieder fehlen in Europa Medikamente - Grund ist auch die große Abhängigkeit von Asien. Das will die EU ändern. Das Parlament stimmte neuen Arzneimitteln-Regeln zu.",
-      "date": "Wed, 25 Nov 2026 15:00:56 +0100",
-      "category": "Welt"
-    },
-    {
       "title": "tagesschau in Einfacher Sprache startet WhatsApp-Kanal",
       "uri": "https://www.tagesschau.de/inland/gesellschaft/einfache-sprache-102.html",
       "text": "Langsamer gesprochen, erklärte Fachbegriffe, kaum Nebensätze - seit 2024 gibt es die tagesschau in Einfacher Sprache. Zehntausende nutzen sie jeden Tag. Nun wird das Angebot um einen WhatsApp-Kanal erweitert.",
@@ -1262,6 +1283,13 @@
       "category": "Wirtschaft"
     },
     {
+      "title": "Sophie-Scholl ist Remscheids erste „Schule der Vielfalt“ - RGA",
+      "uri": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSElNSmlMeXBWRFBCTTNMYjhMZTRwQVRwM1U2c2tIVV8tMTAwZVdzV2o1V3FxNV9VRmJ2eVlyVS1PcWdpVm15aXItZVdIeWdyUHNmTUVMWmFYaEV3Tk9aMFdVRTBtbHYzTklZd0tsNk5IYWE2M2pmSGI3RzJ6YWZnTnZqckloZXkyYzVVZ0ZjbVhYa3lqNUQ1OFhlUjNFVHRkSFllZGdidUhldXdHcUgxcDgwTE05MW9lLXVJWE5aYVrSAdwBQVVfeXFMUDNyYjVxOXRZVWVPUVQ2M21SUEhSbEhzcHpJaFRneTk4SGZIR19OLWhRVzJKdThuM0Y1SWstcUJoVVk1eHdzUTB2LW5lZjNKVW9uUXcwMWVYUmprM2x3RHBaUHItYWwxR29NTFRSdnhna29FR0dCaHhkSGMybzllWll1WmRLMm1DUTJMMHhiY1dRMFA0N1hZUHYtZTdnLUh4RTJZRmVka1JDdlVKMEMtNUhKNzBSYjJCZmVtS29PcWZxVHJod2hoOEZFVlpIVDF6TDYzYm1RZ1J6Z2NMWA?oc=5",
+      "text": "Sophie-Scholl ist Remscheids erste „Schule der Vielfalt“  RGA",
+      "date": "Mon, 23 Nov 2026 09:12:09 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Riemannsche Vermutung: Mathe-Jahrhundertproblem mit KI gelöst?",
       "uri": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
       "text": "Die Riemannsche Vermutung über Primzahlen gilt als eines der größten Probleme der Mathematik. Nun könnte sie mithilfe der KI von Anthropic gelöst worden sein - fast zeitgleich mit dem Börsengang des US-Unternehmens.",
@@ -1309,13 +1337,6 @@
       "text": "Von Kriegen bis Klimawandel - Jugendliche sehen sich stärker als frühere Generationen durch einen Mix aus Dauerkrisen bedroht. Von der Politik fühlen sie sich im Stich gelassen und fürchten um ihre Zukunft. Von Sven Kästner.",
       "date": "Fri, 20 Nov 2026 12:40:13 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Polizei durchsucht Gebäude in Remscheid und Solingen - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFVmbzdNYm05OWlhcnQ3Ym5WU1JibjljQWdZSm11alVhOXdVeFhJaU9nM0hfa2sxZFhUZE5NenlvRGowY2ZUQ3MwekMyRzlyRC1YYnoyNDlRczRsdWIyUXQxZVlrUkZ0ZHFoQ0t0Xy1FVVphcnBYdkNmcmxpLURyVloxbWRoVU1URUFuaXF0WHRzRVRzTDB1VA?oc=5",
-      "text": "Polizei durchsucht Gebäude in Remscheid und Solingen  Radio RSG",
-      "date": "Thu, 19 Nov 2026 09:48:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal - Wuppertaler Rundschau",
@@ -1372,20 +1393,6 @@
       "text": "Sie fallen nicht auf und sind einfach zu bekommen: sogenannte Baller-Liquids - starke Drogen für die E-Zigarette. Die Flüssigkeiten werden gezielt an Teenager verkauft. Doch ihr schneller Rausch kann lebensbedrohlich sein. Von Jenny Witt.",
       "date": "Sun, 15 Nov 2026 05:11:26 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Skeleton der Frauen",
-      "uri": "https://www.sportschau.de/wintersport/skeleton-der-frauen,livestream-wintersport-skeleton-frauen-100.html",
-      "text": "Skeleton der Frauen beim Weltcup-Auftakt in Altenberg. Es kommentiert Eik Galley.",
-      "date": "Thu, 12 Nov 2026 10:38:39 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Die Kür der Frauen beim Grand Prix in Tokio",
-      "uri": "https://www.sportschau.de/wintersport/einzelkueren-und-die-kuer-der-paare,livestream-wintersport-eiskunstlauf-100.html",
-      "text": "Das deutsche Paar Hase/Volodin hat den Grand Prix in Tokio überlegen gewonnen. Jetzt läuft die Kür der Frauen. Daniel Weiss kommentiert.",
-      "date": "Thu, 12 Nov 2026 10:38:14 +0100",
-      "category": "Sport"
     },
     {
       "title": "Jeder vierte Jugendliche bewegt sich laut WHO kaum",
