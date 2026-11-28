@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-28T03:13:52.890131+00:00",
+  "updated": "2026-11-28T04:21:45.374225+00:00",
   "articles": [
+    {
+      "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
+      "uri": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
+      "text": "Malawi leidet unter einer extremen Treibstoffkrise. Die fragile Wirtschaft hängt vom Tabakexport ab - zu schwachen Deviseneinnahmen kommt die Lage an der Straße von Hormus hinzu. Die Krise wirkt sich auf alle Lebensbereiche aus. Von C. Hauck.",
+      "date": "Sat, 28 Nov 2026 04:34:41 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "US-Militär beschießt Frachter im Golf von Oman",
+      "uri": "https://www.tagesschau.de/ausland/asien/iran-usa-frachter-beschuss-golf-oman-100.html",
+      "text": "Im Golf von Oman hat das US-Militär nach eigenen Angaben ein Handelsschiff beschossen. Die Besatzung habe versucht, die US-Blockade iranischer Häfen zu durchbrechen. Das Schiff sei manövrierunfähig, die Crew unverletzt.",
+      "date": "Sat, 28 Nov 2026 04:27:38 +0100",
+      "category": "Allgemein"
+    },
     {
       "title": "Durchsuchung bei Le Pens früherem Bürochef",
       "uri": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
@@ -671,7 +685,7 @@
       "uri": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-hacker-angriff-100.html",
       "text": "Mitarbeiter des Softwareriesen sollen prüfen, ob sie Zugangsdaten ändern müssen: Laut einem Medienbericht gab es einen Hackerangriff auf SAP. Das aber will der DAX-Konzern nicht bestätigen.",
       "date": "Fri, 27 Nov 2026 07:48:30 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "Berufsorientierung in Hückeswagen und Remscheid: Montanusschule und Zukunftscampus starten Kooperation - RP Online",
@@ -685,7 +699,7 @@
       "uri": "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
       "text": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von F. Welz.",
       "date": "Fri, 27 Nov 2026 06:43:42 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land - Radio RSG",
@@ -1157,13 +1171,6 @@
       "category": "Welt"
     },
     {
-      "title": "Haiti: El Salvadors Präsident Bukele wegen Militäreinsatz gefeiert",
-      "uri": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
-      "text": "In Haiti konnten auch internationale Missionen wenig an der grassierenden Gewalt ändern. Jetzt griff El Salvadors Präsident Bukele ein - mit mehreren Tausend Soldaten, ohne UN-Mandat. Und wird wie ein Volksheld gefeiert. Von J. Barke.",
-      "date": "Tue, 24 Nov 2026 01:53:40 +0100",
-      "category": "Welt"
-    },
-    {
       "title": "Wie der Klimawandel den Winterschlaf der Tiere verändert",
       "uri": "https://www.tagesschau.de/wissen/winterschlaf-klimawandel-tiere-100.html",
       "text": "Ungewöhnlich warme Winter, trockene Sommer - das hat auch Folgen für den Winterschlaf der Tiere. Igel, Siebenschläfer und Fledermäuse entwickeln dabei ganz unterschiedliche Strategien. Von Stefanie Peyk.",
@@ -1339,17 +1346,17 @@
       "category": "Remscheid"
     },
     {
+      "title": "Gedore schließt einen Standort in Remscheid - Radio RSG",
+      "uri": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjZOTmpGT2IySlJqeVBCMFI1aXV2Z3FwM200VTYtRnYtMXZsSFBnZldhM2gzTFRaSXk4Z2MzbXZmWFdMSnpmNnQyV1ZsWWc2NzBERkt3Q1Y5NGlJYXdjclRnamhpeTRwQUVsRE81WGVRM2NsVk5vY2tibkhrSU1xQVdOSEtsdUdfX0pYUw?oc=5",
+      "text": "Gedore schließt einen Standort in Remscheid  Radio RSG",
+      "date": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "category": "Remscheid"
+    },
+    {
       "title": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam - Deutscher Judo-Bund",
       "uri": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSE5iMmFHbVV6ZVIza1V5VVFFYlhBQVdWZWZGV0cwZnFwWmVIakoxcDFYRGJaYkNxR3pxSE81dnBrcGFfeTVsbFFPQU5qWEZXNTdwUmxNS3F5UFhSTU5RdllPcE4xR2JuREFheWhFS0toNjEtNU5kZ25Ddy1aczF2M3dxc2ZwTWtlRXV2UjhnTm94QkZxT3B0Rm1Bbk1nSDY0?oc=5",
       "text": "Remscheid bezwingt nach 0:3-Rückstand Meister Potsdam  Deutscher Judo-Bund",
       "date": "Thu, 05 Nov 2026 19:51:55 GMT",
-      "category": "Remscheid"
-    },
-    {
-      "title": "Studie sieht Solingen und Remscheid wenig zukunftsfähig - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeEhrRUFkNV9SMV9KZmRpTDl2R3VhOFA4RWxfMlQ0UnNTeE9MSm5zZlpMNFNtMDVmTVh4Z2lDUVlVakwtUXVsUi1xYU9kRk05UF9YODJPb3NVTk9uakJuanlER2VCcHZuLVZaLXZBR1UwNXR1NW83azdzQVh6a0ZpSDN4MmZuaVRnaWt2dF9GbHAxM21ZS3VUaTRaUE0?oc=5",
-      "text": "Studie sieht Solingen und Remscheid wenig zukunftsfähig  Radio RSG",
-      "date": "Thu, 05 Nov 2026 08:00:00 GMT",
       "category": "Remscheid"
     },
     {
