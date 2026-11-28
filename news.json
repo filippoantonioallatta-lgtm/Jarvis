@@ -1,6 +1,27 @@
 {
-  "updated": "2026-11-28T08:00:56.503893+00:00",
+  "updated": "2026-11-28T09:10:28.373014+00:00",
   "articles": [
+    {
+      "title": "Aufregung um Musiala: Was geht für den HSV gegen abgelenkten FC Bayern?",
+      "uri": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Bayern-Muenchen,hsv-2434.html",
+      "text": "Während es für die Hamburger heute um Wiedergutmachung geht, dreht sich beim Rekordmeister derzeit alles um Jamal Musiala.",
+      "date": "Sat, 28 Nov 2026 10:03:07 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Wie ein Skispringer zur Legende wurde - und fast daran zerbrach",
+      "uri": "https://www.sportschau.de/regional/swr/swr-being-sven-hannawald-wie-ein-skispringer-zur-legende-wurde-und-fast-daran-zerbrach-100.html",
+      "text": "Die ARD-Dokuserie \"Being Sven Hannawald\" begleitet den früheren Skispringer auf seinem Weg an die Weltspitze und schließlich in eine Klinik, die ihn wieder zurück ins Leben holt.",
+      "date": "Sat, 28 Nov 2026 09:44:07 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
+      "uri": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
+      "text": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
+      "date": "Sat, 28 Nov 2026 09:21:27 +0100",
+      "category": "Allgemein"
+    },
     {
       "title": "So einfach kann man schlüssellose Autos mit Keyless Go knacken",
       "uri": "https://www.tagesschau.de/wirtschaft/digitales/keyless-cars-sicherheitsluecke-100.html",
@@ -219,13 +240,6 @@
       "category": "Allgemein"
     },
     {
-      "title": "Julia Tannheimer stark bei Sieg von Elvira Öberg",
-      "uri": "https://www.sportschau.de/wintersport/biathlon/julia-tannheimer-ueberzeugt-bei-oeberg-sieg,biathlon-kontiolahti-einzel-frauen-100.html",
-      "text": "Julia Tannheimer läuft beim Weltcupauftakt mit einer starken Leistung auf Rang sieben - den Sieg holt die Schwedin Elvira Öberg vor der Finnin Sonja Leinamo.",
-      "date": "Fri, 27 Nov 2026 18:05:30 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Signal blockiert Screenshots: Widerstand gegen KI-Überwachung im Betriebssystem",
       "uri": "https://www.heise.de/news/KI-Agenten-im-Betriebssystem-Datenschuetzer-schlagen-Alarm-wegen-Ueberwachung-11541373.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Autonome KI-Assistenten von Apple, Google und Microsoft können App-Schutzmechanismen umgehen. Signal blockiert deswegen bereits standardmäßig Screenshots.",
@@ -315,13 +329,6 @@
       "text": "Helge Schneider verbindet avancierten Jazz mit anarchischem Humor. 2027 geht der selbsternannte Klimperclown auf Abschiedstournee. Fragt sich nur: Meint er das ernst? Von Christoph Ohrem.",
       "date": "Fri, 27 Nov 2026 16:23:02 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Aufregung um Musiala: Was geht für den HSV gegen abgelenkten FC Bayern?",
-      "uri": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Bayern-Muenchen,hsv-2434.html",
-      "text": "Während es für die Hamburger am Samstag um Wiedergutmachung geht, dreht sich beim Rekordmeister derzeit alles um Jamal Musiala.",
-      "date": "Fri, 27 Nov 2026 16:19:03 +0100",
-      "category": "Sport"
     },
     {
       "title": "Nächster Rückschlag: Bayerns Musiala erneut verletzt",
@@ -434,13 +441,6 @@
       "text": "Der KI-Konzern Anthropic ging mit großen Erwartungen an die Börse. Der Start der Aktie in New York verlief spektakulär. Doch nach einer Woche fällt die Bilanz alles andere als rosig aus.",
       "date": "Fri, 27 Nov 2026 14:44:03 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "Tages-Update am Freitag",
-      "uri": "https://www.sportschau.de/podcasts/sportschau-update/tages-update-am-freitag,audio-tages-update-am-freitag-244.html",
-      "text": "Deutscher Doppelsieg im Monobob, aber durchwachsene Ergebnisse im Langlauf +++ Hase und Volodin sichern sich mit sechs Punkten Vorsprung den ersten Platz im Eiskunstlauf +++ Bitteres Davis-Cup-Aus: Deutschland scheitert mit Zverev im Viertelfinale an Großbritannien.",
-      "date": "Fri, 27 Nov 2026 14:42:17 +0100",
-      "category": "Sport"
     },
     {
       "title": "GrapheneOS: Proof of Concept für RCS-Messenger ohne Google Messages",
@@ -692,7 +692,7 @@
       "uri": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bangladesch-fast-fashion-100.html",
       "text": "Beschäftigte der Textilbranche in Bangladesch fordern eine deutliche Verbesserung ihrer Lebens- und Arbeitsbedingungen. Inzwischen gibt es eine erste Einigung. Doch wie viel bleibt den Menschen zum Leben? Von Severine Naeve.",
       "date": "Fri, 27 Nov 2026 08:59:40 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "\"Machen ernst\" - Fanszenen protestieren für Kompassmodell",
@@ -812,13 +812,6 @@
       "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?",
       "date": "Thu, 26 Nov 2026 17:12:10 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Rodeln der Männer im Doppelsitzer",
-      "uri": "https://www.sportschau.de/wintersport/rodeln/rodeln-der-maenner-im-doppelsitzer,livestream-wintersport-rodeln-doppelsitzer-maenner-100.html",
-      "text": "Die deutschen Rodler starten in Winterberg in die neue Weltcupsaison. Zum Auftakt steht das Rennen im Doppelsitzer an. Es kommentiert Thomas Kunze.",
-      "date": "Thu, 26 Nov 2026 16:24:39 +0100",
-      "category": "Sport"
     },
     {
       "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
@@ -1367,11 +1360,25 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Livestream: Wintersport im Ersten",
+      "uri": "https://www.sportschau.de/wintersport/wintersport-im-ersten,livestream-wintersport-im-ersten-106.html",
+      "text": "Der Wintersport im Ersten unter anderem mit Eiskunstlauf, Biathlon und Rodeln.",
+      "date": "Mon, 16 Nov 2026 11:45:05 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Illegale Drogen in Vapes - \"Baller-Liquids\" gefährden Jugendliche",
       "uri": "https://www.tagesschau.de/wissen/gesundheit/vapes-baller-liquids-drogen-jugendliche-100.html",
       "text": "Sie fallen nicht auf und sind einfach zu bekommen: sogenannte Baller-Liquids - starke Drogen für die E-Zigarette. Die Flüssigkeiten werden gezielt an Teenager verkauft. Doch ihr schneller Rausch kann lebensbedrohlich sein. Von Jenny Witt.",
       "date": "Sun, 15 Nov 2026 05:11:26 +0100",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Skeleton der Frauen",
+      "uri": "https://www.sportschau.de/wintersport/skeleton-der-frauen,livestream-wintersport-skeleton-frauen-100.html",
+      "text": "Skeleton der Frauen beim Weltcup-Auftakt in Altenberg. Es kommentiert Eik Galley.",
+      "date": "Thu, 12 Nov 2026 10:38:39 +0100",
+      "category": "Sport"
     },
     {
       "title": "Die Kür der Frauen beim Grand Prix in Tokio",
