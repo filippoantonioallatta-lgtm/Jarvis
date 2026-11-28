@@ -1,12 +1,89 @@
 {
-  "updated": "2026-11-28T12:04:37.422795+00:00",
+  "updated": "2026-11-28T13:24:40.813941+00:00",
   "articles": [
     {
-      "title": "Langlauf: Victoria Carl bei Comeback weiter in guter Form",
+      "title": "Jetzt live - Hertha völlig losgelöst, Kiel verschießt und trifft doch",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3966/",
+      "text": "Während Dresden den ungeliebten FC St. Pauli empfängt, wird bei Hertha BSC die Freundschaft mit Karlsruhe gefeiert. Außerdem steht das Heim-Debüt von Mitch Kniat in Kiel an.",
+      "date": "Sat, 28 Nov 2026 14:24:04 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jusos wollen Frau ohne Regierungsamt an SPD-Spitze",
+      "uri": "https://www.tagesschau.de/inland/innenpolitik/spd-jusos-tuermer-klingbeil-bundeskongress-100.html",
+      "text": "Regieren und gleichzeitig die Partei führen: Das passt für die Jusos nicht mehr zusammen. Auf seinem Bundeskongress fordert der SPD-Nachwuchs eine klare Trennung der Ämter - und eine Frau an der Spitze.",
+      "date": "Sat, 28 Nov 2026 14:05:47 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Ab 16.30 Uhr live - Duisburg klarer Favorit in Großaspach",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/ma12242671/sg-sonnenhof-grossaspach_msv-duisburg/liveticker",
+      "text": "In der 3. Liga empfängt Sonnenhof-Großaspach den Tabellenführer MSV Duisburg und kämpft um Punkte im Tabellenkeller.",
+      "date": "Sat, 28 Nov 2026 14:04:33 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
+      "uri": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
+      "text": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
+      "date": "Sat, 28 Nov 2026 13:59:51 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Biathlon: Furioser Strelow führt Single-Mixed-Staffel auf Platz zwei",
+      "uri": "https://www.sportschau.de/wintersport/biathlon/furioser-strelow-fuehrt-single-mixed-staffel-auf-platz-zwei,biathlon-single-mixed-staffel-100.html",
+      "text": "Marlene Fichtner und Justus Strelow haben in der Single-Mixed-Staffel von Kontiolahti Rang zwei belegt und damit den guten Weltcupauftakt der deutschen Biathleten bestätigt.",
+      "date": "Sat, 28 Nov 2026 13:50:56 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
+      "uri": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
+      "text": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - in Bayern, im Sauerland und im Schwarzwald. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen.",
+      "date": "Sat, 28 Nov 2026 13:48:02 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Eiskunstlauf: Wunderkind Malinin triumphiert nach Weltrekord in Tokio",
+      "uri": "https://www.sportschau.de/wintersport/eiskunstlauf/malinin-triumphiert-nach-weltrekord-in-tokio,malinin-116.html",
+      "text": "Es war ein Feuerwerk der Eiskunstlaufkunst, aber einer thronte über allen: Ilia Malinin. Der \"Vierfachgott\" lief beim Grand Prix in Tokio zum Sieg.",
+      "date": "Sat, 28 Nov 2026 13:42:15 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
+      "uri": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
+      "text": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
+      "date": "Sat, 28 Nov 2026 13:35:00 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "BSW-Chef Fabio de Masi wirbt für Zusammenarbeit mit der AfD",
+      "uri": "https://www.tagesschau.de/inland/bsw-zusammenarbeit-afd-de-masi-100.html",
+      "text": "Das BSW berät in Dresden an diesem Wochenende über seinen künftigen Kurs. Der Streit um den Umgang mit der AfD droht die Partei zu entzweien. BSW-Chef de Masi wirbt für mehr Spielraum bei der Zusammenarbeit.",
+      "date": "Sat, 28 Nov 2026 13:20:29 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Datenleak zeigt Ausmaß russischer Verluste im Krieg gegen die Ukraine",
+      "uri": "https://www.tagesschau.de/ausland/europa/russland-rosstat-datenleak-hacker-100.html",
+      "text": "Russland hält die offiziellen Zahlen zu seinen Verlusten im Ukraine-Krieg unter Verschluss. Nun liefert ein Hackerangriff auf die Statistikbehörde Einblicke - und gibt Hinweise auf Hunderttausende getötete russische Soldaten. Von L. Becker.",
+      "date": "Sat, 28 Nov 2026 13:16:17 +0100",
+      "category": "Allgemein"
+    },
+    {
+      "title": "Rodeln: Loch hat Rekord im Visier",
       "uri": "https://www.sportschau.de/wintersport/aktuelles-zum-wintersport,liveblog-wintersport-100.html",
       "text": "Die wichtigsten Meldungen, die neuesten Ergebnisse, Rennberichte und alle News zur Wintersport-Saison 2026/27.",
-      "date": "Sat, 28 Nov 2026 12:48:06 +0100",
+      "date": "Sat, 28 Nov 2026 13:05:30 +0100",
       "category": "Sport"
+    },
+    {
+      "title": "heise-Angebot: iX-Workshop: Harness Engineering – Arbeitsrahmen für KI-Coding-Agenten gestalten",
+      "uri": "https://www.heise.de/news/iX-Workshop-Harness-Engineering-Arbeitsrahmen-fuer-KI-Coding-Agenten-gestalten-11533370.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Gute Prompts allein reichen nicht: Entscheidend sind Kontext, Werkzeuge, Regeln und die richtige Kontrolle.",
+      "date": "2026-11-28T13:00:00+01:00",
+      "category": "Technik"
     },
     {
       "title": "Live hören: Die Konferenz - 13. Spieltag | Fußball 2. Bundesliga",
@@ -44,7 +121,14 @@
       "category": "Sport"
     },
     {
-      "title": "Ab 14 Uhr live - Düsseldorf, Mannheim und Alemannia im Einsatz",
+      "title": "Xabi Alonso mit FC Chelsea in der Krise - Zweifel am Unbezweifelten",
+      "uri": "https://www.sportschau.de/fussball/premier-league/alonso-mit-chelsea-in-der-krise-zweifel-am-unbezweifelten,krise-chelsea-alonso-100.html",
+      "text": "Anfang 2026 verlor Xabi Alonso bei Real Madrid nach einem halben Jahr seinen Job. Jetzt ist der Ex-Leverkusener beim FC Chelsea Trainer und hat auch dort große Probleme.",
+      "date": "Sat, 28 Nov 2026 12:23:15 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Jetzt live - Düsseldorf, Mannheim und Alemannia im Einsatz",
       "uri": "https://www.sportschau.de/live-und-ergebnisse/fussball/deutschland-3-liga/se122607/2026-2027/ro322644/spieltag/md15/spiele-und-ergebnisse",
       "text": "Der Samstagnachmittag hat in der 3. Liga spannende Duelle zu bieten: Münster empfängt Verl, Würzburg trifft auf Düsseldorf und Aachen spielt in Saarbrücken um Zählbares.",
       "date": "Sat, 28 Nov 2026 12:14:33 +0100",
@@ -56,13 +140,6 @@
       "text": "Bundesligist Borussia Mönchengladbach gibt in Bremen den sicheren Sieg aus der Hand - auch aufgrund unglücklicher Wechsel.",
       "date": "Sat, 28 Nov 2026 12:09:17 +0100",
       "category": "Sport"
-    },
-    {
-      "title": "Mehrere Opfer bei Explosion nahe einer Schule in Afghanistan",
-      "uri": "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
-      "text": "Nahe einer Schule im Osten Afghanistans hat es eine Explosion gegeben. Durch die Detonation sind offenbar mehrere Schüler getötet worden. Die Behörden sprechen von Fahrlässigkeit.",
-      "date": "Sat, 28 Nov 2026 12:07:26 +0100",
-      "category": "Allgemein"
     },
     {
       "title": "Medienbericht: Telekom und Rheinmetall wollen Palantir Konkurrenz machen",
@@ -77,13 +154,6 @@
       "text": "Der Spritpreisdeckel soll den auslaufenden Tankrabatt ablösen und zunächst drei Monate gelten. Vor dem Kabinettsbeschluss könnte es noch Änderungen geben.",
       "date": "2026-11-28T11:35:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Jetzt live - Freundschaftsduell in Berlin, Dynamo gegen St. Pauli",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/konferenz/ac3966/",
-      "text": "Während Dresden den ungeliebten FC St. Pauli empfängt, wird bei Hertha BSC die Freundschaft mit Karlsruhe gefeiert. Außerdem steht das Heim-Debüt von Mitch Kniat in Kiel an.",
-      "date": "Sat, 28 Nov 2026 11:34:02 +0100",
-      "category": "Sport"
     },
     {
       "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
@@ -114,25 +184,18 @@
       "category": "Sport"
     },
     {
-      "title": "Jetzt live: Klassik-Sprint der Männer",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/langlauf/co742/ruka/ma12539928/liveticker-list",
-      "text": "Wer ist der erste Sprintsieger in dieser Saison? Vom deutschen Team hat sich nur Jan Stölben qualifiziert.",
-      "date": "Sat, 28 Nov 2026 10:07:13 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Jetzt live: Klassik-Sprint der Frauen",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/langlauf/co755/ruka/ma12539940/liveticker-list",
-      "text": "Laura Gimmler, Theresa Fürstenberg und Coletta Rydzek haben beim ersten Sprint-Weltcup der Saison die K.-o.-Runde erreicht. Reicht es für einen Top-Platz?",
-      "date": "Sat, 28 Nov 2026 10:07:13 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Aufregung um Musiala: Was geht für den HSV gegen abgelenkten FC Bayern?",
       "uri": "https://www.sportschau.de/regional/ndr/Bundesliga-Hamburg-HSV-Bayern-Muenchen,hsv-2434.html",
       "text": "Während es für die Hamburger heute um Wiedergutmachung geht, dreht sich beim Rekordmeister derzeit alles um Jamal Musiala.",
       "date": "Sat, 28 Nov 2026 10:03:07 +0100",
       "category": "Sport"
+    },
+    {
+      "title": "NYT verbannt Photoshop, Australien lockert Copyright – Fotonews der Woche 48/26",
+      "uri": "https://www.heise.de/news/NYT-verbannt-Photoshop-Australien-lockert-Copyright-Fotonews-der-Woche-48-26-11541028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "New York Times verbannt Photoshop, australische Fotografen wehren sich gegen KI-freundliche Copyright-Pläne, und die Royal Photographic Society kürt die Besten.",
+      "date": "2026-11-28T10:00:00+01:00",
+      "category": "Technik"
     },
     {
       "title": "heise-Angebot: iX-Workshop: IT-Sicherheit: Systeme härten und Angriffe erkennen",
@@ -142,11 +205,11 @@
       "category": "Technik"
     },
     {
-      "title": "NYT verbannt Photoshop, Australien lockert Copyright – Fotonews der Woche 48/26",
-      "uri": "https://www.heise.de/news/NYT-verbannt-Photoshop-Australien-lockert-Copyright-Fotonews-der-Woche-48-26-11541028.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "New York Times verbannt Photoshop, australische Fotografen wehren sich gegen KI-freundliche Copyright-Pläne, und die Royal Photographic Society kürt die Besten.",
-      "date": "2026-11-28T10:00:00+01:00",
-      "category": "Technik"
+      "title": "Jetzt live: Laufen der Männer in Ruka",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/nordische-kombination/co786/ruka/ma12318967/liveticker-list",
+      "text": "Beim Auftakt-Weltcup ist Vinzenz Geiger noch knapp am Podest vorbeigeschrammt. Heute gibt es die nächste Chance.",
+      "date": "Sat, 28 Nov 2026 09:36:46 +0100",
+      "category": "Sport"
     },
     {
       "title": "So einfach kann man schlüssellose Autos mit Keyless Go knacken",
@@ -175,13 +238,6 @@
       "text": "Sieben Fotografien, sieben Wege, Raum zu inszenieren: Die Bilder der Woche zeigen,  wie Perspektive und Komposition unterschiedliche Bildwirkungen erzeugen.",
       "date": "2026-11-28T08:00:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Flugverkehr am Airport Köln/Bonn nach Drohnensichtung zeitweise gestoppt",
-      "uri": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
-      "text": "Am Airport Köln/Bonn ist am späten Abend der Flugverkehr vorübergehend eingestellt worden. Anlass war eine gesichtete Drohne. Warum sie dort unterwegs war, ist unklar. Mittlerweile können die Flugzeuge wieder starten und landen.",
-      "date": "Sat, 28 Nov 2026 07:41:00 +0100",
-      "category": "Allgemein"
     },
     {
       "title": "Jellyfin und KDE Plasma Bigscreen statt teurer Streaming-Abos | c’t uplink",
@@ -226,46 +282,11 @@
       "category": "Sport"
     },
     {
-      "title": "Gummersbach setzt gegen Erlangen seine Siegesserie fort",
-      "uri": "https://www.sportschau.de/regional/wdr/wdr-gummersbach-setzt-seine-siegesserie-gegen-erlangen-fort-100.html",
-      "text": "Der VfL Gummersbach hat in der Handball-Bundesliga den sechsten Sieg in Serie gefeiert.",
-      "date": "Fri, 27 Nov 2026 23:39:43 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Schweitzer zu Plänen für Rentenreform: \"Wir können zusammenkommen\"",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
       "text": "In den tagesthemen hat Bundesarbeitsminister Schweitzer seine Rentenpläne als Grundlage für einen Konsens bezeichnet. Man stabilisiere damit die Beiträge und tue etwas \"für die Fleißigen, die lange gearbeitet haben\".",
       "date": "Fri, 27 Nov 2026 23:10:29 +0100",
       "category": "Allgemein"
-    },
-    {
-      "title": "HSG Wetzlar erkämpft sich ersten Heimsieg",
-      "uri": "https://www.sportschau.de/regional/hr/hr-erfolg-gegen-goeppingen-hsg-wetzlar-erkaempft-sich-ersten-heimsieg-100.html",
-      "text": "Die HSG Wetzlar hat sich mit einer wahren Energieleistung den zweiten Sieg in der laufenden Handballsaison gesichert. Zwei Spieler machten gegen Göppingen den entscheidenden Unterschied.",
-      "date": "Fri, 27 Nov 2026 22:26:23 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Handball-Bundesliga: THW Kiel gewinnt beim Bergischen HC",
-      "uri": "https://www.sportschau.de/regional/ndr/thw-kiel-arbeitet-sich-gegen-bergischen-hc-zum-sieg,thw-kiel-596.html",
-      "text": "Der THW Kiel hat in der Handball-Bundesliga einen glanzlosen, aber wichtigen Sieg gegen den Bergischen HC gefeiert.",
-      "date": "Fri, 27 Nov 2026 22:00:52 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Deutsche Basketballer lösen WM-Ticket nach Sieg in Lettland",
-      "uri": "https://www.sportschau.de/basketball/nationalmannschaft/deutsche-basketballer-machen-wm-endrunde-perfekt,wm-qualifikation-lettland-dbb-100.html",
-      "text": "Die deutschen Basketballer haben sich mit einem knappen Sieg in Lettland vorzeitig für die Weltmeisterschaft 2027 in Katar qualifiziert.",
-      "date": "Fri, 27 Nov 2026 21:35:49 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Hansa Rostock atmet erleichtert durch - 2:0-Sieg gegen Havelse",
-      "uri": "https://www.sportschau.de/regional/ndr/Dritte-Liga-Hansa-Rostock-Havelse,hansa-1048.html",
-      "text": "Fußball-Drittligist Hansa Rostock ist im Nordduell gegen den TSV Havelse der erhoffte sportliche Befreiungsschlag gelungen.",
-      "date": "Fri, 27 Nov 2026 21:05:24 +0100",
-      "category": "Sport"
     },
     {
       "title": "Reaktionen auf Rentenpläne: \"Frührentner sollen also Haushaltslöcher stopfen\"",
@@ -443,13 +464,6 @@
       "category": "Technik"
     },
     {
-      "title": "So läuft der Wintersport am Wochenende in der Sportschau",
-      "uri": "https://www.sportschau.de/wintersport/so-laeuft-der-wintersport-am-wochenende-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html",
-      "text": "Das erste große Wintersport-Wochenende steht an. Nach den Skirennfahrern und den Skispringern steigen auch die Biathleten, Langläufer und Kombinierer ins Weltcup-Geschehen ein.",
-      "date": "Fri, 27 Nov 2026 15:54:58 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "AI-Supply-Chain: Günstige Inferenzangebote greifen Secrets ab",
       "uri": "https://www.heise.de/news/AI-Supply-Chain-Guenstige-Inferenzangebote-greifen-Secrets-ab-11540914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Über KI-Router-Dienste, die an kostengünstige Inferenz-Engines weiterleiten, wurden Promptinhalte abgefischt. Modellanbieter MiniMax ignorierte ZDR-Flags.",
@@ -461,13 +475,6 @@
       "uri": "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
       "text": "Der Zentralrat der Juden positioniert sich seit Langem klar gegen die AfD. Parteichefin Weidel warf der Organisation nun vor, sie sei von der CDU \"fremdgesteuert\". Der Präsident des Zentralrats reagierte mit deutlichen Worten.",
       "date": "Fri, 27 Nov 2026 15:13:55 +0100",
-      "category": "Allgemein"
-    },
-    {
-      "title": "Deutschland: Beginn der Ski-Saison - mit Neuschnee und höheren Preisen",
-      "uri": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
-      "text": "Es ist ausreichend Schnee gefallen, es ist kalt genug und das Wetter spielt auch mit: In Deutschland hat Ski-Saison begonnen - an der Zugspitze und im Sauerland. Wintersportler müssen allerdings wieder tiefer in die Tasche greifen.",
-      "date": "Fri, 27 Nov 2026 15:12:31 +0100",
       "category": "Allgemein"
     },
     {
@@ -583,13 +590,6 @@
       "category": "Technik"
     },
     {
-      "title": "Verbraucherzentrale mahnt OpenAI und Anthropic ab",
-      "uri": "https://www.heise.de/news/Verbraucherzentrale-mahnt-OpenAI-und-Anthropic-ab-11540670.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "Die Verbraucherzentrale Niedersachsen wirft OpenAI und Anthropic unzulässige Preisänderungsklauseln und intransparente Tarife vor.",
-      "date": "2026-11-27T13:13:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "UN sieht fünf \"Hunger-Hotspots\": Ernährungskrisen verschärfen sich",
       "uri": "https://www.tagesschau.de/ausland/afrika/vereinte-nationen-hunger-hotspots-100.html",
       "text": "Krieg, Dürre und Budgetkürzungen bei Hilfsorganisationen. Die UN sehen fünf Länder auf eine gefährliche Hungerkrise zusteuern und warnen vor den Auswirkungen. Die Welt müsse nun schnell handeln. Von Tilman Kleinjung.",
@@ -604,13 +604,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Polizistin in Kabul: Verhüllt im Dienst für das Taliban-Regime",
-      "uri": "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
-      "text": "In Afghanistan haben Frauen kaum noch Rechte. In der Öffentlichkeit muss ihr Gesicht verhüllt sein, Bildung ist kaum möglich. Dennoch arbeiten einige Frauen bei der Polizei und sind so Teil des Systems der Taliban. Von F. Amler.",
-      "date": "Fri, 27 Nov 2026 12:11:16 +0100",
-      "category": "Allgemein"
-    },
-    {
       "title": "FAQ zur \"Rente mit 63\": Was wird gerade diskutiert?",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html",
       "text": "Die Debatte über die \"Rente mit 63\" wird zunehmend unübersichtlich: Welche Vorschläge werden aktuell diskutiert? Was deutet auf Bewegung innerhalb der Koalition hin? Und warum ist das Thema so umstritten? Ein Überblick.",
@@ -622,14 +615,14 @@
       "uri": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
       "text": "Der Software-Konzern SAP will Medienberichten zufolge Tausende Stellen streichen. Hintergrund soll auch die Automatisierung durch Künstliche Intelligenz sein.",
       "date": "Fri, 27 Nov 2026 12:09:46 +0100",
-      "category": "Allgemein"
+      "category": "Wirtschaft"
     },
     {
       "title": "Streit um Rentenreform: Arbeitsminister Schweitzer optimistisch",
       "uri": "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
       "text": "Die Koalition ringt weiter um die Rentenreform. Arbeitsminister Schweitzer ist optimistisch, dass es bald zu einer Einigung kommt. Es lägen gute Vorschläge auf dem Tisch, sagte er im Bundestag. Dort wurde der Etat seines Ministeriums debattiert.",
       "date": "Fri, 27 Nov 2026 12:07:08 +0100",
-      "category": "Allgemein"
+      "category": "Deutschland"
     },
     {
       "title": "Frost verzögert Baustelle in Remscheid - Radio RSG",
@@ -805,13 +798,6 @@
       "text": "Der Spanier Pablo Hernández de Cos bringt viel geldpolitische Erfahrung mit. Welcher Kurs ist von dem 55-Jährigen Ökonomen zu erwarten, wenn er an die Spitze der Europäischen Zentralbank rückt?",
       "date": "Thu, 26 Nov 2026 17:12:10 +0100",
       "category": "Wirtschaft"
-    },
-    {
-      "title": "Rodeln der Männer",
-      "uri": "https://www.sportschau.de/wintersport/rodeln/rodeln-der-frauen,livestream-wintersport-rodeln-einzel-frauen-100.html",
-      "text": "Die deutschen Rodler starten in Winterberg in die neue Weltcupsaison. Es kommentiert Thomas Kunze.",
-      "date": "Thu, 26 Nov 2026 16:24:28 +0100",
-      "category": "Sport"
     },
     {
       "title": "Chinesischer Online-Händler Temu sagt mehr Verbraucherschutz zu",
@@ -1087,25 +1073,11 @@
       "category": "Deutschland"
     },
     {
-      "title": "AfD fordert Klage gegen Haushalt - Merz nennt Etat \"vertretbar\"",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-154.html",
-      "text": "Die Aufstellung des Haushalts habe \"keinen Schönheitspreis verdient“, räumte der Kanzler ein. Doch er sei in der gegenwärtigen Lage vertretbar. Zuvor war er von AfD-Chef Chrupalla scharf kritisiert worden - auch in Sachen Ukraine.",
-      "date": "Wed, 25 Nov 2026 11:44:12 +0100",
-      "category": "Deutschland"
-    },
-    {
       "title": "Europas größte Satellitenfabrik eröffnet",
       "uri": "https://www.tagesschau.de/ausland/satellitenfabrik-100.html",
       "text": "Die EU will bis 2030 ein eigenes sicheres Kommunikationsnetz im Weltraum aufbauen. Ziel ist es, unabhängiger von Anbietern wie dem US-Dienst Starlink zu werden. Helfen soll dabei Europas größte Satellitenfabrik - sie wurde nun eröffnet.",
       "date": "Wed, 25 Nov 2026 09:06:22 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
-      "uri": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
-      "text": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen. Heftig gestritten werden könnte über die neuen Schulden.",
-      "date": "Wed, 25 Nov 2026 07:32:57 +0100",
-      "category": "Deutschland"
     },
     {
       "title": "BHC verpasst vorzeitigen Play-off-Einzug - Radio RSG",
@@ -1157,9 +1129,23 @@
       "category": "Remscheid"
     },
     {
-      "title": "13.10 Uhr im Live-Ticker: Staffel Single Mixed in Kontiolahti",
-      "uri": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1213/kontiolahti/ma11978516/liveticker-list",
-      "text": "Erstes Team-Rennen der Biathlon-Saison. Der DSV schickt Marlene Fichtner und Justus Strelow ins Rennen.",
+      "title": "Jetzt live: Einzel der Frauen",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/skispringen/co2188/hinzenbach/ma12107005/liveticker-list",
+      "text": "In Hinzenbach haben die DSV-Adlerinnen rund um Selina Freitag die Chance auf die Wiedergutmachung nach dem mauen Saisonstart.",
+      "date": "Tue, 24 Nov 2026 16:48:19 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "15.15 Uhr im Live-Ticker: Staffel Mixed in Kontiolahti",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/biathlon/co1213/kontiolahti/ma11978513/liveticker-list",
+      "text": "Vanessa Voigt, Janina Hettich-Walz, Philipp Nawrath und Philipp Horn laufen die erste Mixed-Staffel in Kontiolahti. 15.15 Uhr geht es los.",
+      "date": "Tue, 24 Nov 2026 16:48:19 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "16.30 Uhr im Live-Ticker: Einzel der Männer",
+      "uri": "https://www.sportschau.de/live-und-ergebnisse/skispringen/co767/ruka/ma12107209/liveticker-list",
+      "text": "Nächste Weltcup-Station, nächste Chance: Schaffen die deutschen Skispringer in Ruka die Wiedergutmachung nach dem enttäuschenden Start in die Saison?",
       "date": "Tue, 24 Nov 2026 16:48:19 +0100",
       "category": "Sport"
     },
@@ -1297,6 +1283,34 @@
       "category": "Wissenschaft"
     },
     {
+      "title": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle - RGA",
+      "uri": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWm9QYjZkZThlcm5jczFvV1JRZlNqV0pUa2xWV1NNS080b1VjY2oyalFKVmNqdGUzUDRxWl84MmNmaDRQbDZkaGlxMjNpVHYxVkhBQkZBWVdMb3lxMlk5MU9TRXNXczNIeG5RTS1SSkZIc29aWG9obmxxeEVfZVhZSDdPdGItbmExRjhObjAxZDRfTEVTTThjbTI2eTZoRjBtd21qSzRjRlc2WDBUQXJZdTMxSzV2XzlzYmtscEtjcHFqR0NSNHU3VEJKaW8tcUxJbUt5atIB8AFBVV95cUxNMXNtUElibXhyR1A3LXdSU2NQT1F4SmhrcktjTFZuVEgtMWpqX1R4M2VncDRNYTR1ZWhJaUdaejJ5cVg4dTBMdzg0TGMtbmFkSlBVTnhtbzJBYS1rYkVvbGVBR1dJUWNEUGNJWmxJVFh4WmU4THlwb1hVRlJGNGVlU3RZRXJvX3Q1VUhLSnNfSWpZc3h0QnJHS1h1SnRCbk81a25NTklHWDF4UE5vTWhjdEcwdmpna1o0ZElhQzZmTUZfcDd3aE9MVkZwZk9lNTRVRHdkMDZ6X2Fxbmllbjh2Q2lxeG9rNEFOeXdIX0dkYVU?oc=5",
+      "text": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle  RGA",
+      "date": "Fri, 20 Nov 2026 07:11:54 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "SG Sonnenhof Großaspach gegen MSV Duisburg",
+      "uri": "https://www.sportschau.de/fussball/bundesliga3/sonnenhof-grossaspach-gegen-msv-duisburg,audiostream-sonnenhof-grossaspach-gegen-msv-duisburg-100.html",
+      "text": "Am 15. Spieltag der 3. Liga spielt die SG Sonnenhof Großaspach gegen den MSV Duisburg. Das Spiel im Audiostream des WDR.",
+      "date": "Thu, 19 Nov 2026 11:17:54 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Rot-Weiss Essen gegen TSG Hoffenheim II",
+      "uri": "https://www.sportschau.de/fussball/bundesliga3/preussen-muenster-gegen-sc-verl,audiostream-rot-weiss-essen-gegen-tsg-hoffenheimii-100.html",
+      "text": "Am 15. Spieltag der 3. Liga spielt Rot-Weiss Essen gegen die TSG Hoffenheim II. Das Spiel im Audiostream des WDR live hören.",
+      "date": "Thu, 19 Nov 2026 11:14:28 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Preußen Münster gegen SC Verl",
+      "uri": "https://www.sportschau.de/fussball/bundesliga3/preussen-muenster-gegen-sc-verl,audiostream-preussen-muenster-gegen-sc-verl-100.html",
+      "text": "Am 15. Spieltag der 3. Liga spielt Preußen Münster gegen den SC Verl. Das Spiel im Audiostream des WDR live hören.",
+      "date": "Thu, 19 Nov 2026 11:09:30 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal - Wuppertaler Rundschau",
       "uri": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFJoYjJmeDFydnhSWEN0cDRJQndTUnBhbnNvd3cwdFVoY1l0ajNHTTJTQzY5UmVLbUxDUWFFM0JVZ0dlenVLRFZfQ214VXlkem5Fd2t6NV9feTVWM0Q2OEVJNGxEa3c4WHhzd0oyNHBfc2JyVFBTYm95ZmwwaEtDMGx3MFM4TTdYaXdERHVEbTgyb1NpME5BNTVSeTJnYWRudkJPaXVfNkRZS0dWWFdnamlWRGFGMTdNeUdmakhxVTNaUF9xYkR0TA?oc=5",
       "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
@@ -1367,17 +1381,10 @@
       "category": "Sport"
     },
     {
-      "title": "Skispringen der Frauen",
-      "uri": "https://www.sportschau.de/wintersport/skispringen-der-frauen,livestream-wintersport-skispringen-frauen-100.html",
-      "text": "Das Skispringen der Frauen in Hinzenbach. Es kommentiert Philipp Sohmer.",
-      "date": "Thu, 12 Nov 2026 10:39:15 +0100",
-      "category": "Sport"
-    },
-    {
-      "title": "Die Kür der Männer beim Grand Prix in Tokio",
-      "uri": "https://www.sportschau.de/wintersport/einzelkueren-und-die-kuer-der-paare,livestream-wintersport-eiskunstlauf-100.html",
-      "text": "Das deutsche Paar Hase/Volodin hat den Grand Prix in Tokio überlegen gewonnen. Ab 11.30 Uhr läuft die Kür der Männer mit Ilja Malinin. Daniel Weiss kommentiert.",
-      "date": "Thu, 12 Nov 2026 10:38:14 +0100",
+      "title": "Zweierbob der Männer",
+      "uri": "https://www.sportschau.de/wintersport/zweierbob-der-maenner,livestream-wintersport-bob-maenner-100.html",
+      "text": "Das Rennen im Zweierbob der Männer in Altenberg. Es kommentiert Eik Galley.",
+      "date": "Thu, 12 Nov 2026 10:39:43 +0100",
       "category": "Sport"
     },
     {
@@ -1400,13 +1407,6 @@
       "text": "Matthias Deiß, ARD Berlin, im Interview mit Bundespräsident Frank-Walter Steinmeier",
       "date": "Sun, 01 Nov 2026 09:01:01 +0100",
       "category": "Wissenschaft"
-    },
-    {
-      "title": "Nach Eskalation - Remscheid will durchgreifen - WDR",
-      "uri": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQekE0aEhqMVMyeHY5RV93LUtJSVpUaG5HeTJHOVAwZEpOWF9Cdl9YVmlfbUFqcUdPdUt2Qkp1WTIzN2d6MGxfc3VjSEJFM1lFeHV4cjdaUldIRXdmWlZkVkRVWTRlRThLLXJScUEtaUs3M1BFRnd2N1hSbjl2XzJKdlk5MmTSAYMBQVVfeXFMTnpMX2h2Q2M0WG1oM2FacVVLdzgyXzVZOHFlUGRIVFlqcGxYUnhITU54SURjenpMUVNSODJKaDRuRko5YTN6WF9pQm1vS0hING1zQThqMWZLZVg2TjJJcjZIUnV5VmhVOWFob253U3B4RnJJV1NfeDJRbjl6ZFRnLTVIb2c?oc=5",
-      "text": "Nach Eskalation - Remscheid will durchgreifen  WDR",
-      "date": "Fri, 23 Oct 2026 07:00:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Keine Engpässe bei Antibiotika und Grippemitteln zu befürchten",
