@@ -1,6 +1,20 @@
 {
-  "updated": "2026-11-28T04:21:45.374225+00:00",
+  "updated": "2026-11-28T05:42:05.573412+00:00",
   "articles": [
+    {
+      "title": "Jellyfin und KDE Plasma Bigscreen statt teurer Streaming-Abos | c’t uplink",
+      "uri": "https://www.heise.de/news/Jellyfin-und-KDE-Plasma-Bigscreen-statt-teurer-Streaming-Abos-c-t-uplink-11540760.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+      "text": "Wie Ihr mit Jellyfin Eure eigene Mediathek baut und mit Plasma Bigscreen einen DIY-Wohnzimmer-PC – darum geht es diese Woche in c’t uplink.",
+      "date": "2026-11-28T06:30:00+01:00",
+      "category": "Technik"
+    },
+    {
+      "title": "Kritik aus der Union an Rentenplänen von Arbeitsminister Schweitzer",
+      "uri": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+      "text": "Der Vorschlag des Arbeitsministers zur Reform der Rente liegt auf dem Tisch - und der Gegenwind aus der Union ist recht rau. Dem Koalitionspartner stößt auf, dass die \"Rente mit 63\" im Kern erhalten bleibt. Doch nicht nur das.",
+      "date": "Sat, 28 Nov 2026 05:58:25 +0100",
+      "category": "Allgemein"
+    },
     {
       "title": "Treibstoffkrise in Malawi: Kaum Geld - und dann der Iran-Krieg",
       "uri": "https://www.tagesschau.de/ausland/afrika/malawi-treibstoffkrise-100.html",
@@ -30,16 +44,23 @@
       "category": "Allgemein"
     },
     {
-      "title": "Gummersbach setzt seine Siegesserie gegen Erlangen fort",
+      "title": "Die Sportschau vom Freitag mit Bremen gegen Gladbach",
+      "uri": "https://www.sportschau.de/fussball/die-sportschau-vom-freitag-mit-bayern-gegen-koeln,sportschau-am-freitag-re-live-2711-100.html",
+      "text": "Sehen Sie hier die Sportschau am Freitag mit den Highlights vom Spiel Werder Bremen gegen Borussia Mönchengladbach, der 2. Bundesliga, der 3. Liga und der Frauen-Bundesliga.",
+      "date": "Sat, 28 Nov 2026 00:05:23 +0100",
+      "category": "Sport"
+    },
+    {
+      "title": "Gummersbach setzt gegen Erlangen seine Siegesserie fort",
       "uri": "https://www.sportschau.de/regional/wdr/wdr-gummersbach-setzt-seine-siegesserie-gegen-erlangen-fort-100.html",
-      "text": "Der VfL Gummersbach hat in der Handball-Bundesliga seinen sechsten Sieg in Serie gefeiert.",
+      "text": "Der VfL Gummersbach hat in der Handball-Bundesliga den sechsten Sieg in Serie gefeiert.",
       "date": "Fri, 27 Nov 2026 23:39:43 +0100",
       "category": "Sport"
     },
     {
-      "title": "Natürlich Füllkrug - Gladbach verspielt Sieg in Bremen",
-      "uri": "https://www.sportschau.de/fussball/bundesliga/gladbach-und-bremen-mit-spektakulaerem-remis,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
-      "text": "Werder Bremen und Borussia Mönchengladbach liefern sich ein rasantes und hoch emotionales Bundesligaspiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
+      "title": "Natürlich Füllkrug - Mönchengladbach verspielt Sieg in Bremen",
+      "uri": "https://www.sportschau.de/fussball/bundesliga/natuerlich-fuellkrug-gladbach-verspielt-sieg-in-bremen,spielbericht-werder-bremen-borussia-moenchengladbach-114.html",
+      "text": "Werder Bremen und Borussia Mönchengladbach liefern sich in der Fußball-Bundesliga ein rasantes und hoch emotionales Spiel, in dem die Fohlen eine Zwei-Tore-Führung verspielen.",
       "date": "Fri, 27 Nov 2026 23:37:07 +0100",
       "category": "Sport"
     },
@@ -74,7 +95,7 @@
     {
       "title": "Kölner Haie erzwingen Sieg gegen Straubing in der Overtime",
       "uri": "https://www.sportschau.de/regional/wdr/wdr-koelner-haie-erzwingen-sieg-gegen-straubing-in-der-overtime-100.html",
-      "text": "Trotz eines zweimaligen Rückstands haben sich die Kölner Haie noch zu einem Sieg gegen die Straubing Tigers gearbeitet.",
+      "text": "Trotz zweimaligen Rückstands haben sich die Kölner Haie noch zu einem Sieg gegen die Straubing Tigers gearbeitet.",
       "date": "Fri, 27 Nov 2026 22:00:00 +0100",
       "category": "Sport"
     },
@@ -107,14 +128,14 @@
       "category": "Allgemein"
     },
     {
-      "title": "Arbeitssieg im Ruhrstadion: Bochum feiert Heimsieg gegen Darmstadt",
+      "title": "Bochum feiert mit Energieleistung Heimsieg gegen Darmstadt",
       "uri": "https://www.sportschau.de/fussball/bundesliga2/bochum-feiert-heimsieg-gegen-darmstadt,spielbericht-vfl-bochum-sv-darmstadt-110.html",
       "text": "Der VfL Bochum hat sich mit einer Energieleistung einen Sieg gegen Darmstadt 98 herausgespielt.",
       "date": "Fri, 27 Nov 2026 20:38:43 +0100",
       "category": "Sport"
     },
     {
-      "title": "2. Bundesliga: Heidenheim beendet Krise gegen Nürnberg",
+      "title": "Heidenheim zieht sich gegen Nürnberg selbst aus der Krise",
       "uri": "https://www.sportschau.de/fussball/bundesliga2/heidenheim-zieht-sich-gegen-nuernberg-selbst-aus-der-krise,spielbericht-heidenheim-nuernberg-100.html",
       "text": "Der 1. FC Heidenheim hat nach sieben sieglosen Spielen in der 2. Bundesliga mal wieder drei Punkte geholt. Gegen den Tabellenzweiten aus Nürnberg zogen sich die Heidenheimer an den eigenen Haaren aus der Krise.",
       "date": "Fri, 27 Nov 2026 20:26:15 +0100",
@@ -296,6 +317,13 @@
       "category": "Sport"
     },
     {
+      "title": "So läuft der Wintersport am Wochenende in der Sportschau",
+      "uri": "https://www.sportschau.de/wintersport/so-laeuft-der-wintersport-am-wochenende-in-der-sportschau,so-laeuft-der-wintersport-in-der-sportschau-104.html",
+      "text": "Das erste große Wintersport-Wochenende steht an. Nach den Skirennfahrern und den Skispringern steigen auch die Biathleten, Langläufer und Kombinierer ins Weltcup-Geschehen ein.",
+      "date": "Fri, 27 Nov 2026 15:54:58 +0100",
+      "category": "Sport"
+    },
+    {
       "title": "AI-Supply-Chain: Günstige Inferenzangebote greifen Secrets ab",
       "uri": "https://www.heise.de/news/AI-Supply-Chain-Guenstige-Inferenzangebote-greifen-Secrets-ab-11540914.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
       "text": "Über KI-Router-Dienste, die an kostengünstige Inferenz-Engines weiterleiten, wurden Promptinhalte abgefischt. Modellanbieter MiniMax ignorierte ZDR-Flags.",
@@ -340,7 +368,7 @@
     {
       "title": "Pochettino jubelt am \"Tag für die Ewigkeit\"",
       "uri": "https://www.sportschau.de/fussball/europa-conference-league/pochettino-jubelt-am-tag-fuer-die-ewigkeit,escaldes-kopenhagen-100.html",
-      "text": "Erstmals hat eine Mannschaft aus Andorra in der Hauptrunde des Europapokals gewonnen. Für Inter d'Escaldes spielte dabei Maurizio Pochettino, der Sohn von Maurizio - und er blamierte Bo Svensson.",
+      "text": "Erstmals hat eine Mannschaft aus Andorra in der Hauptrunde eines Europapokals gewonnen. Für Inter d'Escaldes spielte dabei Maurizio Pochettino, der Sohn des bekannten Trainers Mauricio - und er blamierte Kopenhagen und Trainer Bo Svensson.",
       "date": "Fri, 27 Nov 2026 14:59:28 +0100",
       "category": "Sport"
     },
@@ -434,13 +462,6 @@
       "text": "Lernen Sie, wie Sie Ihren Windows Server effektiv absichern und härten, Schutzmaßnahmen integrieren, Konfigurationen optimieren und Angriffsszenarien bewerten.",
       "date": "2026-11-27T14:00:00+01:00",
       "category": "Technik"
-    },
-    {
-      "title": "Nach Dopingsperre: Victoria Carl ist zurück",
-      "uri": "https://www.sportschau.de/wintersport/langlauf/victoria-carl-fuer-18-monate-wegen-dopings-gesperrt,victoria-carl-feiert-sieg-nach-dopingsperre-100.html",
-      "text": "Nach 18 Monaten Dopingsperre ist Victoria Carl zurück. Beim FIS-Rennen in Norwegen gewinnt sie und hofft auf die Rückkehr in den Weltcup.",
-      "date": "Fri, 27 Nov 2026 13:51:01 +0100",
-      "category": "Sport"
     },
     {
       "title": "Diverse Schwachstellen in Apache Tomcat",
@@ -583,13 +604,6 @@
       "category": "Sport"
     },
     {
-      "title": "Wegen problematischer Siri-Werbung: Apple-Ärger auch in Südkorea",
-      "uri": "https://www.heise.de/news/Wegen-problematischer-Siri-Werbung-Apple-Aerger-auch-in-Suedkorea-11539787.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-      "text": "In den USA soll Apple bereits einen größeren Millionenbetrag nach einer Sammelklage zahlen. Nun knüpfen sich südkoreanische Marktschützer die Siri-Reklame vor.",
-      "date": "2026-11-27T11:49:00+01:00",
-      "category": "Technik"
-    },
-    {
       "title": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost - tixio - Nachrichten",
       "uri": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR094UDF1SG15NklyazExNjJaeW42QVFsTHp2T0JmTmVkWjA5dF92c09ZNUp6eTA5NHp2T1VYUFZURmFlTVNUaUoyVnpoNW1mUjFWR1NXTGF4dG9YYmdXUVpwUk81emZtbmpKb2NqMUF4TGtlUHQ0YnNQOEJhSjQyX2MyYnFZc1kxckxMTjMwN2RUMjhTRWxPSTBHSGtlalV6b2hlT1lXUGNxTE5FdFJHcU9EZVVaeDFDYnhPMEo5RUxXX0k?oc=5",
       "text": "Für die Stadt Remscheid, die Stadt Wuppertal und weitere Gebiete: Warnung vor leichtem Frost  tixio - Nachrichten",
@@ -678,7 +692,7 @@
       "uri": "https://www.tagesschau.de/ausland/amerika/usa-stuerme-thanksgiving-100.html",
       "text": "Gestrichene Flüge, Stromausfälle und Überschwemmungen: Ausgerechnet an Thanksgiving haben Starkregen und heftige Winde in vielen Teilen der USA für Chaos gesorgt. In einigen Bundesstaaten gilt der Notstand.",
       "date": "Fri, 27 Nov 2026 07:55:56 +0100",
-      "category": "Allgemein"
+      "category": "Welt"
     },
     {
       "title": "SAP meldet verdächtige Aktivitäten",
@@ -700,13 +714,6 @@
       "text": "Spaniens konservative Volkspartei PP hat gute Aussichten, bei der Parlamentswahl am Wochenende stärkste Kraft zu werden. Sie verspricht dem Land tiefgreifende Änderungen. Wo will sie umsteuern? Von F. Welz.",
       "date": "Fri, 27 Nov 2026 06:43:42 +0100",
       "category": "Welt"
-    },
-    {
-      "title": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land - Radio RSG",
-      "uri": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSnBRWVVyVDJBY1piRFVqQ3VpSFl5bFVsR2pzZGVydTNWRW9HZjNPeG1fWmJvdFZVTGNhTzhRdTJ4MXU2MnpVNzZXMnl0T3RZNWhha2FPX0JVaGNTdmhCZjdSMEh3NU1nVkRCYnk0Y3ZUM0ZjVDBLYnhMQ0F0YVFqVmg3RnY0NVBDaGxETlUwUWQ0RTZmT0hjRUt3OVdUcEE?oc=5",
-      "text": "Winterwetter sorgt für gesperrte Sportplätze im RSG-Land  Radio RSG",
-      "date": "Fri, 27 Nov 2026 05:10:00 GMT",
-      "category": "Remscheid"
     },
     {
       "title": "Polizei ermittelt zu Kellerbrand am Kremenholl - Radio RSG",
@@ -1115,13 +1122,6 @@
       "category": "Welt"
     },
     {
-      "title": "Keine schnelle Lösung bei Gewalt gegen Frauen",
-      "uri": "https://www.tagesschau.de/inland/gesellschaft/orange-day-gewalt-gegen-frauen-100.html",
-      "text": "Der heutige Orange Day steht für eine Zukunft ohne Gewalt gegen Frauen. Doch die Realität sieht anders aus. Strafverschärfungen und Gesetzesänderungen sind angestoßen, aber schnelle Lösungen sind nicht in Sicht. Von A. Lagmöller.",
-      "date": "Wed, 25 Nov 2026 05:00:11 +0100",
-      "category": "Deutschland"
-    },
-    {
       "title": "Brücken-Krieg: Gefahr für Kiew, Probleme für Russlands Logistik",
       "uri": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
       "text": "Kiew, Saporischschja, Odessa - immer wieder greift Russland ukrainische Brücken an. Im Gegenzug schießt die Ukraine vermehrt zurück - auch auf die Krim-Brücke. Dabei geht es beiden Seiten nicht immer nur um militärische Ziele. Von R. Barth.",
@@ -1269,13 +1269,6 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Wie gefällt dir das Sportschau Update?",
-      "uri": "https://1.ard.de/sportschau-update",
-      "text": "Hörst du das Sportschau Update? Dann hilf uns, es besser zu machen. Unsere Umfrage ist anonym und dauert nur ein paar Minuten.",
-      "date": "Fri, 20 Nov 2026 09:49:30 +0100",
-      "category": "Sport"
-    },
-    {
       "title": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal - Wuppertaler Rundschau",
       "uri": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFJoYjJmeDFydnhSWEN0cDRJQndTUnBhbnNvd3cwdFVoY1l0ajNHTTJTQzY5UmVLbUxDUWFFM0JVZ0dlenVLRFZfQ214VXlkem5Fd2t6NV9feTVWM0Q2OEVJNGxEa3c4WHhzd0oyNHBfc2JyVFBTYm95ZmwwaEtDMGx3MFM4TTdYaXdERHVEbTgyb1NpME5BNTVSeTJnYWRudkJPaXVfNkRZS0dWWFdnamlWRGFGMTdNeUdmakhxVTNaUF9xYkR0TA?oc=5",
       "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
@@ -1325,9 +1318,9 @@
       "category": "Wissenschaft"
     },
     {
-      "title": "Einzelküren und die Kür der Paare",
+      "title": "Grand Prix in Tokio - die Kür der Paare",
       "uri": "https://www.sportschau.de/wintersport/einzelkueren-und-die-kuer-der-paare,livestream-wintersport-eiskunstlauf-100.html",
-      "text": "Die Küren der Frauen, Männer und der Paare beim Grand Prix in Tokio. Es kommentiert Daniel Weiss.",
+      "text": "Die Kür der Paare beim Grand Prix in Tokio - mit Nikita Volodin und Minerva Hase. Es kommentiert Daniel Weiss.",
       "date": "Thu, 12 Nov 2026 10:38:14 +0100",
       "category": "Sport"
     },
@@ -1435,6 +1428,13 @@
       "text": "Tagesaktuelle Nachrichten zu Medizin, Gesundheit und Corona. Neue Studien, Experten-Meinungen und Hintergründe zu aktuellen Wissens-Themen.",
       "date": "Fri, 11 Sep 2026 11:08:28 +0200",
       "category": "Wissenschaft"
+    },
+    {
+      "title": "Drogen, Müll und Schlägereien in der City: Jetzt greift Remscheid durch - WDR",
+      "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2c4WWRiZUUxdFU0cFBHNHlFRFJXb2pjVzR5YWhjX2tlc0Jod3Y0R2hVdGNyWmN6SG1GZ1BiUGl4U1k3cU0xU3AtYk9ydEhqbE9zeFgxd2FuVkczTThweHJ0Z1hKUHl2elFwRzh5U20xbDFKN280MlNZZEdPOHNSVTFfX2lTaVNPdVFqN3JFbGtZWGJXZnlMNA?oc=5",
+      "text": "Drogen, Müll und Schlägereien in der City: Jetzt greift Remscheid durch  WDR",
+      "date": "Wed, 09 Sep 2026 07:00:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Uwe Janssens, Deutsche Vereinigung für Intensiv- und Notfallmedizin, zu Investitionen in den Hitzeschutz",
