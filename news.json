@@ -1,6 +1,13 @@
 {
-  "updated": "2026-11-28T00:39:09.108249+00:00",
+  "updated": "2026-11-28T02:04:04.066463+00:00",
   "articles": [
+    {
+      "title": "Durchsuchung bei Le Pens früherem Bürochef",
+      "uri": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+      "text": "Er soll vertrauliche Informationen aus dem Innenministerium erhalten haben: In Frankreich sind die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Präsidentschaftskandidatin Le Pen durchsucht worden.",
+      "date": "Sat, 28 Nov 2026 02:41:50 +0100",
+      "category": "Allgemein"
+    },
     {
       "title": "Entwurf für Spritpreisdeckel liegt vor - Kabinett beschließt am Mittwoch",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
@@ -688,13 +695,6 @@
       "category": "Remscheid"
     },
     {
-      "title": "Neuseeland: Konservative verlieren Mehrheit - Labour hat auch keine",
-      "uri": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
-      "text": "Nach der Wahl zeichnete sich ein sehr knappes Rennen ab. Nun ist klar: Neuseelands rechtsgerichtete Regierungskoalition unter Premier Luxon hat keine Mehrheit mehr. Jetzt spielt eine neue Partei die entscheidende Rolle.",
-      "date": "Fri, 27 Nov 2026 06:09:05 +0100",
-      "category": "Allgemein"
-    },
-    {
       "title": "Polizei ermittelt zu Kellerbrand am Kremenholl - Radio RSG",
       "uri": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeG8yN3BLeU9hNV9SczJzRDMtYS1hYnE3aTZYcVVrdmdodFBsR3pVT2VSQnBBVGhvNGk0WWZ1Zm92czRHTUUweFdNTlJnOEYyc0hRQks4aUlBM25TLWZCTzRGckJ0RWFqWGxpaXFCZWJGeExma2FpVnhuZmFiZkphNFJNaGwyZTEzY3ZsX0xrZw?oc=5",
       "text": "Polizei ermittelt zu Kellerbrand am Kremenholl  Radio RSG",
@@ -1080,13 +1080,6 @@
       "category": "Welt"
     },
     {
-      "title": "Hindenburgstraße in Remscheid: So schön war das Lichterfest – viele Fotos - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWVdpRHpfVExXZUVvMnBzdG5QQ2FYRmpWajZPVUpYUVEyNTFaa19uUV9VNnBQNlBXc0h4am9RSmhqbFdiTk05SWxyOWVqcTY4eC1rMTYzMkpJbEZZYi1UTl8tbFJDZkNVaDhyek5GdHpZLUl6ZmNjNlN6ZDR6UkQxZkdoX3RYU2wtMmRLOUFEU2o1d2RVRkFQNlNQOGgyQWNUS3E5X1Y3NFRVdjlWRHJqQ2hSZ3V2eHJjbVZkZ09IWnJDclVwN3dJZW9xSjFQSHp5aDRzQlFJNA?oc=5",
-      "text": "Hindenburgstraße in Remscheid: So schön war das Lichterfest – viele Fotos  RGA",
-      "date": "Wed, 25 Nov 2026 06:56:20 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Heftiger Schlagabtausch bei Generaldebatte erwartet",
       "uri": "https://www.tagesschau.de/inland/innenpolitik/generaldebatte-bundestag-150.html",
       "text": "Kanzler Merz im Fokus: Bei der Haushaltswoche im Bundestag wird heute der Etat des Kanzleramts verhandelt. Traditionell eine Gelegenheit für die Opposition, mit der Regierung abzurechnen. Heftig gestritten werden könnte über die neuen Schulden.",
@@ -1148,6 +1141,13 @@
       "text": "Die Lebenserwartung in Kuba ist laut der WHO erstmals in der Geschichte gesunken, die Säuglingssterblichkeit hat sich mehr als verdoppelt. WHO-Chef Tedros macht dafür auch US-Sanktionen verantwortlich - und fordert deren sofortiges Ende.",
       "date": "Wed, 25 Nov 2026 01:06:58 +0100",
       "category": "Welt"
+    },
+    {
+      "title": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft - RP Online",
+      "uri": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSkRpOEdjSGY2NEl6TmtIeTFnX1diWlR3R2JITzJhakFYN3VFNkQ4UTgzSjB0dS1walJDS2N5NjBpcVQ0UlNlUDZZOGwtcUljX1ZuTk9ZaVJHWXc2ZWZ0NFZDdl9CZFJvREdwU0ZzVWdkLWhveGthRGEyazJUakVicDBDYkE2bG5TVWI2UFprVUtUV2ZzcGFKa0JFT0xKbHpJTEQxbF9Ic2swSkd5OEZvSWNDOA?oc=5",
+      "text": "Verhandlung in Remscheid: Schmiergeld-Prozess: Angeklagter sitzt seit März in Haft  RP Online",
+      "date": "Tue, 24 Nov 2026 16:59:00 GMT",
+      "category": "Remscheid"
     },
     {
       "title": "Drei Supermonde in Folge: Was macht einen Mond super?",
@@ -1304,17 +1304,17 @@
       "category": "Sport"
     },
     {
-      "title": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle - RGA",
-      "uri": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWm9QYjZkZThlcm5jczFvV1JRZlNqV0pUa2xWV1NNS080b1VjY2oyalFKVmNqdGUzUDRxWl84MmNmaDRQbDZkaGlxMjNpVHYxVkhBQkZBWVdMb3lxMlk5MU9TRXNXczNIeG5RTS1SSkZIc29aWG9obmxxeEVfZVhZSDdPdGItbmExRjhObjAxZDRfTEVTTThjbTI2eTZoRjBtd21qSzRjRlc2WDBUQXJZdTMxSzV2XzlzYmtscEtjcHFqR0NSNHU3VEJKaW8tcUxJbUt5atIB8AFBVV95cUxNMXNtUElibXhyR1A3LXdSU2NQT1F4SmhrcktjTFZuVEgtMWpqX1R4M2VncDRNYTR1ZWhJaUdaejJ5cVg4dTBMdzg0TGMtbmFkSlBVTnhtbzJBYS1rYkVvbGVBR1dJUWNEUGNJWmxJVFh4WmU4THlwb1hVRlJGNGVlU3RZRXJvX3Q1VUhLSnNfSWpZc3h0QnJHS1h1SnRCbk81a25NTklHWDF4UE5vTWhjdEcwdmpna1o0ZElhQzZmTUZfcDd3aE9MVkZwZk9lNTRVRHdkMDZ6X2Fxbmllbjh2Q2lxeG9rNEFOeXdIX0dkYVU?oc=5",
-      "text": "Zugverkehr im Raum Remscheid: Beeinträchtigungen, aber keine Ausfälle  RGA",
-      "date": "Fri, 20 Nov 2026 07:11:54 GMT",
-      "category": "Remscheid"
-    },
-    {
       "title": "Polizei durchsucht Gebäude in Remscheid und Solingen - Radio RSG",
       "uri": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObFVmbzdNYm05OWlhcnQ3Ym5WU1JibjljQWdZSm11alVhOXdVeFhJaU9nM0hfa2sxZFhUZE5NenlvRGowY2ZUQ3MwekMyRzlyRC1YYnoyNDlRczRsdWIyUXQxZVlrUkZ0ZHFoQ0t0Xy1FVVphcnBYdkNmcmxpLURyVloxbWRoVU1URUFuaXF0WHRzRVRzTDB1VA?oc=5",
       "text": "Polizei durchsucht Gebäude in Remscheid und Solingen  Radio RSG",
       "date": "Thu, 19 Nov 2026 09:48:00 GMT",
+      "category": "Remscheid"
+    },
+    {
+      "title": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal - Wuppertaler Rundschau",
+      "uri": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTFJoYjJmeDFydnhSWEN0cDRJQndTUnBhbnNvd3cwdFVoY1l0ajNHTTJTQzY5UmVLbUxDUWFFM0JVZ0dlenVLRFZfQ214VXlkem5Fd2t6NV9feTVWM0Q2OEVJNGxEa3c4WHhzd0oyNHBfc2JyVFBTYm95ZmwwaEtDMGx3MFM4TTdYaXdERHVEbTgyb1NpME5BNTVSeTJnYWRudkJPaXVfNkRZS0dWWFdnamlWRGFGMTdNeUdmakhxVTNaUF9xYkR0TA?oc=5",
+      "text": "Abschnitt komplett gesperrt: Frau stirbt bei Unfall auf A1 zwischen Remscheid und Wuppertal  Wuppertaler Rundschau",
+      "date": "Thu, 19 Nov 2026 08:00:00 GMT",
       "category": "Remscheid"
     },
     {
